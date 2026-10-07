@@ -5,7 +5,6 @@
 | Skill | 用途 |
 |---|---|
 | **paper-finder** | 知网检索 + GB/T 7714 引用导出。中英文库都支持，附速查脚本（并行探针、批量勾选、一键导出、清空已选）。 |
-| **cnki-search** | 知网检索、论文详情、参考文献提取。 |
 | **ieee-paper-download** | 从 IEEE Xplore 下载开放获取 / 机构授权论文 PDF（浏览器抓真实 URL + 带 Cookie 重放，绕过 WAF）。 |
 
 ## paper-finder 速用
