@@ -1,0 +1,23 @@
+{
+  "name": "ieee-paper-download",
+  "displayName": "IEEE 论文下载助手 (IEEE Xplore Paper Download)",
+  "description": "Download open-access / CC BY papers from IEEE Xplore via real Chrome session + network capture - bypasses WAF anti-bot protection, auto-retries on rate limit, detects subscription walls",
+  "version": "1.1.0",
+  "author": {
+    "name": "ldt471146"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ieee",
+    "ieee xplore",
+    "论文下载",
+    "academic",
+    "paper",
+    "pdf",
+    "download",
+    "waf",
+    "research",
+    "文献"
+  ],
+  "skills": "./"
+}

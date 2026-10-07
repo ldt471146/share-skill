@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研阅读"
+  short_description: "按证据读懂科研论文、比较方法与结果，并留下可核对的研究笔记"
+  default_prompt: "使用 $research-reading 带我读这篇论文，解释问题、方法与证据，并整理有出处的研究笔记。"

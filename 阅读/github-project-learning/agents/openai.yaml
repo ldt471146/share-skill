@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 项目学习"
+  short_description: "带学 GitHub 教程与项目，连接文档、代码、运行证据和学习笔记"
+  default_prompt: "使用 $github-project-learning 带我学习这个仓库，围绕我的目标解释关键内容，并整理有来源的学习笔记。"

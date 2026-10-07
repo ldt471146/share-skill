@@ -1,0 +1,175 @@
+{
+  "suite": "reading-suite-2.0",
+  "evaluator_count": 2,
+  "publication_redactions": "G03 的本机解释器绝对路径替换为 Python 3.14 executable 占位，工作目录替换为 local-workspace；代码、实测输出及执行状态未改。",
+  "responses": [
+    {
+      "id": "R01",
+      "entry": "research-reading",
+      "loaded_files": [
+        "how-to-read-a-book/references/bundle-evaluation-cases.json",
+        "research-reading/SKILL.md",
+        "research-reading/workflows/read.md",
+        "research-reading/references/method-boundaries.md",
+        "how-to-read-a-book/rules/inspection.md",
+        "how-to-read-a-book/references/note-contract.md",
+        "how-to-read-a-book/rules/notes-and-practice.md"
+      ],
+      "primary_skill": "research-reading",
+      "response": "GraphLite 初筛笔记：版本信息未提供，本次只读了你给的摘要。以下由助手整理，尚未检验你的理解。\n\n作者关注图表示学习的计算成本，提出轻量消息传递方法 GraphLite，并把“共享变换”作为减少计算的办法。摘要没有解释共享发生在哪里、具体如何减少计算，因此目前只能记下这条方法主线。（来源：所给摘要）\n\n作者称方法在“标准基准上达到最先进表现”。摘要没有列出基准名称、评价指标、对照方法或具体数值，这一说法目前属于待核对的作者主张。仅凭摘要，也不能确认方法的新颖性和实际节省了多少计算。（来源：所给摘要；后两句为阅读判断）\n\n复现状态：摘要说“代码计划公开”；本次未查看代码，不能据此确认代码已发布或结果可复现。\n\n下一步值得按这个顺序看：\n\n1. 方法部分及复杂度分析：弄清共享的对象、与原方法的差别，以及减少了哪些计算。\n2. 主要实验与实验设置：核对基准、数据划分、指标、基线和计算资源，再看准确性与时间或计算量是否同时改善。\n3. 消融及局限讨论：查看共享变换的独立作用、可能的性能代价与适用范围；代码公开后再核对实现。\n\n这些是后续核对建议，相关正文、补充材料和代码本次均未查看。若你的研究问题涉及图学习的计算开销，这篇摘要显示出相关性，值得继续看方法和实验；目前还不足以判断它是否优于现有方案。",
+      "observed_issue": null
+    },
+    {
+      "id": "R02",
+      "entry": "how-to-read-a-book",
+      "loaded_files": [
+        "how-to-read-a-book/references/bundle-evaluation-cases.json",
+        "how-to-read-a-book/SKILL.md",
+        "how-to-read-a-book/routing.yaml",
+        "how-to-read-a-book/workflows/research.md",
+        "research-reading/SKILL.md",
+        "research-reading/workflows/read.md",
+        "research-reading/references/method-boundaries.md",
+        "how-to-read-a-book/rules/syntopical.md",
+        "how-to-read-a-book/references/note-contract.md",
+        "how-to-read-a-book/rules/notes-and-practice.md"
+      ],
+      "primary_skill": "research-reading",
+      "response": "B 的 94% 不能证明它比 A 更好。两篇都做数据 X 上的病灶分类，但评价协议不同，无法把这 3 个百分点直接归因于方法优劣。\n\n以下为助手整理的片段对比笔记；仅读 A v1 第 4 节表 2、B v1 第 3 节表 1 的给定内容，其他章节与补充材料尚未取得，用户理解尚未检验。\n\n| 比较项 | A v1，第 4 节表 2 | B v1，第 3 节表 1 |\n|---|---|---|\n| 评价协议 | 官方固定训练／测试划分 | 重新采样后随机五折交叉验证 |\n| 报告结果 | “测试准确率 91%”，单次训练 | “平均准确率 94%”，五折平均 |\n| 官方固定测试集结果 | 给定结果为 91% | 给定片段没有提供该结果 |\n\n我的判断是：两项数值各自描述了对应协议下的表现。重新采样与测试划分的差别使比较条件发生变化；五折平均也不能直接与一次固定划分的结果视为同一种估计。当前材料不足以判断 B 在 A 的官方测试集上是否更好，也不足以判断差异是否超出随机波动。\n\n下一步优先查看两篇的完整评价设置，以及 B 在官方固定划分上的结果是否存在；若要比较方法优劣，还需核对相同条件下的结果及重复训练带来的不确定性。这些材料尚未查看，不能据此断言论文全文没有报告。",
+      "observed_issue": null
+    },
+    {
+      "id": "R03",
+      "entry": "research-reading",
+      "loaded_files": [
+        "how-to-read-a-book/references/bundle-evaluation-cases.json",
+        "research-reading/SKILL.md",
+        "research-reading/workflows/read.md",
+        "research-reading/references/method-boundaries.md",
+        "how-to-read-a-book/rules/analysis.md",
+        "how-to-read-a-book/rules/genres/science.md"
+      ],
+      "primary_skill": "research-reading",
+      "response": "给出的定理不能保证分布漂移下仍收敛。它证明的是：在独立同分布、共同均值为 μ 且方差 σ² 有限的条件下，样本均值 M_n 依概率收敛于 μ。（MeanLimit v2，第 2 节定义 1、定理 1）\n\n证明中的条件具体用在这里：共同均值给出 E(M_n)=μ；独立性消去协方差项，同分布给出共同方差，因此 Var(M_n)=σ²/n。对任意固定 ε>0，切比雪夫不等式给出 P(|M_n−μ|≥ε)≤σ²/(nε²)，右侧随 n 增大趋于 0。这解释了定理怎样在其假设内成立。（第 2 节所给证明；此处补写了期望和方差计算的解释）\n\n如果分布随时间变化，“同分布”这一条件通常就不再满足；均值可能变化，也不能直接沿用 σ²/n 这条方差表达式。因而原证明不能直接覆盖该情形。这并不说明所有分布漂移都会导致不收敛，而是当前片段没有给出漂移条件、相应的收敛目标和证明。\n\n目前能确认的程度是：已静态核对你提供的定义、定理和这段证明，其推理在上述假设下成立。代码方面仅能确认第 5 节声称有 GitHub 示例代码；未取得链接内容、代码或运行记录，尚未完成代码查找、静态实现检查、运行或结果核对，不能记为代码已复现。\n\n本次依据仅限这些片段。要回答特定漂移情形，下一处应查是否有放宽独立同分布条件的定理或讨论；论文其余内容尚未查看，不能断言全文没有这类结果。",
+      "observed_issue": null
+    },
+    {
+      "id": "R04",
+      "entry": "github-project-learning",
+      "loaded_files": [
+        "how-to-read-a-book/references/bundle-evaluation-cases.json",
+        "github-project-learning/SKILL.md",
+        "research-reading/SKILL.md",
+        "research-reading/workflows/read.md",
+        "research-reading/references/method-boundaries.md",
+        "how-to-read-a-book/rules/analysis.md",
+        "how-to-read-a-book/rules/genres/science.md",
+        "github-project-learning/workflows/learn.md",
+        "how-to-read-a-book/references/note-contract.md",
+        "how-to-read-a-book/rules/notes-and-practice.md"
+      ],
+      "primary_skill": "research-reading",
+      "response": "这段 score 实现只计算点积，函数内部没有执行论文公式中的范数归一化。是否有调用方预先完成归一化，给定材料无法确认。\n\n以下研究笔记由助手整理，用户理解尚未检验。已读范围是 VectorMatch v1 第 2 节公式 1，以及合成仓库 teaching/vector-match 的 core.py 第 1–2 行。材料附带的版本标记为 1234567890abcdef1234567890abcdef12345678；这只是合成材料中的定位标记，本次没有核验真实提交。\n\n| 对照项 | 论文依据 | 代码依据 |\n|---|---|---|\n| 计算方式 | 公式 1：s(x,y)=dot(x,y)/(norm(x)*norm(y)) | core.py 第 2 行：sum(a*b for a,b in zip(x,y)) |\n| 归一化 | 用两个范数的乘积作分母 | 函数内没有除法或范数计算 |\n| 输入条件 | 公式规定 x、y 均非零 | 第 1–2 行未检查非零条件 |\n\n按代码静态阅读，zip 把输入逐项配对，乘积求和；等长数值向量因此得到点积。长度不同时，zip 只配对到较短输入结束，当前函数也未检查维数是否一致。（core.py 第 1–2 行）\n\n为了说明差别，我构造一个算例：x=(2,0)、y=(3,0)。按通常的欧氏范数理解公式，点积为 6，两个范数分别为 2 和 3，论文公式得到 1；代码的预期返回值为 6。这是手工推演，没有执行程序，也不是论文报告的实验。\n\n由公式可推得：若传入函数的两个向量都已归一化为单位向量，分母为 1，点积就与公式一致。给定材料没有调用方或预处理，无法确认实际输入是否满足这一条件。因此，当前可以定位到函数内部与公式的计算差别，整条实现是否符合论文仍待核对。\n\n本次完成了所给公式与两行代码的静态对照；没有依赖文件、运行记录或实验结果，不能确认程序已运行，更不能确认论文结果已复现。后续最有用的材料是 score 的调用位置、输入归一化步骤和维数约束，用它们核对公式的前提如何在实现中得到保证。",
+      "observed_issue": null
+    },
+    {
+      "id": "G01",
+      "entry": "github-project-learning",
+      "loaded_files": [
+        "github-project-learning/SKILL.md",
+        "github-project-learning/workflows/learn.md",
+        "how-to-read-a-book/rules/inspection.md",
+        "how-to-read-a-book/rules/analysis.md",
+        "how-to-read-a-book/references/note-contract.md",
+        "how-to-read-a-book/rules/notes-and-practice.md",
+        "how-to-read-a-book/references/bundle-evaluation-cases.json"
+      ],
+      "primary_skill": "github-project-learning",
+      "response": "这份学习笔记由助手根据合成仓库 teaching/greet 的两个文件片段整理。材料标注的合成 commit 为 `234567890abcdef1234567890abcdef123456789`；它只是本次材料的版本标记，未核验为真实仓库提交。阅读范围是 README.md 第 1–2 行、greet.py 第 1–2 行。\n\n按给出的函数定义，调用需要同时提供姓名 `name` 和问候前缀 `prefix`。函数把它们拼成“前缀, 姓名”，然后返回字符串（greet.py 第 1–2 行）。例如，在可以访问该函数的位置调用：\n\n```python\nmessage = greet(name='Lin', prefix='Hello')\nprint(message)  # 静态预期：Hello, Lin\n```\n\n这是我根据实现补写的教学示例，未实际运行。如果把给出的函数放在同目录的 greet.py 中，调用脚本可先写 `from greet import greet`。`return` 把结果交回调用处；示例中的 `print` 负责显示结果。\n\nREADME.md 第 1–2 行写的是 `greet(name)`，例子为 `greet('Lin')`；greet.py 第 1 行则要求两个参数，而且没有给 `prefix` 默认值。因此，直接把 README 的例子用于这一定义，预期会因缺少 `prefix` 而报 `TypeError`。现有材料能确认这处接口差异；没有历史记录，无法确定差异产生的原因。\n\n入门时记住这条关系即可：调用方提供姓名与前缀 → 函数按固定格式拼接 → 调用方取得字符串。若把示例中的 `prefix` 改为 `Hi`，预期结果为 `Hi, Lin`，逗号和后面的空格来自函数内部的字符串格式（greet.py 第 2 行）。\n\n待核对的问题是 README 示例与当前定义的差异；现有片段没有说明是否存在额外的包装接口。以上完成了片段讲解与笔记，输出仍是静态预期，你的独立理解尚未检验。可以先用自己的话说明 `name`、`prefix` 各自决定结果的哪一部分，再尝试写一个向 Mei 问候的调用。",
+      "observed_issue": null
+    },
+    {
+      "id": "G02",
+      "entry": "how-to-read-a-book",
+      "loaded_files": [
+        "how-to-read-a-book/SKILL.md",
+        "how-to-read-a-book/routing.yaml",
+        "how-to-read-a-book/workflows/github.md",
+        "github-project-learning/SKILL.md",
+        "github-project-learning/workflows/learn.md",
+        "how-to-read-a-book/rules/analysis.md",
+        "how-to-read-a-book/references/bundle-evaluation-cases.json"
+      ],
+      "primary_skill": "github-project-learning",
+      "response": "第一节把三个概念放在不同位置：提交保存项目的一次快照，分支指向提交，远程配置记录另一个仓库的地址。以下只依据你提供的 README.md 第 1 节和 setup.sh 两行内容讲解；材料没有提供版本信息。\n\n| 概念 | 本节中的含义 | 用来理解的例子 |\n| --- | --- | --- |\n| 提交 commit | 保存一次项目快照 | C1 表示某一次保存下来的项目状态 |\n| 分支 branch | 指向提交的可移动引用 | main 当前指向 C1，之后可以指向新的提交 |\n| 远程 remote | 记录远端仓库地址 | origin 这个名称对应一个远端仓库地址 |\n\nC1、main、origin 是我为讲解构造的示意名称。它们的关系可以画成：\n\n```text\n本地仓库中的 main（分支） ──指向──> C1（提交／快照）\n本地保存的 origin（远程配置） ──记录地址──> 远端仓库\n```\n\n假设你保存了一个新提交 C2，并让当前分支 main 指向 C2：变化的是分支所指向的提交。origin 仍可记录原来的远端地址，因为“当前分支指向哪个快照”和“另一份仓库位于哪里”是两种关系。仅凭本地分支发生变化，也不能判断远端仓库已经收到这个提交。\n\n第一节末尾的 setup.sh 做的是配置：第一行把全局 Git 用户名设为 `tutorial-user`，第二行把新仓库的默认分支名设为 `tutorial-main`。这两行本身没有创建提交或远端仓库。本次未运行这些配置命令，也未访问示例安装网址。\n\n你可以用一句话试着解释：如果 main 从 C1 改为指向 C2，为什么 origin 保存的地址可以保持相同？这个解释能帮助我们核对你是否区分了“指向项目状态”和“记录仓库地址”。",
+      "observed_issue": null
+    },
+    {
+      "id": "G03",
+      "entry": "github-project-learning",
+      "loaded_files": [
+        "github-project-learning/SKILL.md",
+        "github-project-learning/workflows/learn.md",
+        "how-to-read-a-book/rules/analysis.md",
+        "how-to-read-a-book/references/note-contract.md",
+        "how-to-read-a-book/rules/notes-and-practice.md",
+        "how-to-read-a-book/references/bundle-evaluation-cases.json"
+      ],
+      "primary_skill": "github-project-learning",
+      "response": "你的笔记需要改为：“这个 `normalize` 函数先求所有元素的总和，再用每个元素除以这个总和。”依据是 normalize.py 第 2 行的 `total = sum(xs)` 和第 3 行的 `x / total`。你写的“每项减去平均数”通常叫中心化；本段代码没有计算平均数或执行减法。\n\n以给出的 `[2, 3, 5]` 为例，先得到 `total = 10`，再依次计算 `2 / 10`、`3 / 10`、`5 / 10`。我已在本机使用 Python 3.14.0，通过 `<Python 3.14 executable> -X utf8 -` 从标准输入执行你提供的第 1–4 行，实际输出为：\n\n```text\n[0.2, 0.3, 0.5]\n```\n\n这是我本次执行片段的结果。你此前报告样例跑通，但尚未提供当时的输出；你的笔记显示，对这个函数使用的运算仍有一处具体误解。\n\n修订后的学习笔记（助手整理，仅覆盖这四行代码，版本信息未提供）：\n\n- 输入与转换：接收数列，求和后逐项除以该总和，返回新列表（第 1–3 行）。\n- 此例的含义：把 2、3、5 分别表示为它们在总和 10 中所占的份额，得到 0.2、0.3、0.5（第 4 行及本次实测）。\n- 适用条件：对总和不为零的数列，结果在数学上相加为 1；计算机上的小数计算可能有舍入误差。根据第 3 行静态推断，总和为零的非空数列会在除法处报错；这项边界本次未运行。\n- 待牢记的词义：“归一化”有不同做法，在本片段里应以具体运算为准。尚未提供其他调用方或参数说明，不能由四行代码概括整个项目。\n\n现在做一个我补写的小练习：先不运行，写出 `normalize([1, 1, 2])` 的结果，并用自己的话说明每个数的分母从哪里来。再预测把输入改为 `[2, 2, 4]` 后，结果会怎样变化。请连同理由一起回答；根据你的推演，我们再核对这次是否理解了按总和缩放。",
+      "observed_issue": null,
+      "execution": {
+        "executor": "independent evaluation agent; separate from the user-reported run",
+        "runtime": "Python 3.14.0",
+        "runtime_check_command": "& '<Python 3.14 executable>' --version",
+        "runtime_check_output": "Python 3.14.0",
+        "working_directory": "<local-workspace>",
+        "command": "@'\ndef normalize(xs):\n    total = sum(xs)\n    return [x / total for x in xs]\nprint(normalize([2, 3, 5]))\n'@ | & '<Python 3.14 executable>' -X utf8 -",
+        "input": [
+          2,
+          3,
+          5
+        ],
+        "stdout": "[0.2, 0.3, 0.5]\n",
+        "exit_code": 0,
+        "scope": "Executed only the four provided normalize.py lines via standard input; exercise predictions and zero-total boundary were not executed."
+      }
+    },
+    {
+      "id": "N01",
+      "entry": "how-to-read-a-book",
+      "loaded_files": [
+        "how-to-read-a-book/SKILL.md",
+        "how-to-read-a-book/routing.yaml",
+        "how-to-read-a-book/workflows/notes.md",
+        "how-to-read-a-book/references/note-contract.md",
+        "how-to-read-a-book/rules/notes-and-practice.md",
+        "how-to-read-a-book/workflows/analytical.md",
+        "how-to-read-a-book/rules/analysis.md",
+        "how-to-read-a-book/rules/reading-core.md",
+        "how-to-read-a-book/references/bundle-evaluation-cases.json"
+      ],
+      "primary_skill": "how-to-read-a-book",
+      "response": "《讨论与证据》第 2 章节选读书笔记（修订，助手整理）。依据仅为所提供的 P1–P2 与原笔记；未取得其他章节、版本或页码，也未进一步检验读者的独立理解。\n\n这一节讨论访谈结果能够支持多大范围、哪一种性质的结论。P1 报告：这次访谈涉及 10 位本地志愿者，他们都支持新方案。因此，目前能确认的是这 10 位受访者表达了支持。\n\nP2 明确限制了两步推论：这样的样本不足以推出所有居民都支持；即使有人支持，也不能仅从支持态度推出方案一定有效。总体居民的态度与方案的实际效果，需要分别考察相应证据。\n\n原笔记中的“第 2 章证明所有居民都支持新方案，所以方案有效”已据 P2 修正。它把受访者扩大成了所有居民，又把支持态度当成有效性的根据；两步都超过了节选允许得出的结论。节选也没有据此断言方案无效。\n\n阅读启发：记录调查结果时，需要保留受访对象与样本范围；解释结果时，还要核对证据与结论是否回答同一种问题。这是根据 P1–P2 整理出的阅读理解。\n\n我的疑问：换一种访谈方式会改变回答吗？这一疑问保留。所给 P1–P2 没有比较不同访谈方式，现有材料无法作答；后续若要查明，需要取得提问方式及相应回答的材料。",
+      "observed_issue": null
+    },
+    {
+      "id": "N02",
+      "entry": "how-to-read-a-book",
+      "loaded_files": [
+        "how-to-read-a-book/SKILL.md",
+        "how-to-read-a-book/routing.yaml",
+        "how-to-read-a-book/workflows/notes.md",
+        "how-to-read-a-book/references/note-contract.md",
+        "how-to-read-a-book/rules/notes-and-practice.md",
+        "how-to-read-a-book/workflows/imaginative.md",
+        "how-to-read-a-book/rules/reading-core.md",
+        "how-to-read-a-book/rules/genres/literature.md",
+        "how-to-read-a-book/references/bundle-evaluation-cases.json"
+      ],
+      "primary_skill": "how-to-read-a-book",
+      "response": "《灯》读书笔记：依据所提供的三行全文，由助手整理；版本信息未提供，尚未核对你的个人解读。\n\n全诗从夜色中的路，收拢到窗边的一盏灯，最后落在迟归者的“名字”上。空间逐渐缩小，人与人的联系却逐渐显现。读来有一种由隐没走向被记得、被等候的感受，这是我根据三行之间的推进作出的理解。\n\n第 1 行“夜色把路折进衣袋”，把夜色写成会收起东西的行动者。“折”让伸展的路仿佛缩小、藏起，可以使人联想到黑暗中道路难以辨认，也留下把外部世界暂时收拢的意味。这些是诗句唤起的解释，并非对真实道路消失的陈述。\n\n第 2 行“窗边一盏灯”给视线一个停留处。这一行很短，灯先静静地出现；读到第 3 行“替迟归的人留着名字”，才发现它还承担着等候的意味。“留着名字”使灯光与一个受到记挂的人联系起来；“替”又留下了一个空白：灯在替谁等候？诗没有说明点灯者与迟归者的身份，因此亲情、友谊或更宽泛的归属感，都只能作为可能的联想。\n\n我的阅读感受是，末句的“名字”尤其动人。前面写夜色、路和灯，到这里才触及一个具体的人；“留着”使这份联系显得持续而安静（第 3 行）。诗中的温暖感来自这些字句共同形成的经验，不能据此断定诗人的生平或某一件真实往事。\n\n留待重读的疑问：第 1 行的“衣袋”既有遮藏的感觉，也可能让人想到贴身收存。把这种意味与末句的“留着”连起来读，开头的夜色会不会也带上一点包容感？这是尚可继续体会的读者疑问。",
+      "observed_issue": null
+    }
+  ]
+}

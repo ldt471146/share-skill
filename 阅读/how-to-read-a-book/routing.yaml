@@ -1,0 +1,102 @@
+version: 2
+always_read: []
+selection: 先按材料与核心目的选唯一主流程。专业论文的理解、比较、研究笔记和论文理解核对用 research；学习 Git/GitHub 教程、GitHub 中的技术教程或项目实现及其学习笔记用
+  github；论文加实现的联合分析仍由 research 主导。专业领域选定后，笔记或自检由该领域流程处理。普通书籍任务中，主要核对已有笔记或回答用 understanding，主要创建或更新笔记用
+  notes；限时、选书或初步了解用 inspection；想象文学的理解/欣赏用 imaginative；论说作品单书深读用 analytical；围绕同一问题比较多本书用 syntopical；字句障碍、阅读方法咨询或技巧练习用
+  practice。复合请求由主流程按需加载笔记约定。未提供作品的数学证明读法咨询仍可用 practice 加载 science；专业论文证明任务用 research。只为消遣或获取资讯时按目的提供轻量帮助，不自动升级为完整分析。
+task_routes:
+- id: research
+  labels:
+  - 科研阅读
+  - 论文笔记
+  workflow: workflows/research.md
+  trigger_examples:
+  - 带我读这篇论文
+  - 比较这些论文的证据
+  - 整理论文阅读笔记
+  - 对照论文和代码理解这个方法
+- id: github
+  labels:
+  - GitHub 学习
+  - 项目笔记
+  workflow: workflows/github.md
+  trigger_examples:
+  - 带我学这个 GitHub 项目
+  - 按这个 Git 教程教我
+  - 解释这个仓库的实现并做学习笔记
+- id: notes
+  labels:
+  - 生成笔记
+  - 更新笔记
+  workflow: workflows/notes.md
+  trigger_examples:
+  - 帮我做这本书的读书笔记
+  - 把这一章整理为有出处的笔记
+  - 把新读的内容补入我的笔记
+- id: inspection
+  labels:
+  - 选书
+  - 初步了解
+  workflow: workflows/inspection.md
+  trigger_examples:
+  - 这本书值不值得读
+  - 我只有二十分钟先了解一下
+  - 这本难书第一次该怎么读
+- id: analytical
+  labels:
+  - 单书深读
+  workflow: workflows/analytical.md
+  trigger_examples:
+  - 带我读懂这本论说书
+  - 梳理作者的论证
+  - 判断作者说得有没有道理
+- id: imaginative
+  labels:
+  - 文学阅读
+  workflow: workflows/imaginative.md
+  trigger_examples:
+  - 带我读这部小说
+  - 怎样读这首诗
+  - 帮我理解这部戏剧
+- id: syntopical
+  labels:
+  - 主题阅读
+  workflow: workflows/syntopical.md
+  trigger_examples:
+  - 围绕一个问题比较这些书
+  - 不同作者对这个问题有什么分歧
+- id: understanding
+  labels:
+  - 理解核对
+  workflow: workflows/understanding.md
+  trigger_examples:
+  - 看看我的读书笔记对不对
+  - 检验我是不是读懂了
+  - 检查这份摘要有没有误读
+- id: practice
+  labels:
+  - 方法咨询
+  - 能力练习
+  workflow: workflows/practice.md
+  trigger_examples:
+  - 这句话我读不懂
+  - 帮我练习阅读技巧
+  - 数学证明该怎么读
+  - 不接受实用书目标是否必须行动
+  - 怎么选择提升理解力的书
+genres:
+  practical:
+    when: 论述目标与实现目标的办法，包括操作建议和行动原则
+    rules: rules/genres/practical.md
+  literature:
+    when: 小说、故事、戏剧、诗等想象文学
+    rules: rules/genres/literature.md
+  history:
+    when: 历史、传记与自传
+    rules: rules/genres/history.md
+  science:
+    when: 科学经典、数学和相关通俗作品；专业论文交由 research
+    rules: rules/genres/science.md
+  philosophy:
+    when: 哲学、伦理、形而上学、神学与经书
+    rules: rules/genres/philosophy.md

@@ -1,0 +1,38 @@
+{
+  "bundle_version": "2.0.0",
+  "skills": [
+    "how-to-read-a-book",
+    "research-reading",
+    "github-project-learning"
+  ],
+  "mode": "evidence",
+  "structure": "passed",
+  "rule_count": 125,
+  "expected_rule_count": 125,
+  "quote_count": 482,
+  "route_count": 9,
+  "workflow_count": 11,
+  "entry_body_lines": {
+    "how-to-read-a-book": 29,
+    "research-reading": 12,
+    "github-project-learning": 24
+  },
+  "source_evidence": {
+    "status": "passed",
+    "file": "如何阅读一本书.pdf",
+    "checked_quotes": 482,
+    "checks": [
+      "reviewed-edition SHA-256",
+      "short quote presence"
+    ]
+  },
+  "paragraph_evidence": {
+    "status": "passed",
+    "file": "paragraphs.json",
+    "checked_quotes": 482
+  },
+  "semantic_equivalence": "not proved; requires recorded human/agent review",
+  "automatic_activation_and_behavior": "not tested by this script",
+  "errors": [],
+  "exit_code": 0
+}

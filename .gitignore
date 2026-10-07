@@ -1,0 +1,16 @@
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时/日志
+*.log
+*.tmp
+tmp/
+temp/
+
+# 密钥（绝不提交）
+.env
+*.key
+*.pem
+credentials.json

@@ -1,0 +1,305 @@
+{
+  "epub_sha256": "b0a98b5d7dd5528d072bbfaad1cb11185df6724610d661c329107f02db20b539",
+  "pdf_sha256": "f1721ce8f4213414ac1a5853baae03c1a6879847d932754875ef8f7c1c58f109",
+  "pdf_pages": 424,
+  "chapters": [
+    {
+      "key": "front",
+      "headings": [],
+      "epub": "OEBPS/text00000.html",
+      "paragraphs": 26,
+      "chars": 311,
+      "page_start": 2,
+      "page_end": 3
+    },
+    {
+      "key": "toc",
+      "headings": [],
+      "epub": "OEBPS/text00001.html",
+      "paragraphs": 5,
+      "chars": 485,
+      "page_start": 4,
+      "page_end": 4
+    },
+    {
+      "key": "translator",
+      "headings": [
+        "译 序"
+      ],
+      "epub": "OEBPS/text00002.html",
+      "paragraphs": 20,
+      "chars": 1815,
+      "page_start": 5,
+      "page_end": 8
+    },
+    {
+      "key": "preface",
+      "headings": [
+        "序 言"
+      ],
+      "epub": "OEBPS/text00003.html",
+      "paragraphs": 14,
+      "chars": 2799,
+      "page_start": 9,
+      "page_end": 13
+    },
+    {
+      "key": "ch01",
+      "headings": [
+        "第一篇   阅读的层次",
+        "第一章 阅读的活力与艺术"
+      ],
+      "epub": "OEBPS/text00004.html",
+      "paragraphs": 54,
+      "chars": 7765,
+      "page_start": 14,
+      "page_end": 25
+    },
+    {
+      "key": "ch02",
+      "headings": [
+        "第二章 阅读的层次"
+      ],
+      "epub": "OEBPS/text00005.html",
+      "paragraphs": 23,
+      "chars": 2884,
+      "page_start": 27,
+      "page_end": 31
+    },
+    {
+      "key": "ch03",
+      "headings": [
+        "第三章 阅读的第一个层次：基础阅读"
+      ],
+      "epub": "OEBPS/text00006.html",
+      "paragraphs": 35,
+      "chars": 5815,
+      "page_start": 32,
+      "page_end": 40
+    },
+    {
+      "key": "ch04",
+      "headings": [
+        "第四章 阅读的第二个层次：检视阅读"
+      ],
+      "epub": "OEBPS/text00007.html",
+      "paragraphs": 60,
+      "chars": 8160,
+      "page_start": 41,
+      "page_end": 53
+    },
+    {
+      "key": "ch05",
+      "headings": [
+        "第五章 如何做一个自我要求的读者"
+      ],
+      "epub": "OEBPS/text00008.html",
+      "paragraphs": 55,
+      "chars": 6899,
+      "page_start": 54,
+      "page_end": 64
+    },
+    {
+      "key": "ch06",
+      "headings": [
+        "第二篇    阅读的第三个层次：分析阅读",
+        "第六章 一本书的分类"
+      ],
+      "epub": "OEBPS/text00009.html",
+      "paragraphs": 66,
+      "chars": 10681,
+      "page_start": 66,
+      "page_end": 81
+    },
+    {
+      "key": "ch07",
+      "headings": [
+        "第七章 透视一本书"
+      ],
+      "epub": "OEBPS/text00010.html",
+      "paragraphs": 105,
+      "chars": 13264,
+      "page_start": 83,
+      "page_end": 104
+    },
+    {
+      "key": "ch08",
+      "headings": [
+        "第八章 与作者找出共通的词义"
+      ],
+      "epub": "OEBPS/text00011.html",
+      "paragraphs": 71,
+      "chars": 11402,
+      "page_start": 105,
+      "page_end": 122
+    },
+    {
+      "key": "ch09",
+      "headings": [
+        "第九章 判断作者的主旨"
+      ],
+      "epub": "OEBPS/text00012.html",
+      "paragraphs": 95,
+      "chars": 13715,
+      "page_start": 123,
+      "page_end": 144
+    },
+    {
+      "key": "ch10",
+      "headings": [
+        "第十章 公正地评断一本书"
+      ],
+      "epub": "OEBPS/text00013.html",
+      "paragraphs": 64,
+      "chars": 8581,
+      "page_start": 145,
+      "page_end": 158
+    },
+    {
+      "key": "ch11",
+      "headings": [
+        "第十一章 赞同或反对作者"
+      ],
+      "epub": "OEBPS/text00014.html",
+      "paragraphs": 77,
+      "chars": 8859,
+      "page_start": 159,
+      "page_end": 173
+    },
+    {
+      "key": "ch12",
+      "headings": [
+        "第十二章 辅助阅读"
+      ],
+      "epub": "OEBPS/text00015.html",
+      "paragraphs": 80,
+      "chars": 11737,
+      "page_start": 174,
+      "page_end": 192
+    },
+    {
+      "key": "ch13",
+      "headings": [
+        "第三篇    阅读不同读物的方法",
+        "第十三章 如何阅读实用型的书"
+      ],
+      "epub": "OEBPS/text00016.html",
+      "paragraphs": 47,
+      "chars": 6751,
+      "page_start": 193,
+      "page_end": 203
+    },
+    {
+      "key": "ch14",
+      "headings": [
+        "第十四章 如何阅读想象文学"
+      ],
+      "epub": "OEBPS/text00017.html",
+      "paragraphs": 41,
+      "chars": 6988,
+      "page_start": 204,
+      "page_end": 214
+    },
+    {
+      "key": "ch15",
+      "headings": [
+        "第十五章 阅读故事、戏剧与诗的一些建议"
+      ],
+      "epub": "OEBPS/text00018.html",
+      "paragraphs": 106,
+      "chars": 11735,
+      "page_start": 215,
+      "page_end": 234
+    },
+    {
+      "key": "ch16",
+      "headings": [
+        "第十六章 如何阅读历史书"
+      ],
+      "epub": "OEBPS/text00019.html",
+      "paragraphs": 88,
+      "chars": 13062,
+      "page_start": 235,
+      "page_end": 255
+    },
+    {
+      "key": "ch17",
+      "headings": [
+        "第十七章 如何阅读科学与数学"
+      ],
+      "epub": "OEBPS/text00020.html",
+      "paragraphs": 56,
+      "chars": 8704,
+      "page_start": 256,
+      "page_end": 269
+    },
+    {
+      "key": "ch18",
+      "headings": [
+        "第十八章 如何阅读哲学书"
+      ],
+      "epub": "OEBPS/text00021.html",
+      "paragraphs": 92,
+      "chars": 15529,
+      "page_start": 270,
+      "page_end": 293
+    },
+    {
+      "key": "ch19",
+      "headings": [
+        "第十九章 如何阅读社会科学"
+      ],
+      "epub": "OEBPS/text00022.html",
+      "paragraphs": 38,
+      "chars": 5671,
+      "page_start": 295,
+      "page_end": 303
+    },
+    {
+      "key": "ch20",
+      "headings": [
+        "第四篇    阅读的最终目标",
+        "第二十章 阅读的第四个层次：主题阅读"
+      ],
+      "epub": "OEBPS/text00023.html",
+      "paragraphs": 107,
+      "chars": 16712,
+      "page_start": 305,
+      "page_end": 331
+    },
+    {
+      "key": "ch21",
+      "headings": [
+        "第二十一章 阅读与心智的成长"
+      ],
+      "epub": "OEBPS/text00024.html",
+      "paragraphs": 35,
+      "chars": 5447,
+      "page_start": 332,
+      "page_end": 340
+    },
+    {
+      "key": "appendix1",
+      "headings": [
+        "附录一 建议阅读书目"
+      ],
+      "epub": "OEBPS/text00025.html",
+      "paragraphs": 422,
+      "chars": 7940,
+      "page_start": 341,
+      "page_end": 362
+    },
+    {
+      "key": "appendix2",
+      "headings": [
+        "附录二 四种层次阅读的练习与测验"
+      ],
+      "epub": "OEBPS/text00026.html",
+      "paragraphs": 389,
+      "chars": 37924,
+      "page_start": 363,
+      "page_end": 424
+    }
+  ],
+  "edition_note": "用户提供的中文译本，据 1972 年英文版翻译；PDF 由同一 EPUB 转换。源书不随技能发布。"
+}

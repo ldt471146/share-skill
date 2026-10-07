@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-12",
+  "source_reading": {
+    "chapters": 21,
+    "appendices": 2,
+    "parallel_readers": 4,
+    "source_paragraphs": 2271
+  },
+  "rules": 132,
+  "source_quotes": 510,
+  "semantic_cross_reviews": 3,
+  "integration_review": "passed after preserving conditional rereading",
+  "behavior": {
+    "distinct_cases": 9,
+    "initial_cases": 8,
+    "retest_cases": [
+      "T03",
+      "T06",
+      "T08",
+      "T09"
+    ],
+    "remaining_material_issues": 0,
+    "limitations": "Bounded synthetic reading tasks and method questions; does not certify all future books or reader comprehension."
+  },
+  "structural_check": {
+    "official_quick_validate": "passed",
+    "custom_validate": "passed",
+    "rule_count": 132,
+    "quote_count": 510,
+    "entry_body_lines": 29,
+    "workflow_count": 6,
+    "source_evidence": "passed against reviewed PDF and paragraph corpus",
+    "errors": []
+  }
+}

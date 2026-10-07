@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-12",
+  "suite": "reading-suite-2.0",
+  "evaluators": "Two independent agents, neither authored the module tested; parent read every response",
+  "cases": [
+    {
+      "id": "R01",
+      "result": "passed_within_case_scope",
+      "observation": "只读摘要，保留 SOTA 与计划公开为作者主张，标明正文、实验及代码未查看。"
+    },
+    {
+      "id": "R02",
+      "result": "passed_within_case_scope",
+      "observation": "总入口正确选择科研模块；保留固定划分和五折交叉验证差别，没有直接据 91%/94% 排名。"
+    },
+    {
+      "id": "R03",
+      "result": "passed_within_case_scope",
+      "observation": "把收敛证明限定在独立同分布与有限方差条件内；未声称分布漂移保证或代码已复现。"
+    },
+    {
+      "id": "R04",
+      "result": "passed_within_case_scope",
+      "observation": "GitHub 入口转由科研主导；只读取实现子流程，指出点积/归一化差别并保留预处理未知。"
+    },
+    {
+      "id": "G01",
+      "result": "passed_within_case_scope",
+      "observation": "定位 README 与函数参数差别，教学示例标明助手构造，静态预期没有伪装成实测。"
+    },
+    {
+      "id": "G02",
+      "result": "passed_within_case_scope",
+      "observation": "总入口正确选择 GitHub 教学；解释 Git 概念与安装脚本行为，没有执行全局配置。"
+    },
+    {
+      "id": "G03",
+      "result": "passed_within_case_scope",
+      "observation": "纠正减均值的误读；仅执行给定四行得到 [0.2,0.3,0.5]，与用户此前运行报告分开，并给出理解练习。"
+    },
+    {
+      "id": "N01",
+      "result": "passed_within_case_scope",
+      "observation": "按节选修正总体范围和有效性的两次推论越界，保留用户原疑问，直接交付修订笔记。"
+    },
+    {
+      "id": "N02",
+      "result": "passed_within_case_scope",
+      "observation": "笔记采用文学流程，以三行诗支持意象与体验解释，未编造生平或强加论证模板。"
+    }
+  ],
+  "remaining_material_issues_observed": 0,
+  "limitations": [
+    "Synthetic, bounded materials; no real-paper full review or full-repository learning certification.",
+    "Explicit entry invocation and within-suite routing were exercised; automatic discovery among all installed skills was not measured.",
+    "Except for G03 provided snippet, no external installation, experiment or reproduction was executed.",
+    "These responses do not establish the user has mastered the material."
+  ]
+}

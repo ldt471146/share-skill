@@ -1,0 +1,18 @@
+{
+  "name": "ieee-paper-download",
+  "owner": {
+    "name": "ldt471146"
+  },
+  "metadata": {
+    "description": "Download open-access papers from IEEE Xplore (IEEE 论文 PDF 下载)"
+  },
+  "plugins": [
+    {
+      "name": "ieee-paper-download",
+      "description": "IEEE Xplore 论文下载：开放获取/CC BY 论文一键下载，WAF 反爬绕过，订阅墙识别",
+      "source": "./",
+      "category": "research",
+      "tags": ["ieee", "论文", "文献下载", "academic", "research", "pdf"]
+    }
+  ]
+}

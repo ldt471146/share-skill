@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-12",
+  "kind": "Executed validator fault-injection checks in disposable copies",
+  "limitations": "Checks diagnostic behavior of the structural/source validator, not agent understanding or paraphrase equivalence.",
+  "results": [
+    {
+      "id": "V01_complete_structure",
+      "expected_exit_code": 0,
+      "actual_exit_code": 0,
+      "observed_errors": [],
+      "source_status": "not_run",
+      "passed": true
+    },
+    {
+      "id": "V02_missing_shared_notes",
+      "expected_exit_code": 1,
+      "actual_exit_code": 1,
+      "observed_errors": [
+        "Missing linked file: how-to-read-a-book/INSTALL.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: how-to-read-a-book/references/source-guide.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: how-to-read-a-book/SKILL.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: how-to-read-a-book/workflows/analytical.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: how-to-read-a-book/workflows/imaginative.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: how-to-read-a-book/workflows/inspection.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: how-to-read-a-book/workflows/notes.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: how-to-read-a-book/workflows/syntopical.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: how-to-read-a-book/workflows/understanding.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: research-reading/workflows/read.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: github-project-learning/SKILL.md -> how-to-read-a-book/references/note-contract.md",
+        "Missing linked file: github-project-learning/workflows/learn.md -> how-to-read-a-book/references/note-contract.md"
+      ],
+      "source_status": "not_run",
+      "passed": true
+    },
+    {
+      "id": "V03_missing_sibling",
+      "expected_exit_code": 1,
+      "actual_exit_code": 1,
+      "observed_errors": [
+        "Missing linked file: how-to-read-a-book/references/source-guide.md -> research-reading/references/method-boundaries.md",
+        "Missing linked file: how-to-read-a-book/workflows/research.md -> research-reading/SKILL.md",
+        "Missing required bundle skill directory: <case-root>\\research-reading",
+        "Missing linked file: github-project-learning/SKILL.md -> research-reading/SKILL.md"
+      ],
+      "source_status": "not_run",
+      "passed": true
+    },
+    {
+      "id": "V04_cyclic_handoff",
+      "expected_exit_code": 1,
+      "actual_exit_code": 1,
+      "observed_errors": [
+        "Cross-module workflow call cycle: github-project-learning/workflows/learn.md, research-reading/SKILL.md, research-reading/workflows/read.md"
+      ],
+      "source_status": "not_run",
+      "passed": true
+    },
+    {
+      "id": "V05_false_quote",
+      "expected_exit_code": 1,
+      "actual_exit_code": 1,
+      "observed_errors": [
+        "Paragraph quote mismatch: F01/ch02-p002"
+      ],
+      "source_status": "not_run",
+      "passed": true
+    },
+    {
+      "id": "V06_mode_required",
+      "expected_exit_code": 2,
+      "actual_exit_code": 2,
+      "observed_errors": [
+        "No validation mode selected; 原文未核验。Use --source, --corpus, or explicitly --structure-only."
+      ],
+      "source_status": "not_run",
+      "passed": true
+    },
+    {
+      "id": "V07_retired_rule",
+      "expected_exit_code": 1,
+      "actual_exit_code": 1,
+      "observed_errors": [
+        "Retired rule IDs in active instructions how-to-read-a-book/rules/genres/history.md: G32",
+        "Headings/evidence differ: headings_only=['G32'], evidence_only=[]",
+        "Expected 125 unique source rule headings; found 126"
+      ],
+      "source_status": "not_run",
+      "passed": true
+    }
+  ]
+}

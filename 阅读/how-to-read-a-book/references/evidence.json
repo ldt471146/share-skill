@@ -1,0 +1,4386 @@
+[
+  {
+    "id": "F01",
+    "title": "让阅读目的决定投入",
+    "owner": "rules/reading-core.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch02-p002",
+        "quote": "一位读者要追求的目标——为了消遣，获得资讯或增进理解力——会决定他阅读的方式。",
+        "epub": "OEBPS/text00005.html",
+        "pdf_page": 27,
+        "paragraph_sha256": "c917527fa424cefeddd4b8aaa32f5c293b46e51c1dc4fa85eb313a8cdea017be"
+      },
+      {
+        "paragraph_id": "ch02-p020",
+        "quote": "如果你的目标只是获得资讯或消遣，就完全没有必要用到分析阅读。",
+        "epub": "OEBPS/text00005.html",
+        "pdf_page": 30,
+        "paragraph_sha256": "a0c617e1a41a0a8d849fcd50bb793d239eee8bc3c8fe5884bdf7bfcbdd03345e"
+      }
+    ]
+  },
+  {
+    "id": "F02",
+    "title": "用解释检查理解",
+    "owner": "rules/reading-core.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch01-p039",
+        "quote": "要能被启发，除了知道作者所说的话之外，还要明白他的意思，懂得他为什么会这么说。",
+        "epub": "OEBPS/text00004.html",
+        "pdf_page": 22,
+        "paragraph_sha256": "2e89e197467b37c2dc7bd4596e78ff0140bb78b8aa03a162a98d60612a24e35b"
+      },
+      {
+        "paragraph_id": "ch01-p045",
+        "quote": "老师可能用尽了方法来教学生，学生却必须自己能学习才行。",
+        "epub": "OEBPS/text00004.html",
+        "pdf_page": 23,
+        "paragraph_sha256": "b089ae9e40ba0cf5a59959e90729a737c48bc87949df9b2e495547626a4d3ba4"
+      },
+      {
+        "paragraph_id": "ch01-p038",
+        "quote": "为什么会发生，与其他的事实有什么关联，有什么类似的情况，同类的差异在哪里等等。",
+        "epub": "OEBPS/text00004.html",
+        "pdf_page": 21,
+        "paragraph_sha256": "41d83f77e3564c6cf39e27ab581dc1171f15fb6ef224fea6fa67fc77db8d6438"
+      }
+    ]
+  },
+  {
+    "id": "F03",
+    "title": "区分四层阅读",
+    "owner": "rules/reading-core.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch02-p004",
+        "quote": "第一层次的阅读并没有在第二层次的阅读中消失，第二层又包含在第三层中，第三层又在第四层中。",
+        "epub": "OEBPS/text00005.html",
+        "pdf_page": 27,
+        "paragraph_sha256": "fd354c82ba0d7a536e434a9f6d56ad6158f652aa2ef10495182179f3c4d6abe1"
+      },
+      {
+        "paragraph_id": "ch02-p014",
+        "quote": "这个层次要问的典型问题就是：“这本书在谈什么？”",
+        "epub": "OEBPS/text00005.html",
+        "pdf_page": 29,
+        "paragraph_sha256": "09284b9c43897d056ce11a3f17beda934c79b7b1f4aa5ae2fbc2ebf767324be0"
+      },
+      {
+        "paragraph_id": "ch02-p018",
+        "quote": "分析阅读就是全盘的阅读、完整的阅读，或是说优质的阅读",
+        "epub": "OEBPS/text00005.html",
+        "pdf_page": 30,
+        "paragraph_sha256": "8df59a0151449020a62ed446eb0a9a5646dba625116d8ec3d4ce26d3401fd220"
+      },
+      {
+        "paragraph_id": "ch02-p022",
+        "quote": "主题阅读者要能够架构出一个可能在哪一本书里都没提过的主题分析。",
+        "epub": "OEBPS/text00005.html",
+        "pdf_page": 31,
+        "paragraph_sha256": "a901a100ba6004ebe6095fd195789ba565217980e3599a007df86b192b13210f"
+      }
+    ]
+  },
+  {
+    "id": "F04",
+    "title": "识别基础阅读障碍",
+    "owner": "rules/reading-core.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch02-p008",
+        "quote": "书中写的却是我们不太熟悉的外国文字",
+        "epub": "OEBPS/text00005.html",
+        "pdf_page": 28,
+        "paragraph_sha256": "abcd8439428f9a1e494d8923fe5eacd3d18fa016df64dcc87e6da51a54391d6e"
+      },
+      {
+        "paragraph_id": "ch04-p003",
+        "quote": "虽然不见得要每句每字都读得透彻，但你已经能掌握主要句子与章节的意义了。",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 41,
+        "paragraph_sha256": "918bcab959e217faba5059722bc713df0753b91028ff981a25be935eb34765f7"
+      },
+      {
+        "paragraph_id": "ch03-p021",
+        "quote": "这里所列举的四个阶段，都属于我们在前一章所谈的、第一个层次的阅读。",
+        "epub": "OEBPS/text00006.html",
+        "pdf_page": 37,
+        "paragraph_sha256": "c78e04a658232ea2825de1d7f9e43ae513877c98c3bf7a6dea78b921f4a189ed"
+      }
+    ]
+  },
+  {
+    "id": "F05",
+    "title": "先检视再决定深读",
+    "owner": "rules/inspection.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch04-p010",
+        "quote": "你脑中的目标是要发现这本书值不值得多花时间仔细阅读。",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 42,
+        "paragraph_sha256": "6131f3954122dfebb2d3a72355e539889ea00c4de60f65423e3107d513aa65fc"
+      },
+      {
+        "paragraph_id": "ch04-p057",
+        "quote": "一般来说，就算你想要仔细阅读的书也要先略读一下",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 53,
+        "paragraph_sha256": "c22939d83980dd4868ca55d086092c124f097b4510442e00530dde8eec9edc4a"
+      },
+      {
+        "paragraph_id": "ch05-p039",
+        "quote": "除非你真的再仔细读一遍全书，否则就不该对这本书立论的精确与否、有道理与否遽下结论。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 60,
+        "paragraph_sha256": "c16642f2b7988cf906a924d226ee6006f7d81d891a3eaf580fde11e57a4d1cda"
+      }
+    ]
+  },
+  {
+    "id": "F06",
+    "title": "系统略读的六项动作",
+    "owner": "rules/inspection.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch04-p013",
+        "quote": "先看书名页，然后如果有序就先看序。",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 42,
+        "paragraph_sha256": "882c89808be06c140ff6ab658a420ea029f057d8e8c7c31ebae568eef21966cb"
+      },
+      {
+        "paragraph_id": "ch04-p014",
+        "quote": "研究目录页",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 42,
+        "paragraph_sha256": "53afe236fc22c4760457d00c0815f82cb605a0c936a3518ce2b0810c00fbabbb"
+      },
+      {
+        "paragraph_id": "ch04-p017",
+        "quote": "如果书中附有索引，也要检阅一下",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 43,
+        "paragraph_sha256": "dd1f2ce24d6fe47fbaddef779cd7ae6837298297e0a0ff8074590961f0ba369f"
+      },
+      {
+        "paragraph_id": "ch04-p019",
+        "quote": "如果那是本包着书衣的新书，不妨读一下出版者的介绍",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 44,
+        "paragraph_sha256": "be5faaba99d53c7531dc439fa524562079ea86672a48f5fdf37d9568b78c3f57"
+      },
+      {
+        "paragraph_id": "ch04-p021",
+        "quote": "开始挑几个看来跟主题息息相关的篇章来看",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 44,
+        "paragraph_sha256": "0222bedb4a6d28e07461038a638b453f2e926743a19bfaf6cb43656ff7838b59"
+      },
+      {
+        "paragraph_id": "ch04-p022",
+        "quote": "最重要的是，不要忽略最后的两三页。",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 45,
+        "paragraph_sha256": "7a8224b61161ee58d7b52aaa2c394cbbdcba711ac624b0eee4eaa9e46ffa09cf"
+      },
+      {
+        "paragraph_id": "ch12-p028",
+        "quote": "内在阅读的规则是在阅读一本书之前，你要先看作者的序与前言。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "32c6b568d28148eb5d4ed528a8b8dd845c38bf02d9637d835f2f6993152340e0"
+      },
+      {
+        "paragraph_id": "ch12-p028",
+        "quote": "外在的阅读规则是除非你看完了一本书，否则不要看某个人的导读。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "32c6b568d28148eb5d4ed528a8b8dd845c38bf02d9637d835f2f6993152340e0"
+      },
+      {
+        "paragraph_id": "ch12-p028",
+        "quote": "必须先尽力读完一本书，然后还有些问题在干扰着你时，你才运用这些导读来解答问题。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "32c6b568d28148eb5d4ed528a8b8dd845c38bf02d9637d835f2f6993152340e0"
+      },
+      {
+        "paragraph_id": "ch12-p027",
+        "quote": "就算他们写对了，可能也不完整。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 179,
+        "paragraph_sha256": "11efebbcdd4d1267965c9959a3ff93e55bc82e11e3e55c6849421f902ee9662e"
+      }
+    ]
+  },
+  {
+    "id": "F07",
+    "title": "难书首遍先通读",
+    "owner": "rules/inspection.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch04-p028",
+        "quote": "只要原来就是想写给大众读者看的，那就不该有望之却步的理由。",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 46,
+        "paragraph_sha256": "86ad8d6dbef8271b1654100b43e69bfa600f08769be622d2ac34d2e7f6e5db41"
+      },
+      {
+        "paragraph_id": "ch04-p029",
+        "quote": "头一次面对一本难读的书的时候，从头到尾先读完一遍",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 46,
+        "paragraph_sha256": "0c266eb08c2b77db13a7966b2ac432b0e68118bfa0047c5610cfef99ce8c4b90"
+      },
+      {
+        "paragraph_id": "ch04-p030",
+        "quote": "只注意你能理解的部分，不要为一些没法立即了解的东西而停顿。",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 46,
+        "paragraph_sha256": "d246075374789c84183a0ce57ec91d53c56f43ac7b366127c86602589abc428b"
+      },
+      {
+        "paragraph_id": "ch04-p032",
+        "quote": "但是如果时候不到就做这些事，却只会妨碍我们的阅读，而非帮助。",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 47,
+        "paragraph_sha256": "e4fd18b057afc95647f57f08a5867bf9883802818abf6997272cb7fbd5a0ff44"
+      },
+      {
+        "paragraph_id": "ch12-p051",
+        "quote": "如果一开始阅读你就要查很多生字的话，你一定会跟不上整本书的条理。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 185,
+        "paragraph_sha256": "ccaeb05875662c176fd8ae192332eb2e78522c7dd5304234f8f16e70b7699269"
+      },
+      {
+        "paragraph_id": "ch12-p051",
+        "quote": "字典的基本用途是在你碰到一个专业术语，或完全不认识的字时，才需要使用上。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 185,
+        "paragraph_sha256": "ccaeb05875662c176fd8ae192332eb2e78522c7dd5304234f8f16e70b7699269"
+      },
+      {
+        "paragraph_id": "ch12-p051",
+        "quote": "在你第一次阅读一本好书时，也不要急着使用字典，除非是那个字与作者的主旨有很大的关联，才可以查证一下。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 185,
+        "paragraph_sha256": "ccaeb05875662c176fd8ae192332eb2e78522c7dd5304234f8f16e70b7699269"
+      },
+      {
+        "paragraph_id": "ch12-p052",
+        "quote": "字典是关于字的一本书，而不是关于事的一本书。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 185,
+        "paragraph_sha256": "871dce7d7a7f29812f415e4b84b7e5f8654478472f6ebaa3d2783512cdbfb0a0"
+      }
+    ]
+  },
+  {
+    "id": "F08",
+    "title": "按内容调速",
+    "owner": "rules/reading-core.md",
+    "merged_from": [
+      "S01"
+    ],
+    "evidence": [
+      {
+        "paragraph_id": "ch04-p039",
+        "quote": "应该是依照读物的性质与复杂程度，而让你用不同的速度来阅读。",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 48,
+        "paragraph_sha256": "c195411973314195c418d3c77658121f7ef5db89e0f97d9f32b76b793ca6121c"
+      },
+      {
+        "paragraph_id": "ch04-p041",
+        "quote": "每一本书，不论是多么难读的书，在无关紧要的间隙部分就可以读快一点。",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 49,
+        "paragraph_sha256": "c3904633e8a5942ccceace4efcadf6bb8eb0be3d74faf6692bdc5f576d6b1a0d"
+      },
+      {
+        "paragraph_id": "ch04-p049",
+        "quote": "但是专心并不一定等于理解力",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 51,
+        "paragraph_sha256": "bce24c7dee21c5226ba303c9ef26fa1fc831ef34c6890bc9012949f5f4506c3b"
+      },
+      {
+        "paragraph_id": "preface-p005",
+        "quote": "要达到阅读的所有目的，就必须在阅读不同书籍的时候，运用适当的不同速度。",
+        "epub": "OEBPS/text00003.html",
+        "pdf_page": 9,
+        "paragraph_sha256": "85d4e412e6aad841e2af8060cf31d8ad71bbff93442f7e2922a19978f9be6a57"
+      },
+      {
+        "paragraph_id": "preface-p005",
+        "quote": "我们的目标是要读得更好，永远更好，不过，有时候要读得慢一点，有时候要读得快一点。",
+        "epub": "OEBPS/text00003.html",
+        "pdf_page": 9,
+        "paragraph_sha256": "85d4e412e6aad841e2af8060cf31d8ad71bbff93442f7e2922a19978f9be6a57"
+      },
+      {
+        "paragraph_id": "appendix2-p308",
+        "quote": "现在仔细读这两段文字，你需要多少时间就用多少时间。主题阅读的速度并不重要。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 410,
+        "paragraph_sha256": "2d1bf033405f64445872d4a25668e091780fd1ac0096faf93aa0e0df85873cd7"
+      }
+    ]
+  },
+  {
+    "id": "F09",
+    "title": "带着四个基本问题读",
+    "owner": "rules/reading-core.md",
+    "merged_from": [
+      "S24"
+    ],
+    "evidence": [
+      {
+        "paragraph_id": "ch05-p010",
+        "quote": "整体来说，这本书到底在谈些什么？",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 55,
+        "paragraph_sha256": "4fe728a6be4622d1294f37b36e62a7c99e7d59536ec05fa8869b81b0bccbdffb"
+      },
+      {
+        "paragraph_id": "ch05-p011",
+        "quote": "作者细部说了什么，怎么说的？",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 55,
+        "paragraph_sha256": "64523ddadcebe1ca5ef206d9910654b043a565debc7f79f399b7c64c9c61c80f"
+      },
+      {
+        "paragraph_id": "ch05-p012",
+        "quote": "这本书说得有道理吗？是全部有道理，还是部分有道理？",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 55,
+        "paragraph_sha256": "0ec232b50ff5405c102bf989a182f639feb529ce1e19788aabfe330323517c58"
+      },
+      {
+        "paragraph_id": "ch05-p013",
+        "quote": "这本书跟你有什么关系？",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 56,
+        "paragraph_sha256": "f8809bf9e46c0ad57db9ecbbe94874c18073a6a04857031f859c94735b3d5e2e"
+      },
+      {
+        "paragraph_id": "ch05-p015",
+        "quote": "当然，在想要回答最后一个问题之前，你得先回答前三个问题才行。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 56,
+        "paragraph_sha256": "b48adf4197688466b4adbe42460324b561762f6071aca6599613c923c3010939"
+      },
+      {
+        "paragraph_id": "appendix2-p289",
+        "quote": "（1）整本书在谈些什么？（2）细节是些什么？如何说明的？（3）这本书讲的有没有道理？是整本都有，还是部分有？（4）这本书与我何干？",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 406,
+        "paragraph_sha256": "08e7886a7d28f3be2895e65c455b033c5eadacca48d2b53d9dfd2558fce760a0"
+      },
+      {
+        "paragraph_id": "appendix2-p290",
+        "quote": "你自己能判断自己能不能回答这些问题。对这四个问题，我们在答案栏没有附上解答。答案在书的本身。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 406,
+        "paragraph_sha256": "43377aa0dbda3fcf66edb95a5be38d33df396e9d4049508eb28f18c1743ebe08"
+      },
+      {
+        "paragraph_id": "appendix2-p295",
+        "quote": "一个做分析阅读的人可以用自己的话将主旨说明出来。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 407,
+        "paragraph_sha256": "6c525fa7f6ac4c46dc246aad6e145d364ea99dc4737f0bf57285024cd3dcde46"
+      },
+      {
+        "paragraph_id": "ch21-p003",
+        "quote": "不同种类的书必须怎样以不同的方式回答这些问题。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 332,
+        "paragraph_sha256": "0af6a1c3eaddfb7f730350ec6eed3593dd655641855e19baab2052a23f50e12d"
+      }
+    ]
+  },
+  {
+    "id": "F10",
+    "title": "写下问题与自己的回答",
+    "owner": "rules/reading-core.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch05-p019",
+        "quote": "仅仅提出问题还不够。你还要试着去回答问题。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 57,
+        "paragraph_sha256": "6c2a94851af6ededf1c027669ba6b0daf80bff753985c2464f9a236475f14d45"
+      },
+      {
+        "paragraph_id": "ch05-p022",
+        "quote": "将你的感想写下来，能帮助你记住作者的思想。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 58,
+        "paragraph_sha256": "7f2037875911ae74091a38dd51789fd43321434948796996228c413e50123b48"
+      },
+      {
+        "paragraph_id": "ch05-p023",
+        "quote": "在书上做笔记，其实就是在表达你跟作者之间相异或相同的观点。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 58,
+        "paragraph_sha256": "8a4217e853ce16b7a69696cd9a5364f9da7bb5a0184ca0bed90c33f750c4e9d9"
+      }
+    ]
+  },
+  {
+    "id": "F11",
+    "title": "笔记随阅读层次变化",
+    "owner": "rules/notes-and-practice.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch05-p037",
+        "quote": "第一，这是什么样的一本书？第二，整本书在谈的是什么？第三，作者是借着怎样的整体架构",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 60,
+        "paragraph_sha256": "a09cb5166a7ba9e3c8e4a5dd894c4a1e02cf09980116dd047fc44ae5c5507404"
+      },
+      {
+        "paragraph_id": "ch05-p039",
+        "quote": "在这个层次的阅读里，你做的笔记就不再是跟结构有关，而是跟概念有关了。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 60,
+        "paragraph_sha256": "c16642f2b7988cf906a924d226ee6006f7d81d891a3eaf580fde11e57a4d1cda"
+      },
+      {
+        "paragraph_id": "ch05-p040",
+        "quote": "你在书中空白处所记下的页码不只是本书的页码，也会有其他几本书的页码。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 60,
+        "paragraph_sha256": "a9dd7e73eaed67fa0f53d8057de74d2fd1f82a917a7a513b98ca05f32d6432bc"
+      },
+      {
+        "paragraph_id": "ch05-p041",
+        "quote": "就一个单一主题，把所有相关的陈述和疑问顺序而列。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 61,
+        "paragraph_sha256": "35d144431be90293e83536a1ca0f4b675fee5335b36f0b4328c62e20c6a45f22"
+      }
+    ]
+  },
+  {
+    "id": "F12",
+    "title": "让标记指向重要关系",
+    "owner": "rules/notes-and-practice.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch05-p024",
+        "quote": "以下是几个可以采用的方法",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 58,
+        "paragraph_sha256": "43ad5d3372c20efc966a82307c45d188c84837be4c94b673d54810288997c3bb"
+      },
+      {
+        "paragraph_id": "ch05-p028",
+        "quote": "要慎用，只用来强调书中十来个最重要的声明或段落即可。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 58,
+        "paragraph_sha256": "38e3fdda1a0de9ff04b90386e67390e1594fb3d71294d7401d849f9c1589af61"
+      },
+      {
+        "paragraph_id": "ch05-p029",
+        "quote": "作者的某个论点发展出一连串的重要陈述时，可以做顺序编号。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 59,
+        "paragraph_sha256": "ef9b446c30b198609938c6f1ecf3ce204dfbf34b0729e57f3814f9db732d85d3"
+      },
+      {
+        "paragraph_id": "ch05-p030",
+        "quote": "强调作者在书中其他部分也有过同样的论点，或相关的要点，或是与此处观点不同的地方。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 59,
+        "paragraph_sha256": "a26579d3e9fb92725b32e3d07b00d0e097ae9bab953ba2b71cac6f187db87764"
+      },
+      {
+        "paragraph_id": "ch05-p032",
+        "quote": "你也可以将复杂的论点简化说明在书页的空白处。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 59,
+        "paragraph_sha256": "4b4590dcbf3c6e5db36fa35666935464490c0a2fd99b8c0c066f0d2565ea457c"
+      }
+    ]
+  },
+  {
+    "id": "F14",
+    "title": "通过实际练习整合技巧",
+    "owner": "rules/notes-and-practice.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch05-p044",
+        "quote": "要养成习惯，除了不断地运作练习之外，别无他法。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 61,
+        "paragraph_sha256": "9ee62bbd9325f250680414b910f3c1d421f64db4f3263fc4b372ff31c36707cd"
+      },
+      {
+        "paragraph_id": "ch05-p052",
+        "quote": "除非你对每一个步骤都很熟练之后，你才能将所有不同的步骤连结起来",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 63,
+        "paragraph_sha256": "6ec6ca73605bedd2972fe58c5644154b92a3266d20f363ca5dce4bdea2d9f51f"
+      },
+      {
+        "paragraph_id": "ch05-p055",
+        "quote": "当所有相关动作都能相当自然地做出来时，你就已经养成做这件事的习惯了。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 64,
+        "paragraph_sha256": "ab2649b8c3a86355c2d03beabffcf2652947fccd2f99388378f4c24b09642433"
+      }
+    ]
+  },
+  {
+    "id": "F15",
+    "title": "手指引导作为速度练习",
+    "owner": "rules/speed-exercise.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch04-p045",
+        "quote": "将大拇指与食指、中指合并在一起，用这个“指针”顺着一行一行的字移动下去",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 50,
+        "paragraph_sha256": "0ebb1ade51c029040d3e3b5b4341aa054cc6703a8373e694a5591d8823bb0869"
+      },
+      {
+        "paragraph_id": "ch04-p047",
+        "quote": "没错，你是省下了一些时间，但是理解力（comprehension）呢？",
+        "epub": "OEBPS/text00007.html",
+        "pdf_page": 50,
+        "paragraph_sha256": "32ecd4872480068a99bb54c99a7090d20cf3b5a69d15d10a2ef35e0dd5a9eae0"
+      }
+    ]
+  },
+  {
+    "id": "A01",
+    "title": "规则一：及早辨明书的种类与主题",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch06-p008",
+        "quote": "你一定要知道自己在读的是哪一类书，而且要越早知道越好。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 67,
+        "paragraph_sha256": "a8f89e428e3452c78ae94e8c35f76eab1871742ce352ae609019582a75954c35"
+      },
+      {
+        "paragraph_id": "ch06-p013",
+        "quote": "你读读书名、副标题、目录，然后最少要看看作者的序言、摘要介绍及索引。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 68,
+        "paragraph_sha256": "46f1985ea55ab38074f89b3552722ea385531bc57d777936a7f3e59ab6076c90"
+      },
+      {
+        "paragraph_id": "ch06-p044",
+        "quote": "有时候，从书名或前言等还是无法分辨出一本书的类型时，就很必要从一本书的主要内容来观察。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 76,
+        "paragraph_sha256": "a51fd08525b7a70da26e7ae511a9902bf48536adb622f5004e7f692a5638180d"
+      },
+      {
+        "paragraph_id": "ch06-p047",
+        "quote": "你也会发现一本书有一部分是这一类，另一部分却是别一类",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 77,
+        "paragraph_sha256": "9bff31fc33ebede723ea70024fe088f3e94b03fc899b0dc778ba566f5d4b9649"
+      },
+      {
+        "paragraph_id": "ch06-p043",
+        "quote": "此外也要看看这本书的开头跟结尾，以及主要的内容。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 76,
+        "paragraph_sha256": "318b5a19d73ed7e66faabd600851437f833673850501b6bcf3569a09689d9c3d"
+      }
+    ]
+  },
+  {
+    "id": "A02",
+    "title": "规则二：用极简文字说出全书的整体内容",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch07-p009",
+        "quote": "你必须能用几句话，告诉你自己，或别人，这整本书在说的是什么。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 84,
+        "paragraph_sha256": "45da5449c799d5d8f01fc9e4c3885d299f9aece163b238a4712dd44721364a9b"
+      },
+      {
+        "paragraph_id": "ch07-p007",
+        "quote": "说出整本书在干什么，跟说出这本书是什么类型是不同的",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 83,
+        "paragraph_sha256": "5533c5de015c94c29d38a528fc4620d5efa221a08b2c4bf69302e50d862a0874"
+      },
+      {
+        "paragraph_id": "ch07-p052",
+        "quote": "不论是谁作摘要，还是有一个客观的标准来检验其正确与真实性。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 92,
+        "paragraph_sha256": "3128df7774326cf74721dfb5b6b35d203943d16cac9d3187ebdde897b51f7d1a"
+      },
+      {
+        "paragraph_id": "ch07-p006",
+        "quote": "分析阅读的第二个规则是：使用一个单一的句子，\n或最多几句话（一小段文字）来叙述整本书的\n内容。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 83,
+        "paragraph_sha256": "9b47919e44b71ef0677ee2d9568772f99276d60d22c509fd4776dde4aed9a47d"
+      }
+    ]
+  },
+  {
+    "id": "A03",
+    "title": "规则三：按顺序与关系重建全书大纲",
+    "owner": "rules/analysis.md",
+    "merged_from": [
+      "F13"
+    ],
+    "evidence": [
+      {
+        "paragraph_id": "ch07-p119",
+        "quote": "按照顺序与关系，列出全书的重要部分。将全书的纲要拟出来之后，再将各个部分的纲要也一一列出。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 104,
+        "paragraph_sha256": "a0198a153c4a109760017f4c7b61b56914b4d3815d352b4ee28c9f700fb71ace"
+      },
+      {
+        "paragraph_id": "ch07-p093",
+        "quote": "要求你将书中的重要部分列出纲要，并说明这些部分如何印证、发展出全书的主题",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 99,
+        "paragraph_sha256": "bfd1443a16590d634bf66bd8d285c4b744ff4ae045c280ad37b87da6356de330"
+      },
+      {
+        "paragraph_id": "ch07-p100",
+        "quote": "如果书中某个部分是一个相当独立又复杂的整体，那么就要分辨出这部分的整体性与复杂性，才能读得明白。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 101,
+        "paragraph_sha256": "7131c376c2ce7e6c1298da93421caef4383dc1ad01d9155f32df65e26fef5d74"
+      },
+      {
+        "paragraph_id": "ch05-p033",
+        "quote": "试着将全书的整体架构写出来，列出基本的大纲与前后篇章秩序。",
+        "epub": "OEBPS/text00008.html",
+        "pdf_page": 59,
+        "paragraph_sha256": "ec632cc773e64b59e863621af8c92a069e834ffb5e946808d96fb7b95bd8d2e4"
+      },
+      {
+        "paragraph_id": "ch07-p059",
+        "quote": "你所做的大纲与规则相近的程度，是随你想读的书的特质而变化的。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 93,
+        "paragraph_sha256": "564a80862de0f99a4488aa1a9f288a6e6dcfaade8521e97452c797c2d1b8ecbc"
+      }
+    ]
+  },
+  {
+    "id": "A04",
+    "title": "规则四：确定作者想解决的问题",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch07-p103",
+        "quote": "找出作者要问的问题",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 101,
+        "paragraph_sha256": "5fdcdc5e4f8d96805f68dc1c2565acb20eb4c5362f11fec1e3bde60d853555f4"
+      },
+      {
+        "paragraph_id": "ch07-p104",
+        "quote": "哪一个是主要的，哪个是次要的？哪个问题要先回答，哪些是后来才要回答的？",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 102,
+        "paragraph_sha256": "fd4daf99b1f77a55d2fc04401e9893b286357054932094628bc2c3b9d1c1a35c"
+      },
+      {
+        "paragraph_id": "ch07-p106",
+        "quote": "这种谬误就是你认为自己可以从作者所写的作品中看透他的内心。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 102,
+        "paragraph_sha256": "536bc56069b0e19f1f0054b4b134907d3d098d821ac556ecba2d409879f93555"
+      }
+    ]
+  },
+  {
+    "id": "A05",
+    "title": "规则五：通过关键字与作者取得词义共识",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch08-p011",
+        "quote": "第一个部分是找出重要单字，那些举足轻重的单字。第二部分是确认这些单字在使用时的最精确的意义。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 107,
+        "paragraph_sha256": "9fc3fb67b40c1fe032bef0672148b86b294efc183c299d2bf625545287c111ca"
+      },
+      {
+        "paragraph_id": "ch08-p009",
+        "quote": "你不能在字典中找到词义，虽然那里有制造词义的原料。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 106,
+        "paragraph_sha256": "84554ea99355bd119c083cf8e7f55a6dd06d90dae663fe077571ca5a28f93b29"
+      },
+      {
+        "paragraph_id": "ch08-p010",
+        "quote": "一个优秀的诗人，不时会故意在作品中造成一些模糊。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 107,
+        "paragraph_sha256": "f307567327db0d368c120032477941bd1746948ee08aefa1108114ea12654e02"
+      },
+      {
+        "paragraph_id": "ch11-p011",
+        "quote": "与作者达成了共识之后，才可以决定同意他的论点，或是不同意他的立场。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 161,
+        "paragraph_sha256": "239b0aa9a40baff96d3a70a74762c4e36fbe1310b8633510fb3820d57b4a1f82"
+      }
+    ]
+  },
+  {
+    "id": "A06",
+    "title": "规则六：从关键句中辨认作者的主旨",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch09-p003",
+        "quote": "那是作者在表达他对某件事的判断。他断言某件他认为是真的事，或否定某件他判断是假的事。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 123,
+        "paragraph_sha256": "310aa393500e55c8497e0a0a38f09d393f12215e134c931ae3742b2ac1fc30e7"
+      },
+      {
+        "paragraph_id": "ch09-p031",
+        "quote": "将一本书中最重要的句子圈出来，找出其中的主旨。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 129,
+        "paragraph_sha256": "56d209553ee9bf93737cfbb4700c28ec138e7e704631d126cf08f1ea89ebd684"
+      },
+      {
+        "paragraph_id": "ch09-p029",
+        "quote": "同一个主旨也能用两个或更多不同的句子来说明。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 128,
+        "paragraph_sha256": "059ad53df7f0df63d407c80fd4cd424f6850a51b79a6837092fd1fc04f78c325"
+      },
+      {
+        "paragraph_id": "ch09-p018",
+        "quote": "有时候，一些句子在表达的是疑问。他们提出的是问题，而不是答案。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 126,
+        "paragraph_sha256": "ef71e052d2a96dc99a33d73efeca3db2f3108e504f618cfac1ccb8b286d7ddfc"
+      }
+    ]
+  },
+  {
+    "id": "A07",
+    "title": "规则七：重建支持结论的论述",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch09-p008",
+        "quote": "一个论述总是一套或一连串的叙述，提供某个结论的根据或理由。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 124,
+        "paragraph_sha256": "b8ba6b066cee9006c1756a1476dcfd8c11c9479c5eed7c669a52a9e1f9a10eb6"
+      },
+      {
+        "paragraph_id": "ch09-p067",
+        "quote": "你要从这一段或那一段中挑选句子出来",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 138,
+        "paragraph_sha256": "f39b98f9daf563f5b419f6cbb9c2023637bcce49e95d514de72789dbb74c0156"
+      },
+      {
+        "paragraph_id": "ch09-p065",
+        "quote": "可能等于一个段落，但又有可能等于好几个段落。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 137,
+        "paragraph_sha256": "e8a2bfcd2df4b4f14c9fbeb8a0b7b7157a045e07178b8766c34e18321f2d5156"
+      },
+      {
+        "paragraph_id": "ch09-p008",
+        "quote": "不过这么说也并不表示这个结论就一定真实，因为可能有某个或所有的前提假设都是错的。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 124,
+        "paragraph_sha256": "b8ba6b066cee9006c1756a1476dcfd8c11c9479c5eed7c669a52a9e1f9a10eb6"
+      },
+      {
+        "paragraph_id": "ch09-p074",
+        "quote": "在精细的分析过程中，证实一件事可能就是为了证实另一件事。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 139,
+        "paragraph_sha256": "05a0cfca3f6ea631e7a347023dc3f7d60369ce01782fa287733ddacaf7fdbf43"
+      }
+    ]
+  },
+  {
+    "id": "A08",
+    "title": "规则八：把解答逐一对应回作者的问题",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch09-p091",
+        "quote": "作者想要解决的问题哪些解决了？为了解决问题，他是否又提出了新问题？无论是新问题或旧问题，哪些是他知道自己还没有解决的？",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 143,
+        "paragraph_sha256": "35ea77233d70998fc8a80d8fe54f5d726247956bc4bbd512d6e630a7d018a6e3"
+      },
+      {
+        "paragraph_id": "ch09-p101",
+        "quote": "确定作者已经解决了哪些问题，还有哪些是未解决的。在未解决的问题中，确定哪些是作者认为自己无法解决的问题。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 144,
+        "paragraph_sha256": "bbbcf5e27211cd39e325400fa86976f7eda6d0e5ecfc7f76fa68faf8a41fce8b"
+      }
+    ]
+  },
+  {
+    "id": "A09",
+    "title": "规则九：先理解，再作评论",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch10-p026",
+        "quote": "在你说出“我同意”，“我不同意”，或“我暂缓评论”之前，你一定要能肯定地说：“我了解了。”",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 150,
+        "paragraph_sha256": "a0fb31ae62b5a43480b8945af7225c8a32e1edae26b10c9fdc6514f1bd8f9b95"
+      },
+      {
+        "paragraph_id": "ch11-p002",
+        "quote": "如果他没懂，就应该心平气和地回头重新研究这本书。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 159,
+        "paragraph_sha256": "050acfc9ed8dd342f04b6ac7c8b322dad355d0efbb007b40caff862282c66353"
+      },
+      {
+        "paragraph_id": "ch10-p034",
+        "quote": "如果一本书你只读了一部分，就更难确定自己是不是了解了这本书",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 152,
+        "paragraph_sha256": "b9d6ee09871a569062f78c6fdd80fd4e1eca1e68d97d109d53eaed921bb8727b"
+      },
+      {
+        "paragraph_id": "ch10-p034",
+        "quote": "一本书跟作者其他的书有关，必须看了那本书之后才能完全理解。",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 152,
+        "paragraph_sha256": "b9d6ee09871a569062f78c6fdd80fd4e1eca1e68d97d109d53eaed921bb8727b"
+      }
+    ]
+  },
+  {
+    "id": "A10",
+    "title": "规则十：以求知为目标，不为赢而争论",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch10-p038",
+        "quote": "要理性地表达自己的意见，不要无理地辩驳或争论。",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 153,
+        "paragraph_sha256": "7a45aed5acb67df7d6f908292cc71ca57a502b19982fa11b28e1fcea4e0ba635"
+      },
+      {
+        "paragraph_id": "ch10-p051",
+        "quote": "就像他反对一样，他也要有同意的心理准备。",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 154,
+        "paragraph_sha256": "f9e2251a1b04a08a47990daf41b968096e743aa3b37eac238728e0bc94ae7664"
+      },
+      {
+        "paragraph_id": "ch10-p051",
+        "quote": "不论要同意还是反对，他该顾虑的都只有一点——事实，关于这件事的真理是什么。",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 154,
+        "paragraph_sha256": "f9e2251a1b04a08a47990daf41b968096e743aa3b37eac238728e0bc94ae7664"
+      }
+    ]
+  },
+  {
+    "id": "A11",
+    "title": "规则十一：区分有根据的知识与个人意见",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch10-p064",
+        "quote": "尊重知识与个人观点的不同",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 157,
+        "paragraph_sha256": "0a515547ad653c93c4f72f99cace803a6a0f47ead0880d54ed04e1e2922128ca"
+      },
+      {
+        "paragraph_id": "ch10-p063",
+        "quote": "他必须为自己的观点找出理由来。",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 157,
+        "paragraph_sha256": "75a20f6e4e83f63ba4d095be722d5103f8f031bb0d72795b07860e2ab022b430"
+      },
+      {
+        "paragraph_id": "ch10-p060",
+        "quote": "这个规则要求他先确定这个不同的意见不是出于误解。",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 156,
+        "paragraph_sha256": "e8aa2386ff7d1bd2b57294297fd2dba1711fdc0b3b2960c4013797b0c9672275"
+      },
+      {
+        "paragraph_id": "ch10-p065",
+        "quote": "我们所拥有的知识都是随时可以更正的。",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 157,
+        "paragraph_sha256": "d8f102e52b5512d21c5c2256d812dab5cf0456c9dcf55f1b2cd8018c66783471"
+      },
+      {
+        "paragraph_id": "ch10-p054",
+        "quote": "注意我们说的是“可能达成一致的意见”，而不是说每个有理性的人都会达成一致的意见。",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 154,
+        "paragraph_sha256": "9505d6284b9caa41a21eb033d36940c5d91fb85280c797e208488a9949d65d72"
+      }
+    ]
+  },
+  {
+    "id": "A12",
+    "title": "规则十二：证明作者缺少相关知识",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch11-p025",
+        "quote": "除非这些知识确实相关，否则就没有理由作这样的评论。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 163,
+        "paragraph_sha256": "ba7dd12b26b7ed2d2aea742106d9788577db139ef97337480101011cd8bede87"
+      },
+      {
+        "paragraph_id": "ch11-p025",
+        "quote": "你就要能阐述出作者所缺乏的知识，并告诉他这些知识如何与这个问题有关，如果他拥有这些知识会如何让他下一个不同的结论。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 163,
+        "paragraph_sha256": "ba7dd12b26b7ed2d2aea742106d9788577db139ef97337480101011cd8bede87"
+      }
+    ]
+  },
+  {
+    "id": "A13",
+    "title": "规则十三：证明作者的知识有误",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch11-p028",
+        "quote": "当然，除非这样的缺点影响到作者的结论，否则并没必要指出来。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 164,
+        "paragraph_sha256": "7bb04a5acecb653d6e4c45a588d53a637fffb294bfa49ed45ec69938f22d9a21"
+      },
+      {
+        "paragraph_id": "ch11-p028",
+        "quote": "要作这个评论，你必须要能说明事实，或是能采取比作者更有可能性的相反立场来支持你的论点。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 164,
+        "paragraph_sha256": "7bb04a5acecb653d6e4c45a588d53a637fffb294bfa49ed45ec69938f22d9a21"
+      },
+      {
+        "paragraph_id": "ch11-p029",
+        "quote": "他出了这个错，却不影响他在形上学的论点",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 164,
+        "paragraph_sha256": "2d2828e0e018a09b2a420edfff84987b87733d0eecce483f9f8636769afb24c1"
+      }
+    ]
+  },
+  {
+    "id": "A14",
+    "title": "规则十四：证明推论不连贯或自相矛盾",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch11-p032",
+        "quote": "一种是缺乏连贯，也就是结论冒出来了，却跟前面所说的理论连不起来。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 165,
+        "paragraph_sha256": "e7029fd079101aba584cb4f17a3f7537968f71f4eacf433f62c9bd10765e27ef"
+      },
+      {
+        "paragraph_id": "ch11-p032",
+        "quote": "另一种是事件变化的前后不一致，也就是作者所说的两件事是前后矛盾的。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 165,
+        "paragraph_sha256": "e7029fd079101aba584cb4f17a3f7537968f71f4eacf433f62c9bd10765e27ef"
+      },
+      {
+        "paragraph_id": "ch11-p032",
+        "quote": "只要当主要的结论受到这些荒谬推论的影响时，这个缺点才要特别地提出来。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 165,
+        "paragraph_sha256": "e7029fd079101aba584cb4f17a3f7537968f71f4eacf433f62c9bd10765e27ef"
+      },
+      {
+        "paragraph_id": "ch11-p041",
+        "quote": "这些错误的论述来自推论有毛病的问题，还是因为一些其他的缺点，特别像是相关知识不足等等",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 166,
+        "paragraph_sha256": "9671a3969af6a0ca88c8abcca8bc12dc42d2fc17b9cf29f333794a0e0958e51e"
+      }
+    ]
+  },
+  {
+    "id": "A15",
+    "title": "规则十五：具体检验分析的完整性",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch11-p048",
+        "quote": "他并没有解决他一开始提出来的所有问题，或是他并没有尽可能善用他手边的资料",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 167,
+        "paragraph_sha256": "0145cc502ff1dfe68eb532a561be73ea51da63c86b7f5040e826081298e64614"
+      },
+      {
+        "paragraph_id": "ch11-p048",
+        "quote": "除非读者能精确地指出书中的问题点",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 167,
+        "paragraph_sha256": "0145cc502ff1dfe68eb532a561be73ea51da63c86b7f5040e826081298e64614"
+      },
+      {
+        "paragraph_id": "ch11-p050",
+        "quote": "严格来说，第四点并不能作为不同意一个作者的根据。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 168,
+        "paragraph_sha256": "37166e49cf989ba93e56ae3a723a2fb4a93678485dcfe66efc72a59a93bba994"
+      },
+      {
+        "paragraph_id": "ch11-p050",
+        "quote": "暂缓评论一本书就是表示作者并没有完全解决他提出的问题。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 168,
+        "paragraph_sha256": "37166e49cf989ba93e56ae3a723a2fb4a93678485dcfe66efc72a59a93bba994"
+      }
+    ]
+  },
+  {
+    "id": "A16",
+    "title": "分析阶段可相互促进，但评论须在理解之后",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch07-p110",
+        "quote": "如果在运用之前能先做好检视阅读，会更能帮助你运用这些规则。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 103,
+        "paragraph_sha256": "db3cb5e47819a92453ae6bacf6487f9058bf4f3433d668e93706dcb99c19e370"
+      },
+      {
+        "paragraph_id": "ch07-p112",
+        "quote": "除非你是刚开始练习使用分析阅读，否则你不该将“阶段”一词当作一个前后顺序的概念。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 103,
+        "paragraph_sha256": "830905fe170be0af83b32eb8cb2c412177e94e7dedf5f7ae4fcb804337910e8b"
+      },
+      {
+        "paragraph_id": "ch09-p042",
+        "quote": "虽然我们在说明这些规则时都固定了前后的顺序，但你却不一定要依照这个顺序来阅读。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 131,
+        "paragraph_sha256": "ad34447e25665922bbf1ea716d939d744937433d8dffa72d660947cd77389755"
+      },
+      {
+        "paragraph_id": "ch10-p025",
+        "quote": "但是就下评论来说，即使是阅读专家，也必须跟初学者一样，不等到他完全了解是不能开始的。",
+        "epub": "OEBPS/text00013.html",
+        "pdf_page": 150,
+        "paragraph_sha256": "01497a624ad34946a8d33d5c3f5f790a79d103f8ff32c02d13628bf33445b601"
+      }
+    ]
+  },
+  {
+    "id": "A17",
+    "title": "按求知或指导行动区分理论与实用作品",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch06-p032",
+        "quote": "理论性的作品是在教你这是什么，实用性的作品在教你如何去做你想要做的事，或你认为应该做的事。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 73,
+        "paragraph_sha256": "41818660ab0ad291d10fff9362b070acf44807287bc13087dedd7a3a6f206051"
+      },
+      {
+        "paragraph_id": "ch06-p035",
+        "quote": "不论我们是否同意他的结论，都得认定这是一本实用的书。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 74,
+        "paragraph_sha256": "21bfd30f810c402df48f7a9daac1177799e72fc1b8f076ceb735913e2fa0e7c7"
+      },
+      {
+        "paragraph_id": "ch06-p046",
+        "quote": "我们只不过提供了一些线索，让你能开始分辨。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 77,
+        "paragraph_sha256": "d94b5bd774e1c2d15bda52f2ace75fce275bb2d872c8b9fb36180637cec65dd3"
+      }
+    ]
+  },
+  {
+    "id": "A18",
+    "title": "按对象与证据方法区分理论作品",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch06-p051",
+        "quote": "历史就是在处理一些发生在特定时间，特定地点的真实事件。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 78,
+        "paragraph_sha256": "fbcf21d256fb34f975e9c6b662fea8d82f4efd13e0ab6fa84a043b1abffcb960"
+      },
+      {
+        "paragraph_id": "ch06-p052",
+        "quote": "科学家寻求的是定律或通则。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 78,
+        "paragraph_sha256": "b32546235fca115521d24241ac02bbf2515efe5f0bbcb06fe7134c65a581b92f"
+      },
+      {
+        "paragraph_id": "ch06-p060",
+        "quote": "科学家会从他特殊经验的结果作举证，哲学家却会以人类的共通性作例证。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 80,
+        "paragraph_sha256": "264147ecadfa4d2742304151b46df3b7a8aba5cf19da128d5c246cdaab0c5189"
+      },
+      {
+        "paragraph_id": "ch06-p056",
+        "quote": "这只适用于科学或哲学的书，而不适用于其他类型的书。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 79,
+        "paragraph_sha256": "9a6294b4a6459f4ac5068b2ffe399171460a38670d509eee1ac63da927d7ac5c"
+      },
+      {
+        "paragraph_id": "ch06-p058",
+        "quote": "是科学也是哲学的，虽然基本上仍然以科学为主。",
+        "epub": "OEBPS/text00009.html",
+        "pdf_page": 80,
+        "paragraph_sha256": "668a9a98d308b6ee1497586cda000ed0dee341d5ebcd40892f3dce9bd26c6739"
+      }
+    ]
+  },
+  {
+    "id": "A19",
+    "title": "将作者提供的提纲当作待核实的指引",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch07-p027",
+        "quote": "如果作者提供帮助，不要因为太骄傲而拒绝。但是，也不要完全依赖他在前言中所说的话。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 88,
+        "paragraph_sha256": "56aee9660707d9ad71a81f9b6fde5442aeb4d5fafae842b585695d813b3dc144"
+      },
+      {
+        "paragraph_id": "ch07-p027",
+        "quote": "只有当你读完整本书时，才能诚实地放下这个责任。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 88,
+        "paragraph_sha256": "56aee9660707d9ad71a81f9b6fde5442aeb4d5fafae842b585695d813b3dc144"
+      },
+      {
+        "paragraph_id": "ch07-p090",
+        "quote": "你用不着跟着书上所出现的章节来归纳一本书的架构。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 98,
+        "paragraph_sha256": "26be85d94e358d677c8ddb16cdd6be59f4685bdc62c4d16f6b5abf8d0227fae6"
+      },
+      {
+        "paragraph_id": "ch09-p071",
+        "quote": "你就要回顾一下刚才看的文章，找出他作摘要的句子是什么。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 138,
+        "paragraph_sha256": "37552a7dfda4521d344a40868a999496520c95c13d4b40cc27b4b96f5db6c48e"
+      }
+    ]
+  },
+  {
+    "id": "A20",
+    "title": "按书的价值与性质控制精读和大纲深度",
+    "owner": "rules/analysis.md",
+    "merged_from": [
+      "S17"
+    ],
+    "evidence": [
+      {
+        "paragraph_id": "ch07-p059",
+        "quote": "你所做的大纲与规则相近的程度，是随你想读的书的特质而变化的。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 93,
+        "paragraph_sha256": "564a80862de0f99a4488aa1a9f288a6e6dcfaade8521e97452c797c2d1b8ecbc"
+      },
+      {
+        "paragraph_id": "ch07-p060",
+        "quote": "你的大纲是关于作品本身的纲要，而不是这本书要谈的主题的纲要。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 94,
+        "paragraph_sha256": "8083cf4d30dd06bc28944bec0359d553042cef5b5c0698b80303772599a5a7a8"
+      },
+      {
+        "paragraph_id": "ch07-p057",
+        "quote": "他可能不会全部写出来，在阅读时也不会在口头上说出来。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 93,
+        "paragraph_sha256": "5a316ffa411241cb026621d8bedfd79045282f0788bc1b2fddbeca1597c4f57a"
+      },
+      {
+        "paragraph_id": "ch11-p083",
+        "quote": "许多书都值得精读。但有更多的书只要浏览一下就行了。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 173,
+        "paragraph_sha256": "fa16e9339be2f779da1624591fbf875c2a1a840626c301a6afc8359e6ea20cf9"
+      },
+      {
+        "paragraph_id": "ch21-p010",
+        "quote": "原因是有些书根本用不上这样的阅读。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 333,
+        "paragraph_sha256": "681aa688d23102d3a66cd929190c7b64839ec8407f942c5392f70fc5a14e2b9c"
+      },
+      {
+        "paragraph_id": "ch21-p019",
+        "quote": "事实上，你根本用不着对这些书做分析阅读。扫描一下便够了。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 336,
+        "paragraph_sha256": "3149859ebc8a13dbdf5363d116c09fa117f6cc72e1eb512c3a08d7333cd6059a"
+      },
+      {
+        "paragraph_id": "ch21-p020",
+        "quote": "如果你的技巧很熟练了，好好地阅读过一次，你就能获得所有要获得的主要概念了。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 336,
+        "paragraph_sha256": "b239a314ee7ce1ac13c2d310fafdbc8f8795eba0a1be89c79a16e68a41265acd"
+      },
+      {
+        "paragraph_id": "ch21-p020",
+        "quote": "你可能要常常翻阅，找出一些特定的重点，或是重新复习一下一些想法或片段。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 336,
+        "paragraph_sha256": "b239a314ee7ce1ac13c2d310fafdbc8f8795eba0a1be89c79a16e68a41265acd"
+      }
+    ]
+  },
+  {
+    "id": "A21",
+    "title": "用困难点、作者强调与领域线索寻找关键字",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch08-p026",
+        "quote": "如果你把觉得有困扰的字圈出来，很可能就找出了作者有特定用法的那些字了。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 111,
+        "paragraph_sha256": "7e56ed060e9122286cdcd1ec4569a2659ef3860205b4a00593d44cbfbbfdc32a"
+      },
+      {
+        "paragraph_id": "ch08-p031",
+        "quote": "他也会明白地讨论这些字眼不同的意义，并指出他是如何在书中使用这些不同的字义",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 112,
+        "paragraph_sha256": "321b759106638032fd8337c0980f015e34066d9684eca79ec13686573529c9e8"
+      },
+      {
+        "paragraph_id": "ch08-p038",
+        "quote": "作者与其他作者争执的某个用语就是重要的字。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 114,
+        "paragraph_sha256": "372ff939a63b469f6ea77bd192fec1999c9f17a99323c724333aa1e122cafd82"
+      },
+      {
+        "paragraph_id": "ch08-p028",
+        "quote": "只有那些还未达成共识的地方，还需要你的努力。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 112,
+        "paragraph_sha256": "5aea8d6fb0fbeeb96a3631e495df8ef16d6dc0336a92d14badb799829437df11"
+      },
+      {
+        "paragraph_id": "ch08-p037",
+        "quote": "他会以为自己懂得这个字义，而把它当作是日常用语。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 114,
+        "paragraph_sha256": "dc01775d6b25a44877ce3046f7801d422bfef56df0c4aeae24485928bb1aa493"
+      },
+      {
+        "paragraph_id": "ch08-p034",
+        "quote": "如果你知道这是什么种类的书，整本书在谈的主题是什么，有哪些重要的部分，将大大帮助你把专门用语从一般用语中区分出来。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 113,
+        "paragraph_sha256": "848eb6e8318a4aeada196108163bbeb2562b99dde609edd9fc6e0afa036aad74"
+      },
+      {
+        "paragraph_id": "ch08-p024",
+        "quote": "阅读一些过去人所写的书，要找出作者在当时时空背景下照大多数人习惯而使用的那些字眼的意思，就可能困难许多了。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 110,
+        "paragraph_sha256": "b06570a1da4be7d395a1ef75c399a3b14ce72e6aa315a5919bebe3f342fce4bc"
+      }
+    ]
+  },
+  {
+    "id": "A22",
+    "title": "追踪多义、同义与语境变化",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch08-p047",
+        "quote": "你一定要利用上下文自己已经了解的所有字句，来推敲出你所不了解的那个字的意义。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 116,
+        "paragraph_sha256": "d7cb8222db07517615bc971bb8ead9545be6095bfcc386cae022fe138ca1f7b7"
+      },
+      {
+        "paragraph_id": "ch08-p046",
+        "quote": "首先，要判断这个字是有一个还是多重意义。如果有多重意义，要看这些意义之间的关系如何。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 116,
+        "paragraph_sha256": "d76cb8cca0880c9c92913a48ca55e6bdadc50a2d43b140b99fe73530a5c7fab5"
+      },
+      {
+        "paragraph_id": "ch08-p063",
+        "quote": "一种是单一个字可能与好几个词义有关，而一个词义也可能与好几个字有关。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 120,
+        "paragraph_sha256": "cbb6fba1dd13d1c03c92bfb4edb972289e3e04d8e2b01d89b237d1373c5c309c"
+      },
+      {
+        "paragraph_id": "ch08-p065",
+        "quote": "一个词义，可以只用一个字，也可以用一个片语来表达。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 120,
+        "paragraph_sha256": "16692633c34006cc6bd4292f15ccb9908503fc7068e294882a9291dca109772a"
+      },
+      {
+        "paragraph_id": "ch08-p054",
+        "quote": "但后来才发现另外一个字更适合，因而不得不整体重作一次调整。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 118,
+        "paragraph_sha256": "deb21a7e299585b6d9e0bd114a17d6d5c2fc8386f65dce976421b00e9f9ada1e"
+      },
+      {
+        "paragraph_id": "ch08-p057",
+        "quote": "所谓用字模糊不清，是使用这个字的多重意义时，没有区别或指出其中相关的意义。",
+        "epub": "OEBPS/text00011.html",
+        "pdf_page": 119,
+        "paragraph_sha256": "92662b7c1862b649daa276a3ffb7b36732870e855ad6bfa5f2f35b1a21321cc3"
+      }
+    ]
+  },
+  {
+    "id": "A23",
+    "title": "在困难而关键的判断处放慢",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch09-p036",
+        "quote": "并不是说你就可以忽略其他的句子。当然，你应该要了解每一个句子。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 129,
+        "paragraph_sha256": "2a78088feba063b8d3f4abbfc630675437fca9966e61b5b9f0812db8560ce1c1"
+      },
+      {
+        "paragraph_id": "ch09-p036",
+        "quote": "这些句子你会读得比较慢也更仔细一点。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 129,
+        "paragraph_sha256": "2a78088feba063b8d3f4abbfc630675437fca9966e61b5b9f0812db8560ce1c1"
+      },
+      {
+        "paragraph_id": "ch09-p043",
+        "quote": "这些主旨一定在一本书最主要的论述中——不是前提就是结论。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 132,
+        "paragraph_sha256": "f2b67a6ce5003b20c8f908404724a78b57ca2d763c014d43b5a7cd5b34cdb342"
+      },
+      {
+        "paragraph_id": "ch09-p050",
+        "quote": "你也要借助前后相关的句子来了解那个问题句。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 133,
+        "paragraph_sha256": "b04766868b88f8ac95ba2202ee4aab6a23ecf70b754e9734eeda2eeebdffb1f8"
+      }
+    ]
+  },
+  {
+    "id": "A24",
+    "title": "用自己的话检验是否掌握主旨",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch09-p052",
+        "quote": "“用你自己的话来说”，是测验你懂不懂一个句子的主旨的最佳方法。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 134,
+        "paragraph_sha256": "22148fbedfd7ba632f1095642369604b0801f2b1447ed7fdcc6e78fb62c5a436"
+      },
+      {
+        "paragraph_id": "ch09-p051",
+        "quote": "用你自己的话将其中的主旨写出来。列出号码，找出其间的相关性。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 134,
+        "paragraph_sha256": "3cc0df952ff3236b1c6c3dbfd512ffd530d7e45e6bdecedac1eaf8d0d414c116"
+      },
+      {
+        "paragraph_id": "ch09-p053",
+        "quote": "就算你能很精确地用英文复述一遍，你还是可能不清楚法文句子中要说明的是什么。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 134,
+        "paragraph_sha256": "ce8c8062c5082e56e8f9858bb98c18bcb01ce5db2f673d0eb6e6aded39a500d1"
+      }
+    ]
+  },
+  {
+    "id": "A25",
+    "title": "用相关实例检验思想是否超出文字",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch09-p058",
+        "quote": "虚构一个例子，跟引述一个真实的例子都行。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 135,
+        "paragraph_sha256": "e9b96cb290e0dd5e8630e1a352a96cfbe16fdba253d582e42085422b93aebf85"
+      },
+      {
+        "paragraph_id": "ch09-p059",
+        "quote": "并不是所有的主旨都适用这样的测验方法。有些需要特殊的经验",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 136,
+        "paragraph_sha256": "bd585184fed09491de2fb168f464f074057d8eec021f710d9bd0a10f2a70f2a3"
+      },
+      {
+        "paragraph_id": "ch12-p013",
+        "quote": "如果可以，你就大致了解了他的重点。否则你该重新回到原点，再读一次他的论点。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 177,
+        "paragraph_sha256": "baac40cbca935fca9d254912bff468acd367d275820c020bb5103fbbc7bb5176"
+      }
+    ]
+  },
+  {
+    "id": "A26",
+    "title": "把论证的起点、路径和省略步骤弄清楚",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch09-p078",
+        "quote": "如果你先找到结论，就去看看理由是什么。如果你先看到理由，就找找看这些理由带引你到什么样的结论上。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 140,
+        "paragraph_sha256": "4882e893d274f73278e6ecd78b91dcc94db1be94c2508bf56b3203bfe60a7d8d"
+      },
+      {
+        "paragraph_id": "ch09-p079",
+        "quote": "一种是以一个或多个特殊的事实证明某种共通的概念，另一种是以连串的通则来证明更进一步的共通概念。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 140,
+        "paragraph_sha256": "2038c157aa0458e604de4d949a61021248471d8a8d3b806a89a0fdc7837fe7fd"
+      },
+      {
+        "paragraph_id": "ch09-p081",
+        "quote": "如果每一个主旨都要被证实过，那就没有办法开始证实了。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 140,
+        "paragraph_sha256": "a58bcc37d1bd77900fc81cf6635057ab273a3c42a915a2c912d697b535e1c766"
+      },
+      {
+        "paragraph_id": "ch09-p082",
+        "quote": "一种是作者与读者都同意的假设，一种是不论作者或读者都无法否认的自明之理。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 141,
+        "paragraph_sha256": "cab51878790a98be5475e8cd9b047cce9531abd37ec51d51082d65d804cbd89e"
+      },
+      {
+        "paragraph_id": "ch09-p073",
+        "quote": "最好的法则还是将每个论述的步骤都说明得一清二楚。",
+        "epub": "OEBPS/text00012.html",
+        "pdf_page": 139,
+        "paragraph_sha256": "fe2ad10b84f39a32c4d7cf0d35ac145575af3b4184c9394a476a75460442dfa7"
+      }
+    ]
+  },
+  {
+    "id": "A27",
+    "title": "分清尚未读懂与书本无法理解",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch11-p003",
+        "quote": "如果问题出在书本，而不是读者自己，他就必须找出问题点。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 159,
+        "paragraph_sha256": "8bf916239ec97b67f18f5bbce2460e3b2de9d30bc084e85aa7f23d6d652b2e71"
+      },
+      {
+        "paragraph_id": "ch11-p003",
+        "quote": "他可以发现这本书的架构混乱，每个部分都四分五裂，各不相干，或是作者谈到重要的字眼时模棱两可",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 159,
+        "paragraph_sha256": "8bf916239ec97b67f18f5bbce2460e3b2de9d30bc084e85aa7f23d6d652b2e71"
+      },
+      {
+        "paragraph_id": "ch07-p099",
+        "quote": "不过你不该太快下这样的结论，或许错误出在你身上，而不是书的本身。",
+        "epub": "OEBPS/text00010.html",
+        "pdf_page": 100,
+        "paragraph_sha256": "7b1ee380a74ab7f4613d2210d665bf343e8e49459e578ce31d680f5d1ad9dfec"
+      },
+      {
+        "paragraph_id": "ch11-p003",
+        "quote": "读者可以说这本书是没法理解的，他也没有义务来作评论。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 159,
+        "paragraph_sha256": "8bf916239ec97b67f18f5bbce2460e3b2de9d30bc084e85aa7f23d6d652b2e71"
+      }
+    ]
+  },
+  {
+    "id": "A28",
+    "title": "批评时检查情绪、前提与对方立场",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch11-p014",
+        "quote": "在争辩时就要注意你会带进去的情绪，或是在当场引发的脾气。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 161,
+        "paragraph_sha256": "ab030cd5e8d2842ee6a97d68158d9a3b334e7d65d0a137cddac4fba729e55cf5"
+      },
+      {
+        "paragraph_id": "ch11-p015",
+        "quote": "你要把自己的前提或假设摊出来。你要知道你的偏见是什么——这也是你的预先评断。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 161,
+        "paragraph_sha256": "2642b111a5872fe2f7673d37008122ad9f0d34a2a9c55d0eab1bed6c64cb0f5d"
+      },
+      {
+        "paragraph_id": "ch11-p015",
+        "quote": "你就不该因为也可以接受相反的前提假设就不听他的请求。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 161,
+        "paragraph_sha256": "2642b111a5872fe2f7673d37008122ad9f0d34a2a9c55d0eab1bed6c64cb0f5d"
+      },
+      {
+        "paragraph_id": "ch11-p016",
+        "quote": "每个参与辩论的人至少都该从对方的立场来着想。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 161,
+        "paragraph_sha256": "3386961efc0be3dc555e995011265f173f8420718b7111f6323301d2db56ff32"
+      }
+    ]
+  },
+  {
+    "id": "A29",
+    "title": "不要用不喜欢冒充有根据的不同意",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch11-p045",
+        "quote": "你不能像很多学生或其他人说的：“你的前提都没有错，推论也没问题，但我就是不同意你的结论。”",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 167,
+        "paragraph_sha256": "3de01be83be17fe35f54a7f28e1fb4484bd940afd10146eba57082364aff162b"
+      },
+      {
+        "paragraph_id": "ch11-p045",
+        "quote": "这时候你唯一能说的可能只是你“不喜欢”这个结论。你并不是在反对。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 167,
+        "paragraph_sha256": "3de01be83be17fe35f54a7f28e1fb4484bd940afd10146eba57082364aff162b"
+      },
+      {
+        "paragraph_id": "ch11-p045",
+        "quote": "如果你无法提出证据来支持前三项批评点，但仍然觉得没有被作者说服，可能在一开始时你就不该说你已经读懂了这本书。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 167,
+        "paragraph_sha256": "3de01be83be17fe35f54a7f28e1fb4484bd940afd10146eba57082364aff162b"
+      },
+      {
+        "paragraph_id": "ch11-p075",
+        "quote": "你只能因为最后一点理由，对这本书暂缓评论。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 170,
+        "paragraph_sha256": "eaec5918a9e90722b46cb831ada9362bc6be7d33af76b3cc099cfd4592186627"
+      }
+    ]
+  },
+  {
+    "id": "A30",
+    "title": "真实性之后继续追问意义",
+    "owner": "rules/analysis.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch11-p078",
+        "quote": "除非你能判断作者所提出的事实的意义，或者应该具备的意义，否则称不上有头脑的阅读。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 171,
+        "paragraph_sha256": "032a51c19a581de5bfbd95a6c35b38dea3ffc8ccf60a677b59a5e157eaf32d84"
+      },
+      {
+        "paragraph_id": "ch11-p078",
+        "quote": "作者所提出的事实，很少没经过有意无意的诠释。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 171,
+        "paragraph_sha256": "032a51c19a581de5bfbd95a6c35b38dea3ffc8ccf60a677b59a5e157eaf32d84"
+      },
+      {
+        "paragraph_id": "ch11-p079",
+        "quote": "即使你被自己阅读的东西所启发了，你也还要继续往前探索其中的意义。",
+        "epub": "OEBPS/text00014.html",
+        "pdf_page": 172,
+        "paragraph_sha256": "f687f9a5f334b3f021a45e54dfb108c90d1e5b67913eaad17794c3cf7a72142d"
+      }
+    ]
+  },
+  {
+    "id": "A31",
+    "title": "先尽力内在阅读，再按困难寻求外援",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p006",
+        "quote": "你依照内在阅读的规则尽力将一本书读完之后，却还是有一部分不懂或全部都不懂时，就应该要找外在的帮助了。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 175,
+        "paragraph_sha256": "cc5c39e9149fa41903b2831c2d8644c9ebfe58ddb9ab5f541c86d981c1c093b6"
+      },
+      {
+        "paragraph_id": "ch12-p003",
+        "quote": "我们不应该，也不可能完全孤立地阅读一本书。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 174,
+        "paragraph_sha256": "d94b8e77ba5fb6ffff88d57e0dfb9fc45d4d0b77eeee85cb9dab6dd1c26120a5"
+      },
+      {
+        "paragraph_id": "ch12-p002",
+        "quote": "有时候还非要借助外在阅读，才能完全理解一本书呢!",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 174,
+        "paragraph_sha256": "6eb4964fcf5f30672a3fce9e61396265915f9708f5df934de92cfc0bb72ecd85"
+      }
+    ]
+  },
+  {
+    "id": "A32",
+    "title": "选择与作品匹配的经验帮助理解",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p009",
+        "quote": "一般的经验并不一定要每个人都有才叫一般。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 176,
+        "paragraph_sha256": "53fdd0226d1bac98666fefabf82a9b4dd89941d69ac6ad78c20d1e58a248628c"
+      },
+      {
+        "paragraph_id": "ch12-p010",
+        "quote": "一般经验在一方面与阅读小说有关，另一方面与阅读哲学书籍有关。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 176,
+        "paragraph_sha256": "c8dedd04924d6cd16e21942739184c91b5bc386a1a75166aa37fa5406aab0a3b"
+      },
+      {
+        "paragraph_id": "ch12-p011",
+        "quote": "你就必须了解科学家所作的实验报告与证明。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 176,
+        "paragraph_sha256": "2d8d34ac56d79f7716d57fbeda5a871b0ef40bbb10e7b45da1f4d0efd4bb6de4"
+      },
+      {
+        "paragraph_id": "ch12-p011",
+        "quote": "有时说明图表会帮助你了解这些像是奇迹般的描述。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 176,
+        "paragraph_sha256": "2d8d34ac56d79f7716d57fbeda5a871b0ef40bbb10e7b45da1f4d0efd4bb6de4"
+      },
+      {
+        "paragraph_id": "ch12-p012",
+        "quote": "阅读历史作品，同时与一般经验及特殊经验都有关。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 177,
+        "paragraph_sha256": "abe79201056ba442e7112ef7ec16057b3b07f3316f57792f1a1ed535f84d7da2"
+      },
+      {
+        "paragraph_id": "ch12-p013",
+        "quote": "在你觉得自己了解了的某一点上，能不能举出一个实例来？",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 177,
+        "paragraph_sha256": "baac40cbca935fca9d254912bff468acd367d275820c020bb5103fbbc7bb5176"
+      }
+    ]
+  },
+  {
+    "id": "A33",
+    "title": "用相关著作恢复对话脉络",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p017",
+        "quote": "阅读彼此相关的书籍，依照写作的时间顺序来读，对你了解最后写的作品有很大帮助。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 178,
+        "paragraph_sha256": "22046ec2449ac1d1d889bf03f08981fd21dd6865eebfa91b4ce9dfbb9451edc3"
+      },
+      {
+        "paragraph_id": "ch12-p019",
+        "quote": "想要了解他们，不妨读一读他们在读的书。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 178,
+        "paragraph_sha256": "44a1b1b1e596672a5b8403db569e329087180c71f83e4cccb3dc3b5dc7d26a8c"
+      },
+      {
+        "paragraph_id": "ch12-p020",
+        "quote": "阅读的顺序可以是从现代到过去，也可以从过去到现代。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 178,
+        "paragraph_sha256": "3eec74f033786d125d092da1eac1d765473cea9bd60c2ebac8102c2a5bb965c2"
+      },
+      {
+        "paragraph_id": "ch12-p021",
+        "quote": "在小说与戏剧中，这就比较不重要了。如果真是好作品，可以单独阅读。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 179,
+        "paragraph_sha256": "adb993af49eb658211a4701579e04cce4f50b1e7d98af99c851017c6cede6ee0"
+      }
+    ]
+  },
+  {
+    "id": "A34",
+    "title": "他人导读在尽力读完原书后使用",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p028",
+        "quote": "内在阅读的规则是在阅读一本书之前，你要先看作者的序与前言。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "32c6b568d28148eb5d4ed528a8b8dd845c38bf02d9637d835f2f6993152340e0"
+      },
+      {
+        "paragraph_id": "ch12-p028",
+        "quote": "外在的阅读规则是除非你看完了一本书，否则不要看某个人的导读。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "32c6b568d28148eb5d4ed528a8b8dd845c38bf02d9637d835f2f6993152340e0"
+      },
+      {
+        "paragraph_id": "ch12-p028",
+        "quote": "必须先尽力读完一本书，然后还有些问题在干扰着你时，你才运用这些导读来解答问题。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "32c6b568d28148eb5d4ed528a8b8dd845c38bf02d9637d835f2f6993152340e0"
+      },
+      {
+        "paragraph_id": "ch12-p027",
+        "quote": "就算他们写对了，可能也不完整。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 179,
+        "paragraph_sha256": "11efebbcdd4d1267965c9959a3ff93e55bc82e11e3e55c6849421f902ee9662e"
+      }
+    ]
+  },
+  {
+    "id": "A35",
+    "title": "帮助读原著时使用外部摘要",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p032",
+        "quote": "第一，如果你已经读过一本书，这些摘要能唤醒你的记忆。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "75b59659b01fe1e51d333b22cdbaf4acb9a66f309b1b4362e959fed7a49c3b71"
+      },
+      {
+        "paragraph_id": "ch12-p032",
+        "quote": "理想上，在分析阅读时，你就该自己作这样的摘要。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "75b59659b01fe1e51d333b22cdbaf4acb9a66f309b1b4362e959fed7a49c3b71"
+      },
+      {
+        "paragraph_id": "ch12-p032",
+        "quote": "第二，在主题阅读时，摘要的用处很大，你可以因此知道某些特定的议题是与你的主题密切相关的。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "75b59659b01fe1e51d333b22cdbaf4acb9a66f309b1b4362e959fed7a49c3b71"
+      },
+      {
+        "paragraph_id": "ch12-p032",
+        "quote": "摘要绝不能代替真正的阅读，但有时却能告诉你，你想不想或需不需要读这本书。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 180,
+        "paragraph_sha256": "75b59659b01fe1e51d333b22cdbaf4acb9a66f309b1b4362e959fed7a49c3b71"
+      }
+    ]
+  },
+  {
+    "id": "A36",
+    "title": "带着可回答的问题使用工具书",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p036",
+        "quote": "你一定要能对工具书问一个明智的问题。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 181,
+        "paragraph_sha256": "3f64dc35ed3da4fd9c0fea250e53372e774ac8f389dff687530bb71a6e8e70a8"
+      },
+      {
+        "paragraph_id": "ch12-p037",
+        "quote": "你要知道自己问的是哪一类的问题，而哪一类的工具书是回答这类问题的。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 181,
+        "paragraph_sha256": "dd43838e819b453fcb8442c9d74592411f8ccc64af9d405063773bb2249812ea"
+      },
+      {
+        "paragraph_id": "ch12-p038",
+        "quote": "在阅读工具书时也一样，要看完编辑说明如何使用这本书之后，才开始阅读内容。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 182,
+        "paragraph_sha256": "7e2c3be033b52b9131d5f2b3bd7e746ff4f58f082d252046b6bffee456e52047"
+      },
+      {
+        "paragraph_id": "ch12-p041",
+        "quote": "还要能确定该书的编者或作者知道哪个答案。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 183,
+        "paragraph_sha256": "24582a87a8895c1b92b8107b52bfda12162c0d46b0e8864fb2bcff7b0e096ac9"
+      },
+      {
+        "paragraph_id": "ch12-p040",
+        "quote": "一些道德问题，有关人类未来的问题等等，这类问题却无法在工具书中找到答案。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 182,
+        "paragraph_sha256": "05a43c25b5a1d7a37741ca8791709af75865515b6e7c498e5391ac9271dd3239"
+      }
+    ]
+  },
+  {
+    "id": "A37",
+    "title": "第一次读难书时节制查字典",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p051",
+        "quote": "如果一开始阅读你就要查很多生字的话，你一定会跟不上整本书的条理。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 185,
+        "paragraph_sha256": "ccaeb05875662c176fd8ae192332eb2e78522c7dd5304234f8f16e70b7699269"
+      },
+      {
+        "paragraph_id": "ch12-p051",
+        "quote": "字典的基本用途是在你碰到一个专业术语，或完全不认识的字时，才需要使用上。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 185,
+        "paragraph_sha256": "ccaeb05875662c176fd8ae192332eb2e78522c7dd5304234f8f16e70b7699269"
+      },
+      {
+        "paragraph_id": "ch12-p051",
+        "quote": "在你第一次阅读一本好书时，也不要急着使用字典，除非是那个字与作者的主旨有很大的关联，才可以查证一下。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 185,
+        "paragraph_sha256": "ccaeb05875662c176fd8ae192332eb2e78522c7dd5304234f8f16e70b7699269"
+      },
+      {
+        "paragraph_id": "ch12-p052",
+        "quote": "字典是关于字的一本书，而不是关于事的一本书。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 185,
+        "paragraph_sha256": "871dce7d7a7f29812f415e4b84b7e5f8654478472f6ebaa3d2783512cdbfb0a0"
+      }
+    ]
+  },
+  {
+    "id": "A38",
+    "title": "按字典的用法、历史与语义关系查词",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p049",
+        "quote": "不只是看每个字下面列举的意义，还会看看它们之间的秩序与关系。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 184,
+        "paragraph_sha256": "c5024914a873c60801e29efebc0de493b0ab14be51adff99163c5736eecfd566"
+      },
+      {
+        "paragraph_id": "ch12-p056",
+        "quote": "同一个字可以有多种不同的用法，随着不同的谈话内容而转变意义",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 186,
+        "paragraph_sha256": "8fc925bc75bf5b774f65574ac1f46037707a6e3429e756174df4d4446a8b8547"
+      },
+      {
+        "paragraph_id": "ch12-p058",
+        "quote": "这也是为什么每个字都有历史，都有历经变化的文化背景。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 186,
+        "paragraph_sha256": "ff8740341c820c866c016b24ae2d0cc7a86a5a96ed8df5bc7f06b9307f721a95"
+      },
+      {
+        "paragraph_id": "ch12-p061",
+        "quote": "任何人不善读一本字典开头时所作的解释以及所列的缩写符号，那用不好字典就只能怪他自己了。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 187,
+        "paragraph_sha256": "33fb7ae5169131c84542c17993a0d13cd90fc8845e7760a02ddfcabb62872082"
+      },
+      {
+        "paragraph_id": "ch12-p052",
+        "quote": "不要为了想立即增进字汇能力，就将一连串的生字背下来",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 185,
+        "paragraph_sha256": "871dce7d7a7f29812f415e4b84b7e5f8654478472f6ebaa3d2783512cdbfb0a0"
+      }
+    ]
+  },
+  {
+    "id": "A39",
+    "title": "通过百科索引寻找相关事实的结构",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p070",
+        "quote": "它所能提供的理解取决于你对这些相关事实之间的关系的了解。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 188,
+        "paragraph_sha256": "d850d820765c7960de97be7b929e1e62fdf0ed2f139e4818a653b9ad4fabe226"
+      },
+      {
+        "paragraph_id": "ch12-p072",
+        "quote": "在翻开字母排列的内容之前，先查证一下索引。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 189,
+        "paragraph_sha256": "17b5b227ad78372759cf4cbd7443491ebfda94d3d96c84bb015a2b9296799b7b"
+      },
+      {
+        "paragraph_id": "ch12-p073",
+        "quote": "不要只看一本百科全书，要看一种以上的百科全书，选择在不同的时间被写过很多次的解释。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 189,
+        "paragraph_sha256": "e03306d26f8a8b5d9f443b7e34dbeae7ce5f8904525772bca46044e5d444fb9e"
+      },
+      {
+        "paragraph_id": "ch12-p083",
+        "quote": "理解需要很多相关条件，在百科全书中却找不到这样的东西。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 192,
+        "paragraph_sha256": "d588d28e82ce2388813ce8abe34b76d141ab10826ccf411f8e78068a42c6ed06"
+      },
+      {
+        "paragraph_id": "ch12-p063",
+        "quote": "如果你想通读百科全书，那是没有意义的。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 187,
+        "paragraph_sha256": "75db8b99c588aa75819eed195a6cac846b4050f80b3210b1aadf370e9487ea7a"
+      },
+      {
+        "paragraph_id": "ch12-p084",
+        "quote": "其中却不包含诗与想象的文学作品。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 192,
+        "paragraph_sha256": "45b437f12658774ee133240d3a9c6ea3c9e685fa151d1a5ca44b059e92764965"
+      }
+    ]
+  },
+  {
+    "id": "A40",
+    "title": "区分百科中的事实、被报道的意见与可修正判断",
+    "owner": "rules/reading-aids.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch12-p077",
+        "quote": "虽然一本百科全书也可能报导观点",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 190,
+        "paragraph_sha256": "f6d372fd68ff05da9993650922b185a6f2daf724816c637495c6dd1cdae02c0a"
+      },
+      {
+        "paragraph_id": "ch12-p077",
+        "quote": "但却一定要清楚标明出来。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 190,
+        "paragraph_sha256": "f6d372fd68ff05da9993650922b185a6f2daf724816c637495c6dd1cdae02c0a"
+      },
+      {
+        "paragraph_id": "ch12-p079",
+        "quote": "即使这个理论不再正确，或是尚未全部证实，百科全书仍然可以完全或部分报导。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 191,
+        "paragraph_sha256": "6b01195f31803af89046023756f0e214caf01e66bb1cb5780ac990cd4218d59b"
+      },
+      {
+        "paragraph_id": "ch12-p080",
+        "quote": "任何我们认为是真实的主旨，都可能被更有包容力、或更正确的观察与调查证明是错的。",
+        "epub": "OEBPS/text00015.html",
+        "pdf_page": 191,
+        "paragraph_sha256": "3313fd29df6d81d00a61485660678968afdbc74ddd63cc21ccf36f69b3d0c426"
+      }
+    ]
+  },
+  {
+    "id": "G01",
+    "title": "辨认规则型与原理型",
+    "owner": "rules/genres/practical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch13-p015",
+        "quote": "实用性的书因此可分为两种类型。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 196,
+        "paragraph_sha256": "02b7c098112d031744f0b6d9c4ede0612f10252f95940465c6a98250b336f966"
+      },
+      {
+        "paragraph_id": "ch13-p016",
+        "quote": "这样的区分并不是绝对的。在一本书中，同时可以找到原理与规则。重点在特别强调其中哪一项。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 196,
+        "paragraph_sha256": "54e4639e19ee429e23e868be5f91756d03487bb534513c6927c78b681ed3c6f4"
+      },
+      {
+        "paragraph_id": "ch13-p016",
+        "quote": "它要处理的那些问题的本质会露底。这样的书所谈的总是人类行为领域中，怎样可能做得更好或更糟。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 196,
+        "paragraph_sha256": "54e4639e19ee429e23e868be5f91756d03487bb534513c6927c78b681ed3c6f4"
+      }
+    ]
+  },
+  {
+    "id": "G02",
+    "title": "明确目的与方法",
+    "owner": "rules/genres/practical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch13-p027",
+        "quote": "第一：作者的目的是什么？第二：他建议用什么方法达到这个目的？",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 199,
+        "paragraph_sha256": "a4cf8a796abf359b137ad79d1aa6ef35ef8e0b7ad577ae8d9a030ad5a8c364e5"
+      },
+      {
+        "paragraph_id": "ch13-p036",
+        "quote": "因为一本实用的书是论说性的，仍然有必要回答这个问题，并作出这本书的大纲架构。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 201,
+        "paragraph_sha256": "ce0e59a5556480cf402691483394099b2a9dcac55b2cf1b05f313adf146e2180"
+      },
+      {
+        "paragraph_id": "ch13-p038",
+        "quote": "为了要能回答关于这本书的意义或内容，你仍然要能够找出作者的共识、主旨与论述。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 201,
+        "paragraph_sha256": "d3a76c8c6b2fda121bcf4e4cca8a01b16b5115bebee88a8d6633fd0e640b420e"
+      }
+    ]
+  },
+  {
+    "id": "G03",
+    "title": "从规则与原理读出行动建议",
+    "owner": "rules/genres/practical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch13-p017",
+        "quote": "在阅读一本以规则为主的书时，要找寻的主旨当然是那些规则。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 196,
+        "paragraph_sha256": "cd2cec51c34c634248e5599e246d2525e24f18593a48c3ace740d08b9db5f3f9"
+      },
+      {
+        "paragraph_id": "ch13-p019",
+        "quote": "作者可能会用原理来说明这些规则的可信度，或是告诉你一些实例，证明这些规则是可行的。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 197,
+        "paragraph_sha256": "3ce90787e0593e65c54f93218f235a20363903e00663b7bfe5959adf6282c83d"
+      },
+      {
+        "paragraph_id": "ch13-p021",
+        "quote": "他可能会看出那些虽然没有明说，但却可以由原理衍生出来的规则。他还会更进一步，找出这些规则应该如何实际应用。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 197,
+        "paragraph_sha256": "8d076bb4bbabcb580300d880e651cb758fb1abb35460e845c5fc70eddf445aba"
+      }
+    ]
+  },
+  {
+    "id": "G04",
+    "title": "分别评判目标与手段",
+    "owner": "rules/genres/practical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch13-p023",
+        "quote": "行为规则要谈得上是真理，有两种情况：一是真的有效；二是这样做能带引你到正确的结果，达到你的期望。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 198,
+        "paragraph_sha256": "b34cabdccf14f0b6295bccbf7e6435a3f603d05e58462bc2c4cde4c63080881f"
+      },
+      {
+        "paragraph_id": "ch13-p024",
+        "quote": "假设作者认为你应该寻求的正确结果，你并不以为然，那么就算他的建议听起来很完整，由于那个目标的缘故，你可能还是不会同意他的观点。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 198,
+        "paragraph_sha256": "349b994eac285abe7c7660836b5d780aa2e95525e66102edf456d439693dd2c3"
+      },
+      {
+        "paragraph_id": "ch13-p039",
+        "quote": "他最终的目标，加上他建议的达成目标的方法",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 201,
+        "paragraph_sha256": "2487732685dc3974cefa8f2907be6bdc220483a6b3e4d48d3cb214d8c54d5721"
+      }
+    ]
+  },
+  {
+    "id": "G05",
+    "title": "把通则用于实际处境",
+    "owner": "rules/genres/practical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch13-p010",
+        "quote": "但是实际的问题却只能靠行动来解决。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 194,
+        "paragraph_sha256": "599c69ff170c10a9e83542911366b77f1c44820d70c4145f72ccfd2ba66ee83b"
+      },
+      {
+        "paragraph_id": "ch13-p012",
+        "quote": "每个行动发生时都有特殊情况，都发生在不同的时间、地点与特殊环境中。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 195,
+        "paragraph_sha256": "fe3bc985488015417975a6dbb622734aec4e9537703449b25b5d2f1b66f3bbdd"
+      },
+      {
+        "paragraph_id": "ch13-p013",
+        "quote": "他要能更了解实际状况，更有判断力，知道如何将规则应用在这样的状况中。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 195,
+        "paragraph_sha256": "57bdf906d5da850799cf0ed939031695ee6aced84b217318d56cc3a0f6771a42"
+      }
+    ]
+  },
+  {
+    "id": "G06",
+    "title": "识别劝服与相关背景",
+    "owner": "rules/genres/practical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch13-p030",
+        "quote": "这并没有错，也没有恶意。这正是实用书的特性，一个人必须要被说服，以采取特定的思想与行动。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 199,
+        "paragraph_sha256": "331554bc1a3506248c4dd3c4199aed83770be1323253c89306f6352ae597e7e7"
+      },
+      {
+        "paragraph_id": "ch13-p032",
+        "quote": "他会觉察到某一段话是“情绪用字”。他知道自己是被说服的对象，他有办法处理这些诉求的重点。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 200,
+        "paragraph_sha256": "0fb5c022cc44a7e2de2c01c15875a2afebd6f56f46ffe3eb024aa9f758686c9c"
+      },
+      {
+        "paragraph_id": "ch13-p033",
+        "quote": "但是为了要了解与评断一本道德的论述、政治论文或经济论著，你就要了解一点作者的人格、生活与时代背景。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 200,
+        "paragraph_sha256": "dfa5be0ef5bc5c2027fbbc9a182c09c1e00b408c2dc0d9dc6019cfe513990f05"
+      }
+    ]
+  },
+  {
+    "id": "G07",
+    "title": "赞同后的行动与适用人群",
+    "owner": "rules/genres/practical.md",
+    "merged_from": [
+      "S21"
+    ],
+    "evidence": [
+      {
+        "paragraph_id": "ch13-p041",
+        "quote": "如果你被作者说服了，他所提议的结论是有价值的，甚至进一步相信他的方法真的能达到目的，那就很难拒绝作者对你的要求了。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 202,
+        "paragraph_sha256": "64051b77256e193e38d950ad5cae714e47900fb8fb98a660ec069cf52444929d"
+      },
+      {
+        "paragraph_id": "ch13-p042",
+        "quote": "那就表示虽然这个读者表面上同意了作者的结论，也接受了他提出来的方法，但是实际上并没有同意，也没有接受。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 202,
+        "paragraph_sha256": "0b385ef8e8947b819e91eca3ee065d130ae2d82e858b500a1678806f8ec8ecea"
+      },
+      {
+        "paragraph_id": "ch13-p045",
+        "quote": "如果他不属于这个阶层，他可能就没有这样的义务。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 203,
+        "paragraph_sha256": "7032c5b27e0fa2b9e26b56d71efe21eda7fbbda5b9136ab3bb4be97b619b1cca"
+      },
+      {
+        "paragraph_id": "ch13-p046",
+        "quote": "很可能这位读者只是被自己愚弄了，或误解了他自己的动机，而认为自己并不属于那个结论所牵涉的阶层。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 203,
+        "paragraph_sha256": "33b5dbd7f11015d24b6b3f9f6216e91d0ee0832357dae3b8ccd70b36c0c2bb48"
+      },
+      {
+        "paragraph_id": "ch21-p005",
+        "quote": "如果读者阅读了一本实用的书，并接受作者的观点，认同他的建议是适当又有效的，那么读者一定要照着这样的建议行事。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 332,
+        "paragraph_sha256": "d4a02ee1d6cc7143f4d677017a277b2f40a66f56c5aa5a6a9346f4b25720d026"
+      },
+      {
+        "paragraph_id": "ch21-p005",
+        "quote": "不过如果你接受这个目标，也同意这些方法是适当的，那你就一定要以自己以前可能从没有经历过的方式来努力阅读了。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 332,
+        "paragraph_sha256": "d4a02ee1d6cc7143f4d677017a277b2f40a66f56c5aa5a6a9346f4b25720d026"
+      }
+    ]
+  },
+  {
+    "id": "G08",
+    "title": "先分文学形式并调整问题",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch14-p025",
+        "quote": "你必须将想象文学作品分类。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 209,
+        "paragraph_sha256": "52987ddcec3fb2ac27bbb10ddff626b942a03f35ba4f44c69246315f418ad41a"
+      },
+      {
+        "paragraph_id": "ch13-p005",
+        "quote": "在第十一章结尾时所说明的十五个阅读规则并不适用于阅读小说或诗集。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 193,
+        "paragraph_sha256": "ef8c16b9a6ecac715e11383188f255f9e747f556682944c2414147019d63698c"
+      },
+      {
+        "paragraph_id": "ch13-p006",
+        "quote": "阅读富有想象力作品的规则也是来自这四个问题，只不过这两类作品的题材不同，会造成规则上的部分差异。",
+        "epub": "OEBPS/text00016.html",
+        "pdf_page": 194,
+        "paragraph_sha256": "00044b6014f8aff25bc0c77014f94db5b7e61c870e250402c1d9ef1da140386f"
+      }
+    ]
+  },
+  {
+    "id": "G09",
+    "title": "让作品形成可体验的经验",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch14-p012",
+        "quote": "那是带着活力的热情。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 206,
+        "paragraph_sha256": "4da29677701b1abb9abbae71d43dba110fdaa462debb7bef0fd4a19caeff3f51"
+      },
+      {
+        "paragraph_id": "ch14-p012",
+        "quote": "我们要让故事贯穿我们，做任何它想要做的事。我们一定得打开心灵，接纳它。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 206,
+        "paragraph_sha256": "4da29677701b1abb9abbae71d43dba110fdaa462debb7bef0fd4a19caeff3f51"
+      },
+      {
+        "paragraph_id": "ch15-p015",
+        "quote": "除非你真的尽力“活在”这样的虚构世界中，否则不要任意批评这个世界。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 218,
+        "paragraph_sha256": "06cf6f1cbc8dcd6364156e92d69801ae5440c871fd69e46cd6f5d6f55a84ad83"
+      }
+    ]
+  },
+  {
+    "id": "G10",
+    "title": "保留多义与隐喻",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch14-p014",
+        "quote": "想象文学会尽量使用文字潜藏的多重字义，好让这些字特有的多元性增加文章的丰富性与渲染力。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 206,
+        "paragraph_sha256": "7e5537aa966f896ac2f1f9ce9814779128147c3add76bec8e74e776bf8096362"
+      },
+      {
+        "paragraph_id": "ch14-p015",
+        "quote": "在想象文学中，不要去找共识、主旨或论述。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 207,
+        "paragraph_sha256": "c8eea9710466a4e4e685ea75c8d69791852b5e0bf0b077b5f8c831d4f110638f"
+      },
+      {
+        "paragraph_id": "ch14-p034",
+        "quote": "这些类似的规则就像是一个隐喻或象征，如果压迫得太用力，可能就会崩溃了。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 212,
+        "paragraph_sha256": "c78434b7010dc136fac64bfe910855c1bf4fba26b01a1b6913f228b2c7b26ed2"
+      }
+    ]
+  },
+  {
+    "id": "G11",
+    "title": "用情节与阶段把握整体",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch14-p026",
+        "quote": "除非你能简要地说明剧情——不是主旨或论述——否则你还是没有抓住重点。在情节中就有大意。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 209,
+        "paragraph_sha256": "b90119c29c38b43d1ddd531fce8c66801a1b485fc0d664a753afd1b893611c4b"
+      },
+      {
+        "paragraph_id": "ch14-p028",
+        "quote": "你要知道带来高潮的各种不同的关键是什么，高潮是在哪里、又如何发生的，在这之后的影响又是什么？",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 210,
+        "paragraph_sha256": "c64ec7035094be6920a9eb1b885a3c5da5a26130e293110938e7b4269fc4d611"
+      },
+      {
+        "paragraph_id": "ch14-p035",
+        "quote": "没有故事叙述的抒情诗，仍然可以适用这个规则，只是没那么贴切。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 212,
+        "paragraph_sha256": "f40f9a709421e32e3aaae95679d17fd5c48fc0c362b917f9390a0183d09dbe1e"
+      }
+    ]
+  },
+  {
+    "id": "G12",
+    "title": "熟悉人物并追随事件发展",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch14-p031",
+        "quote": "小说的要素是插曲、事件、角色与他们的思想、言语、感觉及行动。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 211,
+        "paragraph_sha256": "ff9f956043624b7dde3606369153407a53e06a8d54b487d8ca3ffe77b6601571"
+      },
+      {
+        "paragraph_id": "ch14-p032",
+        "quote": "运用同情心与洞察力参与事件的发生，就像你会为朋友的遭遇所做的事一样。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 211,
+        "paragraph_sha256": "a80507e9fb8b9eaff8265dfc20be3382161718e60a09b4b8e6cbd23a76191c34"
+      },
+      {
+        "paragraph_id": "ch14-p033",
+        "quote": "现在，你一定要跟随他们完成这场探险。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 212,
+        "paragraph_sha256": "aa41650e85198414e7656fc83467ceb0c72a81e26f83ac086db6d91745491b74"
+      },
+      {
+        "paragraph_id": "ch14-p029",
+        "quote": "但是一本小说中的一章，剧本中的一幕，或是一句诗从整体中抽出来之后，通常就变得毫无意义了。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 211,
+        "paragraph_sha256": "a87f868acf24900ef106abbc5f779e284a349ef244b24defded447dc54da0a6b"
+      }
+    ]
+  },
+  {
+    "id": "G13",
+    "title": "用内部可能性判断真实",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch14-p017",
+        "quote": "对一个好故事来说，所谓“真理”就是一种写实，一种内在可能性，或与真实的神似。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 208,
+        "paragraph_sha256": "62f4fd4313bc40aaef6d2474899e2d48fd217f3b2d1156238c50585f2b75015d"
+      },
+      {
+        "paragraph_id": "ch14-p017",
+        "quote": "但将事实写错却不会影响到一本小说，只要它能自圆其说，将整体表现得活灵活现便行了。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 208,
+        "paragraph_sha256": "62f4fd4313bc40aaef6d2474899e2d48fd217f3b2d1156238c50585f2b75015d"
+      },
+      {
+        "paragraph_id": "ch15-p005",
+        "quote": "这像一个故事吗？这本书能满足你的心灵与理智吗？你欣赏这本书带来的美吗？不管是哪一种观点，你能说出理由吗？",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 215,
+        "paragraph_sha256": "779796e1ce10f6b1e29cffc24373d820d699f3895f183bf938a8b142b5e0bd76"
+      }
+    ]
+  },
+  {
+    "id": "G14",
+    "title": "先欣赏再作有根据的审美评论",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch14-p037",
+        "quote": "我们要接纳作者的主题、想法与前提。我们所能批评的只是他所创造出来的结果。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 213,
+        "paragraph_sha256": "46c03d88bfcb2caf75b53aeb3cd21b09e7d49a20b855d9975c25ee56e5679360"
+      },
+      {
+        "paragraph_id": "ch14-p039",
+        "quote": "在你说自己喜欢或不喜欢一本文学作品之前，首先你要能真正努力过并欣赏作者才行。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 213,
+        "paragraph_sha256": "9a835b4c1c29ae363d1ad99b1d45fda95a2a233894139c020dbb917b84ce6054"
+      },
+      {
+        "paragraph_id": "ch14-p040",
+        "quote": "你不只要能说明你自己为什么喜欢或不喜欢，还要能表达出这本书中哪些地方是好的，哪些是不好的，并说明理由才行。",
+        "epub": "OEBPS/text00017.html",
+        "pdf_page": 214,
+        "paragraph_sha256": "a360473d787a628bf2c4232f91031788314176ecfebdc04ba859281e96775eb5"
+      }
+    ]
+  },
+  {
+    "id": "G15",
+    "title": "不强设行动义务",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p007",
+        "quote": "严格说起来，在你读好了——也就是分析好了小说、戏剧或诗之后，是用不着采取什么行动的。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 216,
+        "paragraph_sha256": "4df6ec837582b710550c5ced5ff1d081c6a73601aeec2b6ca2c45f2606a96718"
+      },
+      {
+        "paragraph_id": "ch15-p009",
+        "quote": "想象文学可以引导出行动，但却并非必要，因为它们属于纯艺术的领域。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 217,
+        "paragraph_sha256": "4fb9bdcf39ecf23b0e8fc89f81d8d89ec91a7f953a2090c13833dd73cff3646e"
+      },
+      {
+        "paragraph_id": "ch15-p011",
+        "quote": "如果你受到一本书的影响，而走出户外进行任何行动时，要问问你自己，那本书是否包含了激励你的宣言，让你产生行动力？",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 217,
+        "paragraph_sha256": "adbffa2d38c5d3d0ae317b5e241e653c1341ee7f143acd0c28a86fb4eb79c43c"
+      }
+    ]
+  },
+  {
+    "id": "G16",
+    "title": "集中时间全神贯注地通读",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p013",
+        "quote": "快读，并且全心全意地读。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 217,
+        "paragraph_sha256": "91bdcbe49bd80d5f8fd11fb08984f3599fbd4bfffab5ef24b83175db6124e2dd"
+      },
+      {
+        "paragraph_id": "ch15-p013",
+        "quote": "不过，要达到这个理想，最接近的方法就是将阅读一篇好故事的时间压缩到合理的长度。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 217,
+        "paragraph_sha256": "91bdcbe49bd80d5f8fd11fb08984f3599fbd4bfffab5ef24b83175db6124e2dd"
+      },
+      {
+        "paragraph_id": "ch15-p014",
+        "quote": "有些读者碰到自己真正喜欢的小说时，会想把阅读的时间拉长，好尽情地品味，浸淫在其中。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 217,
+        "paragraph_sha256": "48b110a1ab39263289b998c6fd8adaf304eb8b03351603a40790712bf285620e"
+      }
+    ]
+  },
+  {
+    "id": "G17",
+    "title": "容忍开头不明并在读完后回顾",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p018",
+        "quote": "我们不期望记住每一个名字，许多人不过是背景人物，好衬托出主角的行动而已。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 218,
+        "paragraph_sha256": "83fa521f4d982c3a9ab205d951da41658c06077397d8bb16a2884670501fab02"
+      },
+      {
+        "paragraph_id": "ch15-p019",
+        "quote": "读者在阅读小说时，全部看完之后再回顾一下，就会了解事件的关联与活动的前后顺序了。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 219,
+        "paragraph_sha256": "9b77a92d29c5252f84f4d3ffc3c1709d22e4191b6ffd0699d727f4f2fab20f29"
+      },
+      {
+        "paragraph_id": "ch15-p020",
+        "quote": "走出书本之外，那些角色就没有了生命力。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 219,
+        "paragraph_sha256": "dab8cd0ef00adb4be73aaa232e7ed41f4b016db891b011eaf3b196d6cf1f1272"
+      },
+      {
+        "paragraph_id": "ch15-p020",
+        "quote": "你一定要读完一本小说之后，才能谈你是否把这个故事读通了。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 219,
+        "paragraph_sha256": "dab8cd0ef00adb4be73aaa232e7ed41f4b016db891b011eaf3b196d6cf1f1272"
+      }
+    ]
+  },
+  {
+    "id": "G18",
+    "title": "辨认个人满足与作品评价",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p023",
+        "quote": "我们会甚至因而对这本书有艺术评价之外的正面或负面的印象。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 220,
+        "paragraph_sha256": "23e0a34472cd18adb60e6ea364d3c1ca674124c09860d938ffb64316357e38af"
+      },
+      {
+        "paragraph_id": "ch15-p030",
+        "quote": "一种是满足我们个人特殊潜意识需求的小说",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 221,
+        "paragraph_sha256": "27667c1bb28bf40a6441a6a53493507a7c1572a6970c8d19c1554a6807780a0c"
+      },
+      {
+        "paragraph_id": "ch15-p030",
+        "quote": "另一种则是满足大多数人潜意识需求的小说。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 221,
+        "paragraph_sha256": "27667c1bb28bf40a6441a6a53493507a7c1572a6970c8d19c1554a6807780a0c"
+      }
+    ]
+  },
+  {
+    "id": "G19",
+    "title": "随主题持续提升投入",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p034",
+        "quote": "真正的困难似乎在于如何跟随作品逐步升高那种环绕着主题的追寻。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 222,
+        "paragraph_sha256": "94828f84c7deff9f688ab38f618234ee09a93b47028719d01168c274c4deabbf"
+      },
+      {
+        "paragraph_id": "ch15-p034",
+        "quote": "要求你集中注意力，全心参与并运用想象力。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 222,
+        "paragraph_sha256": "94828f84c7deff9f688ab38f618234ee09a93b47028719d01168c274c4deabbf"
+      }
+    ]
+  },
+  {
+    "id": "G20",
+    "title": "在心中导演演出",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p039",
+        "quote": "读者必须自己提供那样的演出。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 223,
+        "paragraph_sha256": "2e1b3dc9993553d88e61cd6ed9d43a7c9d397b6b6f239eeb7b480033d212b8d8"
+      },
+      {
+        "paragraph_id": "ch15-p040",
+        "quote": "告诉他们如何说这一句台词，如何演那一幕。解释一下重要的句子，说明这个动作如何让整出戏达到高潮。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 223,
+        "paragraph_sha256": "299097c15e425b85e5534106632d521474349e1634b843e4864af221c4fa0361"
+      },
+      {
+        "paragraph_id": "ch15-p041",
+        "quote": "莎士比亚并没有留下任何舞台指导，读者（或导演）必须自己去决定。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 224,
+        "paragraph_sha256": "d679d1fdfafd5a651d16b59d01c40f27e4b20f7c52346c1b3cf420322a17d6c7"
+      }
+    ]
+  },
+  {
+    "id": "G21",
+    "title": "利用作者说明并把台词读出声音",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p044",
+        "quote": "要阅读萧伯纳式的剧本，却不读萧伯纳所写的前言，就等于是拒绝了作者最重要的帮助，不让他辅助你理解这出戏。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 225,
+        "paragraph_sha256": "6fffd647064ae2c1b91db6169ed97123d44560672c015518890e5d96e268e061"
+      },
+      {
+        "paragraph_id": "ch15-p045",
+        "quote": "要慢慢读，就像是听众在听你说话一样，还是带着感情读",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 225,
+        "paragraph_sha256": "0630da18fa8a7e8894fe4fdbbdbb53f1cf85cc8ba9b4487fd92f94b1931dda1e"
+      },
+      {
+        "paragraph_id": "ch15-p045",
+        "quote": "只有当这样做之后还有问题，才要找注解来帮助你阅读。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 225,
+        "paragraph_sha256": "0630da18fa8a7e8894fe4fdbbdbb53f1cf85cc8ba9b4487fd92f94b1931dda1e"
+      }
+    ]
+  },
+  {
+    "id": "G22",
+    "title": "把选择放回有限时间与舞台尺度",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p050",
+        "quote": "对我们来说很容易看出来该做些什么，但我们能在有限的时间中看清楚一切吗？在阅读希腊悲剧时，你要一直把这个问题放在心中。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 227,
+        "paragraph_sha256": "58d3ff7be152fb7372c289e3ea339a7fce63b7cbf0c9ed2f0b54494b7df09a32"
+      },
+      {
+        "paragraph_id": "ch15-p051",
+        "quote": "在读旁白的部分时，你要想象这些台词是跟你一般身高的人所说出来的话",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 227,
+        "paragraph_sha256": "c6fb77e100197cb3e09f1c9eb231d725e3241daef5a6c4c83884b9bce2cfd086"
+      },
+      {
+        "paragraph_id": "ch15-p051",
+        "quote": "在读悲剧人物的台词时，你要想象这是出自一个大人物的口中",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 227,
+        "paragraph_sha256": "c6fb77e100197cb3e09f1c9eb231d725e3241daef5a6c4c83884b9bce2cfd086"
+      }
+    ]
+  },
+  {
+    "id": "G23",
+    "title": "先完整读，再朗读",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p058",
+        "quote": "不论你觉得自己懂不懂，都要一口气读完，不要停。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 229,
+        "paragraph_sha256": "5bc38ab390de19602880291eae14fd261b680c44646db4e1acf2ec9213be7bd7"
+      },
+      {
+        "paragraph_id": "ch15-p062",
+        "quote": "重读一遍——大声读出来。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 229,
+        "paragraph_sha256": "fc32a5ae7de6f56f182cf9222b20780febc3990d4c9d93dfe222dba4eb7bbb72"
+      },
+      {
+        "paragraph_id": "ch15-p063",
+        "quote": "一旦你掌握住一首诗的大意时，就算是很模糊的大意，你也可以开始提出问题来。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 230,
+        "paragraph_sha256": "063149fa010ff2b657c716304504303c34e5eb63df7be5312840b5df3b9b4c3e"
+      }
+    ]
+  },
+  {
+    "id": "G24",
+    "title": "从修辞、句法和冲突追问",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p064",
+        "quote": "是因为节奏造成的？还是押韵的关系？还是这个字一直在重复出现？如果好几段谈的都是同样的概念，那么彼此之间到底有什么关联？",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 230,
+        "paragraph_sha256": "9c27942ecc5f273050bf538103bddc3e4a6402d07cf102005ad12cc3efac094f"
+      },
+      {
+        "paragraph_id": "ch15-p065",
+        "quote": "但是通常冲突是隐藏在其中，没有说出口的。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 230,
+        "paragraph_sha256": "e37ca48abedc144b86bc1509786d14bbf91e13589abac61eeee5ba50647bceb3"
+      },
+      {
+        "paragraph_id": "ch15-p123",
+        "quote": "这首诗的组合与标题诉求的是同样的冲突",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 234,
+        "paragraph_sha256": "40c3cc423e44ab73d6de95b22437e269c16807c5cf52f1a80773011c99606287"
+      },
+      {
+        "paragraph_id": "ch15-p065",
+        "quote": "在大部分好的抒情诗中，都存在着一些冲突。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 230,
+        "paragraph_sha256": "e37ca48abedc144b86bc1509786d14bbf91e13589abac61eeee5ba50647bceb3"
+      }
+    ]
+  },
+  {
+    "id": "G25",
+    "title": "把重读置于背景资料之前",
+    "owner": "rules/genres/literature.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch15-p124",
+        "quote": "你发现任何有关作者生活与时代的资讯，只要是确实的都有帮助。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 234,
+        "paragraph_sha256": "28544b7df8859ffab794a4b296303f2fa9164b402c12d57ade4365cfd235c993"
+      },
+      {
+        "paragraph_id": "ch15-p124",
+        "quote": "但是关于一首诗的大量背景资料并不一定保证你能了解这首诗。要了解一首诗，一定要去读它——一遍又一遍地读。",
+        "epub": "OEBPS/text00018.html",
+        "pdf_page": 234,
+        "paragraph_sha256": "28544b7df8859ffab794a4b296303f2fa9164b402c12d57ade4365cfd235c993"
+      }
+    ]
+  },
+  {
+    "id": "G26",
+    "title": "识别史家视角并对照多部历史",
+    "owner": "rules/genres/history.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch16-p020",
+        "quote": "你在读历史书时，最基本的认知就是要知道作者在运作的是哪一条路。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 239,
+        "paragraph_sha256": "b80d7340032a961c4aef434271fc4805671c4faa7c94ce1d6071a841ec50c5b0"
+      },
+      {
+        "paragraph_id": "ch16-p025",
+        "quote": "关于一个历史事件，我们不见得总能读到一种以上的书。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 240,
+        "paragraph_sha256": "ed007d60d9865c66d7436f0f15a8059ca1ec8c7a87a5b8577632dc87637c973d"
+      },
+      {
+        "paragraph_id": "ch16-p023",
+        "quote": "为了追求真相，我们必须从更多不同的角度来观察才行。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 239,
+        "paragraph_sha256": "4433490227e40d536f74f746be169a3126b211b35049067a23431f8c7cb7c1a3"
+      },
+      {
+        "paragraph_id": "ch16-p033",
+        "quote": "对你感兴趣的事件或时期，尽可能阅读一种以上的历史书。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 242,
+        "paragraph_sha256": "8d40ab78871a420c6d92d83e03ff5d81ebad733018117683f21222dba3377a29"
+      }
+    ]
+  },
+  {
+    "id": "G27",
+    "title": "界定范围和叙述组织",
+    "owner": "rules/genres/history.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch16-p036",
+        "quote": "我们就要弄清楚这本书在谈什么，没有谈到的又是什么。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 242,
+        "paragraph_sha256": "cdddea592a1b8b11cb98d3215f8d42872f0007c94a705b05b50609b2f7a28f8d"
+      },
+      {
+        "paragraph_id": "ch16-p036",
+        "quote": "一位作者不该因为他没有做到他根本就没想做的事情而受到指责。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 242,
+        "paragraph_sha256": "cdddea592a1b8b11cb98d3215f8d42872f0007c94a705b05b50609b2f7a28f8d"
+      },
+      {
+        "paragraph_id": "ch16-p037",
+        "quote": "如果我们能从他的故事章节中发现他最重视的部分，我们就能更了解他。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 243,
+        "paragraph_sha256": "4df0f5438613d8bd18d45cea98f6693c25f20c95b3c226338629c9248ae3de29"
+      }
+    ]
+  },
+  {
+    "id": "G28",
+    "title": "从过去理解人的行动与现在",
+    "owner": "rules/genres/history.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch16-p033",
+        "quote": "阅读历史时，不只要关心在过去某个时间、地点真正发生了什么事，还要读懂在任何时空之中，尤其是现在，人们为什么会有如此这般行动的原因。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 242,
+        "paragraph_sha256": "8d40ab78871a420c6d92d83e03ff5d81ebad733018117683f21222dba3377a29"
+      },
+      {
+        "paragraph_id": "ch16-p041",
+        "quote": "历史会建议一些可行性，因为那是以前的人已经做过的事。既然是做过的事，就可能再做一次——或是可以避免再做。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 244,
+        "paragraph_sha256": "113e8c6d1682f8597285d86cfbe3e04f8f424912bb5b657c2b6160097e6fd731"
+      }
+    ]
+  },
+  {
+    "id": "G29",
+    "title": "区分叙事理解与资料使用的批评",
+    "owner": "rules/genres/history.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch16-p020",
+        "quote": "当然，一个好的历史学家是不会编造过去的。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 239,
+        "paragraph_sha256": "b80d7340032a961c4aef434271fc4805671c4faa7c94ce1d6071a841ec50c5b0"
+      },
+      {
+        "paragraph_id": "ch16-p035",
+        "quote": "但仍然能像阅读论说性作品一样来阅读，也应该如此阅读。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 242,
+        "paragraph_sha256": "108ecd8ec474364b2da234f75740b148404e34a5f72ed747c6a084b80223e19a"
+      },
+      {
+        "paragraph_id": "ch16-p038",
+        "quote": "但永远要在我们完全了解书中的意义之后",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 243,
+        "paragraph_sha256": "29bf318d55e35d006ee94f4287dd8245fe6c4ac7932c1650710de95f9159ce66"
+      },
+      {
+        "paragraph_id": "ch16-p038",
+        "quote": "他误解了史实，他的判断失真，或是他无法掌握人性或人类的事物。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 243,
+        "paragraph_sha256": "29bf318d55e35d006ee94f4287dd8245fe6c4ac7932c1650710de95f9159ce66"
+      },
+      {
+        "paragraph_id": "ch16-p039",
+        "quote": "作者误用了资料。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 243,
+        "paragraph_sha256": "17387c3b57f3077c775e79c743a4602e5c9aefca27dcb468ba1d8b90408b962c"
+      }
+    ]
+  },
+  {
+    "id": "G30",
+    "title": "按传记目的调整信任与读法",
+    "owner": "rules/genres/history.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch16-p046",
+        "quote": "的传记是对一个人的一生作详尽完整的学术性报告",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 245,
+        "paragraph_sha256": "fd4bc34c9a9b6a322c4477faf79ae9d2f3f8b2fc98ee89952b6e6f6269ad18d9"
+      },
+      {
+        "paragraph_id": "ch16-p047",
+        "quote": "应该用读历史的方法来读这种传记。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 245,
+        "paragraph_sha256": "30cc439882b24d5b8483c16ea0ab5f81a2720ebec4a141bb8aebf8f5abb5d308"
+      },
+      {
+        "paragraph_id": "ch16-p047",
+        "quote": "因为他们的写作态度很小心，因此这个人所犯的错，或是达到的成就都会经过润饰。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 245,
+        "paragraph_sha256": "30cc439882b24d5b8483c16ea0ab5f81a2720ebec4a141bb8aebf8f5abb5d308"
+      },
+      {
+        "paragraph_id": "ch16-p048",
+        "quote": "如果我们只读了单方面的官方传记，我们不可能真的了解这个人的真实生活",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 245,
+        "paragraph_sha256": "0fb7233eefc5b851b869dd6f97b2c4cbd67a305737803f718da5126108aa3b7a"
+      },
+      {
+        "paragraph_id": "ch16-p051",
+        "quote": "我们并不把这本书当作收集资料的传记来读，而是一般生活的读物。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 246,
+        "paragraph_sha256": "a59a191371488f078e04d83ffa02e0ce42f47066e58941fe1b2337ef7229d559"
+      },
+      {
+        "paragraph_id": "ch16-p046",
+        "quote": "定案本的传记绝不能用来写活着的人。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 245,
+        "paragraph_sha256": "fd4bc34c9a9b6a322c4477faf79ae9d2f3f8b2fc98ee89952b6e6f6269ad18d9"
+      }
+    ]
+  },
+  {
+    "id": "G31",
+    "title": "合看资料，审慎理解自述",
+    "owner": "rules/genres/history.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch16-p059",
+        "quote": "我们都用不着花上一堆时间来研究作者并未言明的秘密。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 248,
+        "paragraph_sha256": "d1736659322adc43489ba3d2b77c450d42ea84f420c48674a547d470bb5483cc"
+      },
+      {
+        "paragraph_id": "ch16-p054",
+        "quote": "所有自传所写的都是还未完结的生活。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 247,
+        "paragraph_sha256": "05cf3ad68b436f628c859b3343ead2702704ec8b79c41a256e78016a96521ea6"
+      },
+      {
+        "paragraph_id": "ch16-p055",
+        "quote": "虽然不太可能写一本真实的自传，但也不太可能整本书中都是谎言。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 247,
+        "paragraph_sha256": "b79a25962d5ac244ba0462a54be2162c239075820ebb298fa2bcf4c9129b36bf"
+      },
+      {
+        "paragraph_id": "ch16-p059",
+        "quote": "如果你想知道一个人的一生，你就该尽可能去阅读你能找到的资料，包括他对自己一生的描述（如果他写过）。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 248,
+        "paragraph_sha256": "d1736659322adc43489ba3d2b77c450d42ea84f420c48674a547d470bb5483cc"
+      },
+      {
+        "paragraph_id": "ch16-p059",
+        "quote": "对于任何自传都要有一点怀疑心，同时别忘了，在你还不了解一本书之前，不要妄下论断。",
+        "epub": "OEBPS/text00019.html",
+        "pdf_page": 248,
+        "paragraph_sha256": "d1736659322adc43489ba3d2b77c450d42ea84f420c48674a547d470bb5483cc"
+      }
+    ]
+  },
+  {
+    "id": "G35",
+    "title": "围绕问题与背景阅读",
+    "owner": "rules/genres/science.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch17-p002",
+        "quote": "一种是在我们传统中，伟大的科学与数学的经典之作。另一种则是现代科普著作。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 256,
+        "paragraph_sha256": "73e70e72126729d093ee73c86420e6b22dea6b6ed11b4300ade46291f4821192"
+      },
+      {
+        "paragraph_id": "ch17-p012",
+        "quote": "注意到问题的本身及问题的背景",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 258,
+        "paragraph_sha256": "f252736bd4a88116a200b0bf82889bd947c33c7f0710d0d92aa20a2756f293f4"
+      },
+      {
+        "paragraph_id": "ch17-p013",
+        "quote": "找出事实、假定、原理与证据之间的相互关联",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 258,
+        "paragraph_sha256": "38a98a979e81ac16cc0e1bcba25cb2ff302a288b64d3f945a55f28110ab7bb2d"
+      }
+    ]
+  },
+  {
+    "id": "G36",
+    "title": "区分假设、一般主旨与论证",
+    "owner": "rules/genres/science.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch17-p016",
+        "quote": "你要注意作者最初的假设，放在心上，然后把他的假设与经过论证之后的结论作个区别。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 259,
+        "paragraph_sha256": "99bc594216a1315e3ec236f7801ba46c50390ab1e1e4ca3b86b2493e061eee84"
+      },
+      {
+        "paragraph_id": "ch17-p017",
+        "quote": "他要说的是一般的现象，事物变化的一般规则。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 259,
+        "paragraph_sha256": "a94fbc9fd55a4a5a507c3187c7d5055ffa5db57714b9f25143ce6ac768cef594"
+      },
+      {
+        "paragraph_id": "ch17-p018",
+        "quote": "科学基本上是归纳法",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 259,
+        "paragraph_sha256": "a39be95064419ccf93fb1aff68b7b20b34643feb20dce949357f586965f6fa09"
+      },
+      {
+        "paragraph_id": "ch17-p018",
+        "quote": "还有另外一些论述是运用演绎法来推论的。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 259,
+        "paragraph_sha256": "a39be95064419ccf93fb1aff68b7b20b34643feb20dce949357f586965f6fa09"
+      }
+    ]
+  },
+  {
+    "id": "G37",
+    "title": "理解实验观察提供的证据",
+    "owner": "rules/genres/science.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch17-p019",
+        "quote": "为了了解科学中归纳法的论点，你就必须了解科学家引以为理论基础的证据。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 259,
+        "paragraph_sha256": "b57cf5c577cd0d29ce1c2e8b95d971f2a224a77bec2352ff4254de7f8a35c75e"
+      },
+      {
+        "paragraph_id": "ch17-p019",
+        "quote": "他可能要亲眼看到实验的过程，或是去观察与操作书中所提到的相同的实验仪器。他也可能要去博物馆观察标本与模型。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 259,
+        "paragraph_sha256": "b57cf5c577cd0d29ce1c2e8b95d971f2a224a77bec2352ff4254de7f8a35c75e"
+      },
+      {
+        "paragraph_id": "ch17-p021",
+        "quote": "这并不是说你一定要依序完成所有的实验才能开始阅读这本书。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 260,
+        "paragraph_sha256": "c4eeb4be063e36ac62dc8c151ffd4d6c5efe0c36ee50db5108ab743c1ac4a06a"
+      }
+    ]
+  },
+  {
+    "id": "G38",
+    "title": "学会符号并辨明条件证明",
+    "owner": "rules/genres/science.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch17-p031",
+        "quote": "数学既然是一种语言，那就拥有自己的字汇、文法与句法（Syntax），初学者一定要学会这些东西。特定的符号或符号之间的关系要记下来。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 262,
+        "paragraph_sha256": "5958615f89cde2f2ee4bc38c13b22e0d42fc747fa423c8a0703dbacf34dc84e7"
+      },
+      {
+        "paragraph_id": "ch17-p037",
+        "quote": "命题所重视的是“若……则”这样的关系。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 263,
+        "paragraph_sha256": "5c04645d6028564b5665876749c6e18fb5cb8de0d2303a75196903ea24ecf15e"
+      },
+      {
+        "paragraph_id": "ch17-p037",
+        "quote": "命题所证明的，纯粹是这种关系是否为真。别无其他。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 263,
+        "paragraph_sha256": "5c04645d6028564b5665876749c6e18fb5cb8de0d2303a75196903ea24ecf15e"
+      }
+    ]
+  },
+  {
+    "id": "G39",
+    "title": "按目标决定证明阅读深度",
+    "owner": "rules/genres/science.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch17-p049",
+        "quote": "如果你阅读数学书的企图是要了解数学本身，当然你要读数学，从头读到尾——手上还要拿支笔",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 265,
+        "paragraph_sha256": "c22d0a2debcba8843934cd53ebef1ea52887130a596694228910e84c0be1b22a"
+      },
+      {
+        "paragraph_id": "ch17-p049",
+        "quote": "而是只想读一本有数学在内的科学书，这样跳着略读反而是比较聪明的。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 265,
+        "paragraph_sha256": "c22d0a2debcba8843934cd53ebef1ea52887130a596694228910e84c0be1b22a"
+      },
+      {
+        "paragraph_id": "ch17-p050",
+        "quote": "读读引理（lemmas）及系理（corollaries）的说明，再读所谓旁注（scholiums）",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 265,
+        "paragraph_sha256": "04c39ab7831194930e4b7af2c98733f4ee6dde24d4aed4b96a110f5f0fafa4e0"
+      },
+      {
+        "paragraph_id": "ch17-p050",
+        "quote": "先看定理的说明，再看看结论，掌握一下这是如何证明出来的。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 265,
+        "paragraph_sha256": "04c39ab7831194930e4b7af2c98733f4ee6dde24d4aed4b96a110f5f0fafa4e0"
+      },
+      {
+        "paragraph_id": "ch17-p050",
+        "quote": "但要确定没错过牛顿所强调的重点。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 265,
+        "paragraph_sha256": "04c39ab7831194930e4b7af2c98733f4ee6dde24d4aed4b96a110f5f0fafa4e0"
+      }
+    ]
+  },
+  {
+    "id": "G40",
+    "title": "保持论说性阅读并注意转述",
+    "owner": "rules/genres/science.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch17-p057",
+        "quote": "要确认主题。要发现整体与部分之间的关系。要与作者达成共识。要找出主旨与论述。在评估或衡量意义之前，要能完全了解这本书才行。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 268,
+        "paragraph_sha256": "36743be199ef113a219d5305ab3e4397638695e45a61e03e954df95ee9c8b88f"
+      },
+      {
+        "paragraph_id": "ch17-p056",
+        "quote": "在阅读这些文章时，我们就得靠记者为我们过滤资讯了。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 267,
+        "paragraph_sha256": "d8b2dfd5b8dd6f8fe4a1082fe2a2b8021db027ba04f0e89a9dee094aa8d4c079"
+      },
+      {
+        "paragraph_id": "ch17-p059",
+        "quote": "因此，理论性的书一样会带来实际的结果。",
+        "epub": "OEBPS/text00020.html",
+        "pdf_page": 268,
+        "paragraph_sha256": "f5f4d205e29d6a1078dff8c522bc9df8e16f96517a3ff38f5099b1494c612d1e"
+      }
+    ]
+  },
+  {
+    "id": "G41",
+    "title": "识别问题类型和本章范围",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p021",
+        "quote": "我们称这是隶属于哲学中实用的部分，更正确来说该是规范（normative）的哲学。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 274,
+        "paragraph_sha256": "9f2438f6d7b2f33bd1ca13902efac192d4ed0c38c780767af615165fa848d516"
+      },
+      {
+        "paragraph_id": "ch18-p028",
+        "quote": "只要是关于第二顺位的哲学作品，我们都无法指导你如何去阅读。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 276,
+        "paragraph_sha256": "ab759b0c90ee911e1aaa4c5036bdea7070d13b49857a2fa2a16d4d6de0c3ce00"
+      },
+      {
+        "paragraph_id": "ch18-p062",
+        "quote": "最重要的就是要发现问题，或是找到书中想要回答的问题。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 284,
+        "paragraph_sha256": "d55fa7e6da2250fd85f4e03fc314a36c7a7b9089ce9e88390ff4e8423fd452dd"
+      }
+    ]
+  },
+  {
+    "id": "G42",
+    "title": "区分哲学思考和经验研究的问题",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p034",
+        "quote": "真正好的哲学并不是“纯”思维——脱离现实经验的思考。观念是不能任意拼凑的。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 277,
+        "paragraph_sha256": "175f0c4226503665b523dfa02889194c007facc5b9686d481dbe6d569ed4378c"
+      },
+      {
+        "paragraph_id": "ch18-p035",
+        "quote": "读者必须有能力把哲学家所处理真正哲学性的问题，和他们可能处理，但事实上应该留给后来科学家来寻找答案的其他问题作一区别。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 277,
+        "paragraph_sha256": "97c62d9ebc6d76a316de3a11a64a6e1187a8d4e6e45abc544f99f9406ecc95fd"
+      },
+      {
+        "paragraph_id": "ch18-p038",
+        "quote": "这是个规范哲学的问题，除了思考以外没有别的回答方法。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 278,
+        "paragraph_sha256": "b7934ddaff584e00b309dabe994ff9c0938d5652b2bfbeac1c0d8c5e1bb70652"
+      }
+    ]
+  },
+  {
+    "id": "G43",
+    "title": "按论述形式追踪思想",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p040",
+        "quote": "伟大的哲学家们至少采用过五种论述的风格。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 279,
+        "paragraph_sha256": "518d7b8e5f91bb547e78c6c0970d262cda92360b44e2e024e094bdc6a4ec8d94"
+      },
+      {
+        "paragraph_id": "ch18-p050",
+        "quote": "陈述他自己的观点之后，针对每一个错误回答的论述作出回应。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 281,
+        "paragraph_sha256": "ffe38e84eb58261e6d4276c034f177281941ff81e0443f1165bb5e5cd3943583"
+      },
+      {
+        "paragraph_id": "ch18-p055",
+        "quote": "在阅读康德或亚里士多德时，你什么也不能略过，因为他们的理论是一直连续下来的。读柏拉图时也不能省略",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 283,
+        "paragraph_sha256": "ca33d8936358e8d3eacbbbfa4659dc603eb2f5911a3f0c71f3676c0626cd9238"
+      },
+      {
+        "paragraph_id": "ch18-p059",
+        "quote": "他要能够自己找出各种陈述之间的关联，以及不同论辩的立足点。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 284,
+        "paragraph_sha256": "bb826e1a6f3b1f6aabf13c0b85fdc3a130cb687c9ac672ca2a98c07ea4ab0fea"
+      }
+    ]
+  },
+  {
+    "id": "G44",
+    "title": "找出支配全书的原则与假设",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p063",
+        "quote": "作者会如何回答这些问题，完全受他的中心思想与原则的控制。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 285,
+        "paragraph_sha256": "6dff12ba5c79f11f48763b4038fbe6b2396d1074b519aaa86501be873d54ed4c"
+      },
+      {
+        "paragraph_id": "ch18-p064",
+        "quote": "但是他也可能不这么做，保留起来在下一本书里再说明白。也可能他永远都不会明讲，但是在每本书里都有点到。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 285,
+        "paragraph_sha256": "39a38cd8140e76d6010f7d79221885e1cdf39622b3d03e997e5bed19df3eab50"
+      },
+      {
+        "paragraph_id": "ch18-p068",
+        "quote": "有时候那需要花上许多年的时间，阅读很多书，然后又重新阅读过，才能找到。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 287,
+        "paragraph_sha256": "3d930227435fc11fb31426f16505e4420b2cce17d25387d63e7cf68b34b4f4e3"
+      }
+    ]
+  },
+  {
+    "id": "G45",
+    "title": "检验原则是否贯彻到底",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p069",
+        "quote": "一旦你找到作者中心思想的原则后，你就会想要看作者怎能将这样的概念在整本书中贯彻到底。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 287,
+        "paragraph_sha256": "4ca8f110a7dc6434a9806541a85bf89a2f3c33ada5412dff8624258c5b58b1a0"
+      },
+      {
+        "paragraph_id": "ch18-p069",
+        "quote": "他在前面说的原则，还是最后没有从原则中导引出来的结论？或许你会决定两者都不可信。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 287,
+        "paragraph_sha256": "4ca8f110a7dc6434a9806541a85bf89a2f3c33ada5412dff8624258c5b58b1a0"
+      }
+    ]
+  },
+  {
+    "id": "G46",
+    "title": "按作者的特殊词义理解日常字词",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p072",
+        "quote": "他们表达思想的词句通常来自日常用语，只是用在很特殊的意义上。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 288,
+        "paragraph_sha256": "305fa8f5a5b28ba67285e84b765af5d22094cc97d4c21a5078cfe2c2b3b29478"
+      },
+      {
+        "paragraph_id": "ch18-p074",
+        "quote": "要了解一个“抽象的字眼”，就要掌握这个字眼所表达的概念。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 288,
+        "paragraph_sha256": "b894beaf54eb2e4d65bf62cd59e3928639a8501998480788e45243356a675046"
+      },
+      {
+        "paragraph_id": "ch18-p074",
+        "quote": "人们总想想象出是什么概念在困扰他们，最后却会对所有抽象的东西感到绝望。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 288,
+        "paragraph_sha256": "b894beaf54eb2e4d65bf62cd59e3928639a8501998480788e45243356a675046"
+      },
+      {
+        "paragraph_id": "ch18-p070",
+        "quote": "我们这里所谈的哲学只是理论性作品，如形上学的论述或关于自然哲学的书。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 288,
+        "paragraph_sha256": "948b738baea656cb74440abda52e43d3cdb0b16878c8b3b680a1675af8168555"
+      }
+    ]
+  },
+  {
+    "id": "G47",
+    "title": "暂顺假设推演，再用共同经验检验",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p075",
+        "quote": "但就算你有自己相反的假设，也不妨看看他的假设会如何导引下去。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 289,
+        "paragraph_sha256": "846642720bb667ae062d81a5bc78f510eaeaf268d0038616d0055b4c9aae1d30"
+      },
+      {
+        "paragraph_id": "ch18-p076",
+        "quote": "这种主旨都直接来自经验，而不是由其他主旨证明而来。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 289,
+        "paragraph_sha256": "61aa554718206ecca5b3ede105a4eeb9dc90ca751bf094ddd3c79b956a987b8c"
+      },
+      {
+        "paragraph_id": "ch18-p077",
+        "quote": "他诉求的是你自己的普通常识，以及对你自己所生存的这个世界的日常观察。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 289,
+        "paragraph_sha256": "268dfc6dcc6695ca2c1e8b77b7baf5e6701fc2028b71926e8a69ca54ca5ac1d9"
+      },
+      {
+        "paragraph_id": "ch18-p070",
+        "quote": "我们这里所谈的哲学只是理论性作品，如形上学的论述或关于自然哲学的书。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 288,
+        "paragraph_sha256": "948b738baea656cb74440abda52e43d3cdb0b16878c8b3b680a1675af8168555"
+      }
+    ]
+  },
+  {
+    "id": "G48",
+    "title": "倾听思想对话并形成自己的有理回答",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p081",
+        "quote": "你用不着担心作者的“人格”问题，也不必探究他的社会或经济背景。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 290,
+        "paragraph_sha256": "283e72d5bb0d4705c65cdff234fb42d771ea95fbb4390f4a1aa198e5b0b023ee"
+      },
+      {
+        "paragraph_id": "ch18-p081",
+        "quote": "找一些周详探讨过这个问题的其他伟大的哲学家的作品来读，对你来说会有很实际的帮助。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 290,
+        "paragraph_sha256": "283e72d5bb0d4705c65cdff234fb42d771ea95fbb4390f4a1aa198e5b0b023ee"
+      },
+      {
+        "paragraph_id": "ch18-p082",
+        "quote": "你的责任只是要厘清自己的思路。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 290,
+        "paragraph_sha256": "30cd3a5d897927c5a63a049216743e6232eb8abdd605a4e321213c9327188240"
+      },
+      {
+        "paragraph_id": "ch18-p083",
+        "quote": "你的回答一定要很实在，而且还要有理论根据。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 290,
+        "paragraph_sha256": "f3502a0be223367c56a458e3ab8d407a331253babce933ddc05c436297b8c6a1"
+      },
+      {
+        "paragraph_id": "ch18-p083",
+        "quote": "你无法依据专家的证词来回答。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 290,
+        "paragraph_sha256": "f3502a0be223367c56a458e3ab8d407a331253babce933ddc05c436297b8c6a1"
+      }
+    ]
+  },
+  {
+    "id": "G49",
+    "title": "分清自然神学与教义神学",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p086",
+        "quote": "自然神学是哲学的一支，也是形而上学的最后一部分。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 291,
+        "paragraph_sha256": "b018ac0ba6d933e688797d3c47e3c7c4afa953ee8c11d8b83f5a986ce281195d"
+      },
+      {
+        "paragraph_id": "ch18-p087",
+        "quote": "教义神学的首要原则就是某个宗教的教徒所信奉的经文。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 291,
+        "paragraph_sha256": "1cb04ef90347240a97e1f90ae8e31b8f962a990068746f75a7465fa2d200b278"
+      },
+      {
+        "paragraph_id": "ch18-p088",
+        "quote": "对有信仰的人来说，那是一种确定的知识，而不是一种实验性的观点。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 291,
+        "paragraph_sha256": "ca5ec67e1208b76df0d301cdb2707d96ab8987f0e1aad5081e0d100e44101f64"
+      }
+    ]
+  },
+  {
+    "id": "G50",
+    "title": "条件接受前提，独立检验推论",
+    "owner": "rules/genres/philosophy.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch18-p089",
+        "quote": "第一个错是拒绝接受——即使是暂时的接受——作者首要原则的经文。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 291,
+        "paragraph_sha256": "dfb8d5d5056820959c2a5289ba243102f93b6134b8cd4abb1759a98547975235"
+      },
+      {
+        "paragraph_id": "ch18-p089",
+        "quote": "但是如果推论是有问题的，那么原来再可以接受的首要原则，也会导出无效的结论。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 291,
+        "paragraph_sha256": "dfb8d5d5056820959c2a5289ba243102f93b6134b8cd4abb1759a98547975235"
+      },
+      {
+        "paragraph_id": "ch18-p090",
+        "quote": "接受首要原则是成立的，然后用阅读任何一本好的论说性作品都该有的精神来阅读。",
+        "epub": "OEBPS/text00021.html",
+        "pdf_page": 292,
+        "paragraph_sha256": "f2c738b638833cac35dfc2b6143a52ec716c8683ccda3e15bcd940791cf6f6bf"
+      }
+    ]
+  },
+  {
+    "id": "S02",
+    "title": "随检视逐步澄清主题与相关性",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p013",
+        "quote": "这个主题也是跟着阅读走的，而不是事前就能定出来的。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 308,
+        "paragraph_sha256": "952e2202cd9cdadca2df3b91c0eb2da6628ceb4c5d63d565ea5bf8f91ed2e22e"
+      },
+      {
+        "paragraph_id": "ch20-p004",
+        "quote": "在这两个故事中，战争只是提供了一个环境或背景，故事的本身所谈的是人类的生存与挣扎，战争不过是作者想吸引读者注意的手法。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 305,
+        "paragraph_sha256": "d1bcbfe0b16c304f006c180e09191dc04043f9775a57d9a5010921994492bcf3"
+      },
+      {
+        "paragraph_id": "ch20-p068",
+        "quote": "但是其他的书并没有标明进步这两个字，尤其是一些古书，内容虽然相关，却并没有运用这个词句。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 321,
+        "paragraph_sha256": "87bdf8e87e1ec12be2564417cf5291154b7040e793e36c1617664d72b3b2d782"
+      }
+    ]
+  },
+  {
+    "id": "S03",
+    "title": "先建立试验书目并检视全部候选书",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p104",
+        "quote": "针对你要研究的主题，设计一份试验性的书目。你可以参考图书馆目录、专家的建议与书中的书目索引。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 330,
+        "paragraph_sha256": "f77a1db09688dc2102cb779ca0b384d4741fcba2a831ed742d8ec0d042513164"
+      },
+      {
+        "paragraph_id": "ch20-p105",
+        "quote": "浏览这份书目上所有的书，确定哪些与你的主题相关，并就你的主题建立起清楚的概念。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 330,
+        "paragraph_sha256": "a357e27feff60c434a110a9f9192f668998a335271d6c8b7657f096e358af316"
+      },
+      {
+        "paragraph_id": "ch20-p019",
+        "quote": "在做检视阅读之前，绝不要用分析阅读来阅读。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 310,
+        "paragraph_sha256": "c01e594de6328e5964660f0b14f49470409b249c448e17137e336623e3ad9eef"
+      },
+      {
+        "paragraph_id": "ch20-p021",
+        "quote": "不论这本书多有趣又多丰富，却毫无启发性，因此不值得重新再读。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 310,
+        "paragraph_sha256": "a179677daf8a225f70d554d209723b38310edb3d7ecee007178c3c19a0779e31"
+      }
+    ]
+  },
+  {
+    "id": "S04",
+    "title": "再次检视相关书以找出关键篇章",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p029",
+        "quote": "在你已经确定哪些书是相关的之后，主题阅读的第一个步骤就是把这些书整体检视阅读一遍。你的目标是找出书中与你的主题极为相关的章节。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 312,
+        "paragraph_sha256": "e7996473f94c49b31ef4edaa7cda5f0b342ba7e156de007a2d0528ea28100532"
+      },
+      {
+        "paragraph_id": "ch20-p029",
+        "quote": "你是为了要解决自己的问题才阅读",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 312,
+        "paragraph_sha256": "e7996473f94c49b31ef4edaa7cda5f0b342ba7e156de007a2d0528ea28100532"
+      },
+      {
+        "paragraph_id": "ch20-p030",
+        "quote": "除非你的技巧已经很熟练，而且对你要研究的主题已经很清楚了，否则你最好是将两部分分开来做。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 312,
+        "paragraph_sha256": "a588d3b7410031779d5140845f798612fa5e5a251930a81d8364e4f826a2f80e"
+      },
+      {
+        "paragraph_id": "ch20-p031",
+        "quote": "对后来的这些书来说，你可能对自己的主题已经有了很清楚的概念，这时就可以把两种检视阅读合并在一起。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 313,
+        "paragraph_sha256": "5ebcf800093d0fce1614a83228b8de7e84be220caf23df25dce0fd8021c5750b"
+      }
+    ]
+  },
+  {
+    "id": "S05",
+    "title": "建立能跨作者使用的中立词汇",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p108",
+        "quote": "根据主题创造出一套中立的词汇，带引作者与你达成共识",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 330,
+        "paragraph_sha256": "66fe16bbadff671a81b77c4add42989860c8968dd56b253b3e1d6d98a6bff49a"
+      },
+      {
+        "paragraph_id": "ch20-p108",
+        "quote": "所有的作者，或至少绝大部分的作者都可以用这套词汇来诠释。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 330,
+        "paragraph_sha256": "66fe16bbadff671a81b77c4add42989860c8968dd56b253b3e1d6d98a6bff49a"
+      },
+      {
+        "paragraph_id": "ch20-p039",
+        "quote": "我们要建立一组词汇，首先帮助我们了解所有的作者，而不是其中一两个作者；其次帮助我们解决我们的问题。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 314,
+        "paragraph_sha256": "ddfbb1b857eb1c4f9e7e93a8fb369910d599ce164cc9167c2447e10753321ebe"
+      },
+      {
+        "paragraph_id": "ch20-p097",
+        "quote": "这需要很谨慎，而且你要把双方的语言——也就是两本书的内容——了解得越透彻越好。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 328,
+        "paragraph_sha256": "d1362236667dc9b13aee17a2bbf4386437fa84049c9547a654daa609a4932cbe"
+      }
+    ]
+  },
+  {
+    "id": "S06",
+    "title": "以中立且有次序的问题询问各作者",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p041",
+        "quote": "最好的方法是先列出一些可以把我们的问题说得比较明白的问题，然后让那些作者来回答这些问题。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 315,
+        "paragraph_sha256": "b4a35be853101aeb0670a8ded3a4378f37c1f92f487899b41ae3817a2ae841d9"
+      },
+      {
+        "paragraph_id": "ch20-p042",
+        "quote": "同时这些问题也要是大多数作者都能回答的问题。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 315,
+        "paragraph_sha256": "0e43fc75d9ca17cc3bcce5cd40ac819c5fcdac991aed6f7a362dbbd837b2a88b"
+      },
+      {
+        "paragraph_id": "ch20-p044",
+        "quote": "当然，这个秩序是跟主题有关的，不过还是有一般的方向可循。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 315,
+        "paragraph_sha256": "f05cd60079f56366fadcd6b973a4604cc265af435ef4495f1e31553f3f01b867"
+      },
+      {
+        "paragraph_id": "ch20-p044",
+        "quote": "第一个问题通常跟我们在研究的概念或现象的存在或特质有关",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 315,
+        "paragraph_sha256": "f05cd60079f56366fadcd6b973a4604cc265af435ef4495f1e31553f3f01b867"
+      },
+      {
+        "paragraph_id": "ch20-p044",
+        "quote": "这个问题可能跟这个现象是如何被发现，或这个概念是如何表现出来的有关",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 315,
+        "paragraph_sha256": "f05cd60079f56366fadcd6b973a4604cc265af435ef4495f1e31553f3f01b867"
+      },
+      {
+        "paragraph_id": "ch20-p044",
+        "quote": "最后一部分的问题则是与回答前面问题所产生的影响",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 315,
+        "paragraph_sha256": "f05cd60079f56366fadcd6b973a4604cc265af435ef4495f1e31553f3f01b867"
+      }
+    ]
+  },
+  {
+    "id": "S07",
+    "title": "允许沉默并约束间接解读",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p043",
+        "quote": "有时候我们必须接受作者可能一个问题也回答不了。在这样的状况中，我们必须要将他视为是对这个问题保持沉默，或是尚未作出决定。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 315,
+        "paragraph_sha256": "e056f76158c90115e460861e053726728ab6b1416df3c446dcf52422d9efbdce"
+      },
+      {
+        "paragraph_id": "ch20-p043",
+        "quote": "但是就算他并没有很清楚地讨论这个问题，有时我们也可以在他书中找到间接的回答。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 315,
+        "paragraph_sha256": "e056f76158c90115e460861e053726728ab6b1416df3c446dcf52422d9efbdce"
+      },
+      {
+        "paragraph_id": "ch20-p043",
+        "quote": "我们不能把思想强加在作者脑海中，也不能把话语放进他们的口中。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 315,
+        "paragraph_sha256": "e056f76158c90115e460861e053726728ab6b1416df3c446dcf52422d9efbdce"
+      }
+    ]
+  },
+  {
+    "id": "S08",
+    "title": "先确认同一问题再界定真正的分歧",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p049",
+        "quote": "当两个作者对同一个问题有相当的了解，所作的回答却完全相反或矛盾时，这才是一个真正有参与的议题。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 316,
+        "paragraph_sha256": "5b5a73ad891dc6505204c21017dc05ffdff71b57489aa7abdf64b0db3b8dd754"
+      },
+      {
+        "paragraph_id": "ch20-p048",
+        "quote": "通常，对一个问题会有超过两种以上的答案。在这种情况下，我们就要找出不同意见彼此之间的关联，再根据作者的观点来作分类。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 316,
+        "paragraph_sha256": "7926c81e9e948e3e610045e0af0e082a63ef927b752e60ac153a5f4a17bec5b5"
+      },
+      {
+        "paragraph_id": "appendix2-p341",
+        "quote": "现在花几分钟想一想这个看法正确与否。我们对亚里士多德论点的解说是否有些疑点？",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 416,
+        "paragraph_sha256": "3488879493dcef4a1ba0f66b2597c56c5ebc6074d93add22aa1df8a0002daee3"
+      },
+      {
+        "paragraph_id": "appendix2-p384",
+        "quote": "很显然，这两本书的论点并不完全相同。就算在这短短的摘要中，每个作者所提出的观点都不是对方在讨论的问题。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 423,
+        "paragraph_sha256": "9ad4afc1702e772b6fd29a6102a86e1d1d052cdd92030f79d38dd57393ae21a8"
+      }
+    ]
+  },
+  {
+    "id": "S09",
+    "title": "组织并解释讨论的结构",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p110",
+        "quote": "界定主要及次要的议题。然后将作者针对各个问题的不同意见整理陈列在各个议题之旁。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 330,
+        "paragraph_sha256": "a5bee03312fa0df20b9eebe8ed45a0fd9cb5488f0c50535682e7e0f77f8a6b5b"
+      },
+      {
+        "paragraph_id": "ch20-p111",
+        "quote": "比较有共通性的议题，要放在比较没有共通性的议题之前。各个议题之间的关系也要清楚地界定出来。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 330,
+        "paragraph_sha256": "ded4f95c48fdf6d24129c6c131daacb82a54fb8581d0a4e577dbc9ca7394d3cd"
+      },
+      {
+        "paragraph_id": "ch20-p055",
+        "quote": "我们要依照特定的顺序来提问题，也要能够辨认为什么是这个顺序。我们必须说明这些问题的不同答案，并说明原因。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 318,
+        "paragraph_sha256": "edf64ab3af57b434ae76132ef4a0e9c08bd0c259b166d250acaabe16ad13b0ad"
+      },
+      {
+        "paragraph_id": "ch20-p055",
+        "quote": "我们也一定要能够从我们检视过的书中找出支持我们把答案如此分类的根据。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 318,
+        "paragraph_sha256": "edf64ab3af57b434ae76132ef4a0e9c08bd0c259b166d250acaabe16ad13b0ad"
+      },
+      {
+        "paragraph_id": "ch20-p075",
+        "quote": "他用不着非得就自己的研究写一本厚厚的书不可。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 323,
+        "paragraph_sha256": "a4ca815a54fadac2b9cf31545590e1d36585a241cea023d9a46d4d153386d674"
+      }
+    ]
+  },
+  {
+    "id": "S10",
+    "title": "保持辩证的客观而不冒充最终裁决",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p060",
+        "quote": "主题阅读的目的，并不是给阅读过程中发展出来的问题提供最终答案，也不是给这个计划开始时候的问题提供最终解答。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 319,
+        "paragraph_sha256": "4fd695de6efe3f0adf6b11d19d6f632847e5b2bc89fe7e37b7ce5ea3f9831c4a"
+      },
+      {
+        "paragraph_id": "ch20-p060",
+        "quote": "如果这么做，主题阅读就不再是主题阅读，而只是讨论过程中的另一个声音，失去了疏离与客观性。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 319,
+        "paragraph_sha256": "4fd695de6efe3f0adf6b11d19d6f632847e5b2bc89fe7e37b7ce5ea3f9831c4a"
+      },
+      {
+        "paragraph_id": "ch20-p061",
+        "quote": "主题阅读所追求的这种特质，可以用这句话来作总结：“辩证的客观。”",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 319,
+        "paragraph_sha256": "19a835a634704a5c1e9095d1a465e1c31c5ed1b9f56a2aa15df2cfd0364a4896"
+      },
+      {
+        "paragraph_id": "ch20-p062",
+        "quote": "一个议题有各种不同的观点，不可能巨细靡遗地全都列出来。虽然如此，读者还是要努力一试。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 319,
+        "paragraph_sha256": "988de6fd1219bf6faae7caf5c538a4d8297d38b4bce1870ec35aab45d06a71b2"
+      }
+    ]
+  },
+  {
+    "id": "S11",
+    "title": "检查呈现方式中的偏向",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p063",
+        "quote": "偏见可能会以各种微妙的方式进入你的脑海中——可能是总结论述的方式，可能是因为强调与忽略的比重，可能是某个问题的语气或评论的色彩，甚至可能因为对某些关键问题的不同答案的排列顺序。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 320,
+        "paragraph_sha256": "9103407e8ceb00896e9d82dc8db64ad628ddb819955815fdc4f55b2d51986f55"
+      },
+      {
+        "paragraph_id": "ch20-p065",
+        "quote": "要达到这样的理想，必须要能不偏不倚地在各种相对立的问题中保持平衡，放下一切偏见，反省自己是否有过与不及的倾向。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 320,
+        "paragraph_sha256": "9337fff0552b931116d50bdb6fa2b20fdd9288b4971b0149c53ad66cb9c6c2f7"
+      }
+    ]
+  },
+  {
+    "id": "S12",
+    "title": "中立改述与原文并列校核",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p112",
+        "quote": "每当你要解读某个作家对一个议题的观点时，必须从他自己的文章中引一段话来并列。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 331,
+        "paragraph_sha256": "eec8c8712e10c685dee7c38eec7bce3b2beb860e27852c0a32416995976aeadd"
+      },
+      {
+        "paragraph_id": "ch20-p064",
+        "quote": "重新再阅读相关的章节。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 320,
+        "paragraph_sha256": "e2bc79f41ba55c1e76b50451ccc1ec925f75c95fb92cd4a37a86fbec0d110aa2"
+      },
+      {
+        "paragraph_id": "ch20-p064",
+        "quote": "在总结一个作者的论述时，一定要用这套中立的语言，而不是作者的语言。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 320,
+        "paragraph_sha256": "e2bc79f41ba55c1e76b50451ccc1ec925f75c95fb92cd4a37a86fbec0d110aa2"
+      },
+      {
+        "paragraph_id": "ch20-p064",
+        "quote": "但是伴随着总结，一定要有仔细引用的作者原文，以免对文意有所扭曲，这样阅读者才能自己判断你对作者所作的诠释是否正确。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 320,
+        "paragraph_sha256": "e2bc79f41ba55c1e76b50451ccc1ec925f75c95fb92cd4a37a86fbec0d110aa2"
+      }
+    ]
+  },
+  {
+    "id": "S13",
+    "title": "谨慎把文学作品纳入作者立场比较",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p069",
+        "quote": "我们也读了一些小说或诗，但最后决定以论说性的作品为主。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 321,
+        "paragraph_sha256": "45567e0241294fe4bb6190e394bf3b7588c297dffca0b2ad01abdb2134014724"
+      },
+      {
+        "paragraph_id": "ch20-p069",
+        "quote": "故事的精髓在情节，而非对某个议题所秉持的立场。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 321,
+        "paragraph_sha256": "45567e0241294fe4bb6190e394bf3b7588c297dffca0b2ad01abdb2134014724"
+      },
+      {
+        "paragraph_id": "ch20-p069",
+        "quote": "是作者在利用他的角色对这个议题作出反讽？还是他想要你看到这个观点的愚蠢，而非睿智？",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 321,
+        "paragraph_sha256": "45567e0241294fe4bb6190e394bf3b7588c297dffca0b2ad01abdb2134014724"
+      },
+      {
+        "paragraph_id": "ch20-p069",
+        "quote": "一般来说，要将小说作者的观点列入议题的某一方时，需要作很多很广泛的努力。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 321,
+        "paragraph_sha256": "45567e0241294fe4bb6190e394bf3b7588c297dffca0b2ad01abdb2134014724"
+      }
+    ]
+  },
+  {
+    "id": "S14",
+    "title": "用主题工具书定位而自行解读",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p080",
+        "quote": "因此，你需要的是一本工具书，能告诉你在广泛的资料当中，到哪里去找与你感兴趣的主题相关的章节",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 324,
+        "paragraph_sha256": "770526d731a61515a907930596e0db68d49ee6a2fbaaf115a3c6bb34acd3e7a3"
+      },
+      {
+        "paragraph_id": "ch20-p081",
+        "quote": "这仍然是一套书目的索引（尽管是很大的一套），至于这套书没有包含的其他作品里什么地方可以找到你要的东西，则只有一些粗略的指引。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 325,
+        "paragraph_sha256": "193fa72bcafc7e379423637472a9c84d1c9c9c2e1cbb7919c96713938a2feec3"
+      },
+      {
+        "paragraph_id": "ch20-p084",
+        "quote": "在这些主题上，先阅读来自大量不同作者的一些比较短的章节。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 325,
+        "paragraph_sha256": "ca5f5ad7d66b7b1e33ee8dc910bb2307bcb06302451300a72e87719922e83302"
+      },
+      {
+        "paragraph_id": "ch20-p090",
+        "quote": "主题阅读可以说有两种，一种是单独使用的主题阅读，一种是与主题工具一起并用。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 327,
+        "paragraph_sha256": "086bb70e15e4753f1bf8eb88f6fe5221b17bf0d5037a456cb88a13ee4a58f4eb"
+      }
+    ]
+  },
+  {
+    "id": "S15",
+    "title": "核实篇章与主题的关系并交互比较",
+    "owner": "rules/syntopical.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch20-p087",
+        "quote": "这并不是告诉他这些章节是什么意思，因为一个章节可能从好几个或许多个方向与主题相关。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 326,
+        "paragraph_sha256": "4f69877fb0b883bdac8099d02f3414843be02b876851216a19792a78e849b660"
+      },
+      {
+        "paragraph_id": "ch20-p088",
+        "quote": "有时候我们从同一本书中依照顺序来阅读的章节，以及挑出来比对阅读的章节，相互对照之下可以让我们更了解其中的含意。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 326,
+        "paragraph_sha256": "d5927faaba9300afef97460ab6cbc4e7998762a5d3ceeb9d70f6a7138892d5ad"
+      },
+      {
+        "paragraph_id": "ch20-p088",
+        "quote": "有时候从不同书中摘出来的章节是互相冲突的，但是当你读到彼此冲突的论点时，就会更明白其中的意义了。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 326,
+        "paragraph_sha256": "d5927faaba9300afef97460ab6cbc4e7998762a5d3ceeb9d70f6a7138892d5ad"
+      },
+      {
+        "paragraph_id": "ch20-p089",
+        "quote": "随着读者针对不同的主题要对这些章节进行多少不同的诠释，他会发现这些章节含有丰富的意义。",
+        "epub": "OEBPS/text00023.html",
+        "pdf_page": 327,
+        "paragraph_sha256": "e45464af96213ebe6282947641edc2d25a0df1674df08a05766dbe3009b588f4"
+      }
+    ]
+  },
+  {
+    "id": "S16",
+    "title": "为提高能力选择有要求的好书",
+    "owner": "rules/reading-growth.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch21-p011",
+        "quote": "如果你所读的书都在你的能力范围之内，你就没法提升自己的阅读能力。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 333,
+        "paragraph_sha256": "7f332a925bc8190d488d48b8cf78f6f3b7ee22179677f725e83051ed2c1f53fa"
+      },
+      {
+        "paragraph_id": "ch21-p013",
+        "quote": "总会有些书是跑在你前面的。事实上，这些书就是你要找的书，因为它们能让你变成一个更有技巧的读者。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 334,
+        "paragraph_sha256": "390890fddf17c902d23e7ae6f5d0fdbc35a0637e6f1c9e7481d3b7c52763d214"
+      },
+      {
+        "paragraph_id": "ch21-p014",
+        "quote": "有些读者会有错误的观念，以为那些书——对读者的阅读技巧不断提出挑战的书籍——都是自己不熟悉的领域中的书。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 334,
+        "paragraph_sha256": "09354cf1c8fc57863d813080a165c0a1cc8c66f1c14f6f32673e1733f0a7e591"
+      },
+      {
+        "paragraph_id": "ch21-p015",
+        "quote": "事实上，一本烂书根本不值得你花时间去努力，甚至根本不值得作这样的尝试。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 335,
+        "paragraph_sha256": "f7e126a29ead068a31a63bff991c93ea3a52f738aadd1516bd8c2cf9396825b2"
+      }
+    ]
+  },
+  {
+    "id": "S18",
+    "title": "从兴趣出发形成个人书目",
+    "owner": "rules/reading-growth.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "appendix1-p005",
+        "quote": "最聪明的做法都是从你最感兴趣的书开始读。",
+        "epub": "OEBPS/text00025.html",
+        "pdf_page": 341,
+        "paragraph_sha256": "b48b237d046207f7e5840b48b2f99bef2a38d60429351eefcb7358f08b270082"
+      },
+      {
+        "paragraph_id": "appendix1-p005",
+        "quote": "书单上的书并不是要你在特定时间里读完的。这也不是非要读完所有的书才算完成的挑战。",
+        "epub": "OEBPS/text00025.html",
+        "pdf_page": 341,
+        "paragraph_sha256": "b48b237d046207f7e5840b48b2f99bef2a38d60429351eefcb7358f08b270082"
+      },
+      {
+        "paragraph_id": "appendix1-p006",
+        "quote": "你用不着依时间先后的顺序来读。",
+        "epub": "OEBPS/text00025.html",
+        "pdf_page": 342,
+        "paragraph_sha256": "17c1a03f1821fac1d0adac0431b4b896e9fd7ced9b40fad49c1a6e8509f96b30"
+      },
+      {
+        "paragraph_id": "ch21-p027",
+        "quote": "你该自己去找出对你有特殊价值的书来。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 338,
+        "paragraph_sha256": "64f6da318ac0c128ffc321f2dfc7137ff4beda39ccde3883010915b7e091c47b"
+      },
+      {
+        "paragraph_id": "appendix1-p010",
+        "quote": "这份书单只列出了西方的作品，不包括中国、日本或印度的作品。",
+        "epub": "OEBPS/text00025.html",
+        "pdf_page": 343,
+        "paragraph_sha256": "b4caa56ef7d9c70bc89e5bc731aebd4b71d640baef18085f601023128646c475"
+      },
+      {
+        "paragraph_id": "appendix1-p009",
+        "quote": "在某些例子中，我们承认自己是有些偏见。",
+        "epub": "OEBPS/text00025.html",
+        "pdf_page": 342,
+        "paragraph_sha256": "28f9ab76b51d64ec40d756884afc674712db5fe5700a3287a660227996ea3bbd"
+      }
+    ]
+  },
+  {
+    "id": "S19",
+    "title": "依据未解问题与新发现决定重读",
+    "owner": "rules/reading-growth.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch21-p022",
+        "quote": "如果你确知你错过了什么，身为分析阅读者，就有义务立刻重新打开书来，厘清自己的问题是什么。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 337,
+        "paragraph_sha256": "a313cdb9744d25a51d8bf5e87b1477acc38e80f8830e4ad4a3b834e0e1729374"
+      },
+      {
+        "paragraph_id": "ch21-p022",
+        "quote": "你会发现自己忘不了这本书，一直想着这本书的内容，以及自己的反应。最后，你又重看一次。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 337,
+        "paragraph_sha256": "a313cdb9744d25a51d8bf5e87b1477acc38e80f8830e4ad4a3b834e0e1729374"
+      },
+      {
+        "paragraph_id": "ch21-p024",
+        "quote": "你会在其中看到新的事物——一套套全新的事物——那是你以前没看到的东西。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 337,
+        "paragraph_sha256": "2515d818dc1e91a7153bc2d8f26e4110653354d808b3e18a1049241a16115df2"
+      },
+      {
+        "paragraph_id": "ch21-p026",
+        "quote": "他们的品味不同，同一件事对这个人的意义就大过对另一个人。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 338,
+        "paragraph_sha256": "c69ab56229b1c54e4db32aea316776b2ab64e37d3cbda84fe1f510830665d532"
+      }
+    ]
+  },
+  {
+    "id": "S20",
+    "title": "以理解和能力的变化检视成长",
+    "owner": "rules/reading-growth.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch21-p012",
+        "quote": "你的心智基本上跟过去没什么两样，只是阅读数量改变了，技巧却毫无进步。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 334,
+        "paragraph_sha256": "8d0687323bc3a3e601880bba278477dcb7f0fbd5aa90c9dba4a4ec092fbd9d70"
+      },
+      {
+        "paragraph_id": "ch21-p016",
+        "quote": "当你成功地阅读了一本难读的好书之后，你的阅读技巧必然增进了。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 335,
+        "paragraph_sha256": "98f6561adf7569245479b1bfe336a8ede0fd41abe0931cc76bf4233570178cea"
+      },
+      {
+        "paragraph_id": "ch21-p016",
+        "quote": "一本好书能教你了解这个世界以及你自己。你不只更懂得如何读得更好，还更懂得生命。",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 335,
+        "paragraph_sha256": "98f6561adf7569245479b1bfe336a8ede0fd41abe0931cc76bf4233570178cea"
+      }
+    ]
+  },
+  {
+    "id": "S22",
+    "title": "可用荒岛书单澄清个人阅读价值",
+    "owner": "rules/reading-growth.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "ch21-p029",
+        "quote": "还能带十本书去，你会选哪十本？",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 338,
+        "paragraph_sha256": "5b398c8b00c4f2d79fefab80a7568e939cfbadfe7f270e56a4c3ba4852d0e188"
+      },
+      {
+        "paragraph_id": "ch21-p030",
+        "quote": "试着列这样一份书单是很有指导性的",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 339,
+        "paragraph_sha256": "4ae18ac34f0b9c3bead606ba3f021c8fa9c3cd27b60552939c7c8373c77b8354"
+      },
+      {
+        "paragraph_id": "ch21-p030",
+        "quote": "当你想象自己被隔绝在一个没有娱乐、没有资讯、没有可以理解的一般事物的世界时，比较起来你是否会对自己了解得更多一点？",
+        "epub": "OEBPS/text00024.html",
+        "pdf_page": 339,
+        "paragraph_sha256": "4ae18ac34f0b9c3bead606ba3f021c8fa9c3cd27b60552939c7c8373c77b8354"
+      }
+    ]
+  },
+  {
+    "id": "S23",
+    "title": "抒情诗入门可先读优秀合选集",
+    "owner": "rules/reading-growth.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "appendix1-p011",
+        "quote": "读诗，我们认为从一本好的合选集开始阅读，会比从某一位作者的个人选集开始要好得多。",
+        "epub": "OEBPS/text00025.html",
+        "pdf_page": 343,
+        "paragraph_sha256": "97d52512631d9cbde63ac1c331f7b0efb75cbef12c41957870945ae203fb6a3e"
+      },
+      {
+        "paragraph_id": "appendix1-p011",
+        "quote": "因为阅读抒情诗需要特殊的技巧，我们也介绍了其他相关的指导书籍",
+        "epub": "OEBPS/text00025.html",
+        "pdf_page": 343,
+        "paragraph_sha256": "97d52512631d9cbde63ac1c331f7b0efb75cbef12c41957870945ae203fb6a3e"
+      }
+    ]
+  },
+  {
+    "id": "S25",
+    "title": "将附录测验用于练习而非通用定级",
+    "owner": "rules/understanding-checks.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "appendix2-p010",
+        "quote": "这个附录并不能算是一种综合又密集的练习手册。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 364,
+        "paragraph_sha256": "ee8399b2d3d0604d6043d11bf900cf974d5c4b6c233ae2218fa6ef86d3df76ec"
+      },
+      {
+        "paragraph_id": "appendix2-p011",
+        "quote": "这些问题通常包含了一个以上的适当答案或“正确”答案；种种理由都在说明拿这样的测验来做评分标准是很武断的。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 364,
+        "paragraph_sha256": "dedfef7272ac0fe78fcd26232f076f99c7bec1bbae65bdf7f629e1b28928e166"
+      },
+      {
+        "paragraph_id": "appendix2-p017",
+        "quote": "我们只是要提出一些建议，试着帮助一些自己练习阅读的人增进他们的阅读技巧。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 365,
+        "paragraph_sha256": "dc6e9c2bd89476eddcfd9ba12b6a06043f9eeb748300bc3022772281810f789c"
+      },
+      {
+        "paragraph_id": "appendix2-p016",
+        "quote": "大部分问题可以从文章中直接找到答案。但有些问题要求读者运用他所知的其他资料，才能作出正确的回答。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 365,
+        "paragraph_sha256": "45997463e5c9306be51c76ea63e684221c842d8ca6c5cba7899ec5a59e1fb118"
+      }
+    ]
+  },
+  {
+    "id": "S26",
+    "title": "材料不足时回全书查证自检答案",
+    "owner": "rules/understanding-checks.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "appendix2-p016",
+        "quote": "还有些问题是推论的",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 365,
+        "paragraph_sha256": "45997463e5c9306be51c76ea63e684221c842d8ca6c5cba7899ec5a59e1fb118"
+      },
+      {
+        "paragraph_id": "appendix2-p222",
+        "quote": "只读这个目录，可能很难甚至无法回答这些问题。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 395,
+        "paragraph_sha256": "6ae630545eba86119b802d85dc26c5f34d3520f4862898421216c52a6363bc11"
+      },
+      {
+        "paragraph_id": "appendix2-p285",
+        "quote": "应该借此对全书作进一步的研究，那里的资料会比我们提供的资料更能回答这些问题。最好的答案就在书的本身。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 405,
+        "paragraph_sha256": "e6c61f8a117b7bf51e1892b7c6386ab2b0813c201e38887118329c70a3975093"
+      }
+    ]
+  },
+  {
+    "id": "S27",
+    "title": "节选练习不等于完成完整主题阅读",
+    "owner": "rules/understanding-checks.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "appendix2-p306",
+        "quote": "以这个练习来说，我们假定你已经完成了第一个步骤——也就是已经准备好要讨论的主题是什么，也决定要阅读的是哪些文章了。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 410,
+        "paragraph_sha256": "ab787d1f4593309aa40e58eabe257595079d8dd28dc430a1753789a9f8083785"
+      },
+      {
+        "paragraph_id": "appendix2-p300",
+        "quote": "不过我们也只能提供两位作者的两小段文字。完整的练习牵涉到许多书及作者，还有许多复杂的问题。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 408,
+        "paragraph_sha256": "565468d6aa7eb4ea335ffc0d4285427492639c5afd96a8ec54ef68067c17a4a8"
+      },
+      {
+        "paragraph_id": "appendix2-p383",
+        "quote": "要完全了解这些问题，最好是进一步阅读《政治学》与《社会契约论》这两本书。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 423,
+        "paragraph_sha256": "69501767a09e3f90887dfaace221e5b9dca507a9e1ef12f2adec46d9844c6fec"
+      }
+    ]
+  },
+  {
+    "id": "S28",
+    "title": "对示范解答也回原文验证",
+    "owner": "rules/understanding-checks.md",
+    "merged_from": [],
+    "evidence": [
+      {
+        "paragraph_id": "appendix2-p351",
+        "quote": "如果你对我们提供的任何答案有疑问，试试看能不能从亚里士多德或卢梭中，找到我们提供答案的来源。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 417,
+        "paragraph_sha256": "add9938a5128bfbe8ed55b8c688f6baf768eb4118ae1ee4abe83400fe0b9ff13"
+      },
+      {
+        "paragraph_id": "appendix2-p351",
+        "quote": "如果你对任何一种答案或结论觉得有不同意见，试试看能不能由作者自己的文字中找到你需要的答案。",
+        "epub": "OEBPS/text00026.html",
+        "pdf_page": 417,
+        "paragraph_sha256": "add9938a5128bfbe8ed55b8c688f6baf768eb4118ae1ee4abe83400fe0b9ff13"
+      }
+    ]
+  }
+]

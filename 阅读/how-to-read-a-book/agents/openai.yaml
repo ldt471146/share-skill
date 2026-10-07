@@ -1,0 +1,4 @@
+"interface":
+  "display_name": "如何阅读一本书 · 阅读入口"
+  "short_description": "按原书原则带读与做笔记，按材料转入科研或 GitHub 学习"
+  "default_prompt": "使用 $how-to-read-a-book，根据我的材料和目标选择阅读流程，帮助理解并形成有出处的笔记。"

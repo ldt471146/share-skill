@@ -1,0 +1,349 @@
+{
+  "name": "share-skill",
+  "updated_at": "2026-10-07",
+  "total": 48.0,
+  "categories": [
+    {
+      "category": "工作流-comet",
+      "count": 13,
+      "skills": [
+        {
+          "name": "comet",
+          "path": "工作流-comet/comet",
+          "description": "Comet 工作流入口。当用户明确调用 /comet，或明确要求使用 Comet 但未指定 Native/Classic 时使用；按项目配置加载 Native 或 Classic。",
+          "files": 18
+        },
+        {
+          "name": "comet-any",
+          "path": "工作流-comet/comet-any",
+          "description": "通过 Comet Creator 创建或升级 Comet Classic workflow Skill。不用于一般 Skill 的编写、整理或评审。",
+          "files": 12
+        },
+        {
+          "name": "comet-archive",
+          "path": "工作流-comet/comet-archive",
+          "description": "归档并交付 Classic change。在用户调用 /comet-archive，或 Classic Runtime 进入 Archive、恢复交付时使用。",
+          "files": 2
+        },
+        {
+          "name": "comet-build",
+          "path": "工作流-comet/comet-build",
+          "description": "制定计划、实施并验收 Classic 任务。在用户调用 /comet-build，或 Classic Runtime 进入 Build、返回 Build 修复时使用。",
+          "files": 2
+        },
+        {
+          "name": "comet-classic",
+          "path": "工作流-comet/comet-classic",
+          "description": "Comet Classic 工作流入口。当用户明确调用 /comet-classic、要求启动或恢复 Classic，或 resume-probe 返回 auto_resume、确认唯一可恢复的未归档 Classic change 时使用。",
+          "files": 14
+        },
+        {
+          "name": "comet-design",
+          "path": "工作流-comet/comet-design",
+          "description": "完成 Classic 技术设计并请用户确认。在用户调用 /comet-design，或 Classic Runtime 进入 Design 时使用。",
+          "files": 2
+        },
+        {
+          "name": "comet-hotfix",
+          "path": "工作流-comet/comet-hotfix",
+          "description": "使用 Classic 预设流程修复局部缺陷。在用户明确调用 /comet-hotfix、选择 hotfix，或恢复 workflow: hotfix 时使用。",
+          "files": 2
+        },
+        {
+          "name": "comet-memory",
+          "path": "工作流-comet/comet-memory",
+          "description": "使用于 Comet 需要根据有界语义评审包判断是否值得保存个人记忆、候选、更新、遗忘或跳过时。",
+          "files": 2
+        },
+        {
+          "name": "comet-native",
+          "path": "工作流-comet/comet-native",
+          "description": "Comet Native 工作流。当用户明确调用 /comet-native、要求启动或恢复 Native change，或入口路由到 Native 时使用。",
+          "files": 19
+        },
+        {
+          "name": "comet-open",
+          "path": "工作流-comet/comet-open",
+          "description": "创建 Classic change，整理需求并请用户确认。在用户调用 /comet-open，或 Classic 进入 Open、恢复初始化时使用。",
+          "files": 2
+        },
+        {
+          "name": "comet-review",
+          "path": "工作流-comet/comet-review",
+          "description": "手动审查当前 Comet change 的实现差异，只报告正确性、安全和边界问题，不推进工作流。",
+          "files": 2
+        },
+        {
+          "name": "comet-tweak",
+          "path": "工作流-comet/comet-tweak",
+          "description": "使用 Classic 预设流程完成单个 change 的轻量调整。在用户明确调用 /comet-tweak、选择 tweak，或恢复 workflow: tweak 时使用。",
+          "files": 2
+        },
+        {
+          "name": "comet-verify",
+          "path": "工作流-comet/comet-verify",
+          "description": "验证 Classic change 并记录结果。在用户调用 /comet-verify，或 Classic Runtime 进入 Verify 时使用。",
+          "files": 2
+        }
+      ]
+    },
+    {
+      "category": "工作流-openspec",
+      "count": 11,
+      "skills": [
+        {
+          "name": "openspec-apply-change",
+          "path": "工作流-openspec/openspec-apply-change",
+          "description": "Implement tasks from an OpenSpec change. Use when the user wants to start implementing, continue implementation, or work through tasks.",
+          "files": 1
+        },
+        {
+          "name": "openspec-archive-change",
+          "path": "工作流-openspec/openspec-archive-change",
+          "description": "Archive a completed change in the experimental workflow. Use when the user wants to finalize and archive a change after implementation is complete.",
+          "files": 1
+        },
+        {
+          "name": "openspec-bulk-archive-change",
+          "path": "工作流-openspec/openspec-bulk-archive-change",
+          "description": "Archive multiple completed changes at once. Use when archiving several parallel changes.",
+          "files": 1
+        },
+        {
+          "name": "openspec-continue-change",
+          "path": "工作流-openspec/openspec-continue-change",
+          "description": "Continue working on an OpenSpec change by creating the next artifact. Use when the user wants to progress their change, create the next artifact, or continue their workflow.",
+          "files": 1
+        },
+        {
+          "name": "openspec-explore",
+          "path": "工作流-openspec/openspec-explore",
+          "description": "Enter explore mode - a thinking partner for exploring ideas, investigating problems, and clarifying requirements. Use when the user wants to think through something before or during a change.",
+          "files": 1
+        },
+        {
+          "name": "openspec-ff-change",
+          "path": "工作流-openspec/openspec-ff-change",
+          "description": "Fast-forward through OpenSpec artifact creation. Use when the user wants to quickly create all artifacts needed for implementation without stepping through each one individually.",
+          "files": 1
+        },
+        {
+          "name": "openspec-new-change",
+          "path": "工作流-openspec/openspec-new-change",
+          "description": "Start a new OpenSpec change using the experimental artifact workflow. Use when the user wants to create a new feature, fix, or modification with a structured step-by-step approach.",
+          "files": 1
+        },
+        {
+          "name": "openspec-onboard",
+          "path": "工作流-openspec/openspec-onboard",
+          "description": "Guided onboarding for OpenSpec - walk through a complete workflow cycle with narration and real codebase work.",
+          "files": 1
+        },
+        {
+          "name": "openspec-propose",
+          "path": "工作流-openspec/openspec-propose",
+          "description": "Propose a new change with all artifacts generated in one step. Use when the user wants to quickly describe what they want to build and get a complete proposal with design, specs, and tasks ready for implementation.",
+          "files": 1
+        },
+        {
+          "name": "openspec-sync-specs",
+          "path": "工作流-openspec/openspec-sync-specs",
+          "description": "Sync delta specs from a change to main specs. Use when the user wants to update main specs with changes from a delta spec, without archiving the change.",
+          "files": 1
+        },
+        {
+          "name": "openspec-verify-change",
+          "path": "工作流-openspec/openspec-verify-change",
+          "description": "Verify implementation matches change artifacts. Use when the user wants to validate that implementation is complete, correct, and coherent before archiving.",
+          "files": 1
+        }
+      ]
+    },
+    {
+      "category": "技能建设",
+      "count": 2,
+      "skills": [
+        {
+          "name": "find-skills",
+          "path": "技能建设/find-skills",
+          "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.",
+          "files": 1
+        },
+        {
+          "name": "writing-skills",
+          "path": "技能建设/writing-skills",
+          "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+          "files": 7
+        }
+      ]
+    },
+    {
+      "category": "界面设计",
+      "count": 2,
+      "skills": [
+        {
+          "name": "app-shell-ui",
+          "path": "界面设计/app-shell-ui",
+          "description": ">",
+          "files": 109
+        },
+        {
+          "name": "ui-ux-pro-max",
+          "path": "界面设计/ui-ux-pro-max",
+          "description": "UI/UX design intelligence for web and mobile. Searchable local database with 84 styles, 192 color palettes, 74 font pairings, 192 product types, 98 UX guidelines, 104 icon entries, 16 GSAP motion presets, and 25 chart types across 22 stacks (React, Next.js, Vue, Nuxt, Svelte, Astro, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui, Jetpack Compose, Angular, Laravel, JavaFX, WPF, WinUI, Avalonia, Uno Platform, UWP, Three.js, and HTML/CSS). Use when designing, building, or reviewing UI: pages, components, color schemes, typography, layout, accessibility, animation, or data visualization.",
+          "files": 45
+        }
+      ]
+    },
+    {
+      "category": "开发",
+      "count": 11,
+      "skills": [
+        {
+          "name": "dispatching-parallel-agents",
+          "path": "开发/dispatching-parallel-agents",
+          "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+          "files": 1
+        },
+        {
+          "name": "executing-plans",
+          "path": "开发/executing-plans",
+          "description": "Use when executing an implementation plan in the current session as the implementer yourself — your human partner chose inline execution, or no subagent tool is available",
+          "files": 3
+        },
+        {
+          "name": "finishing-a-development-branch",
+          "path": "开发/finishing-a-development-branch",
+          "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work",
+          "files": 1
+        },
+        {
+          "name": "receiving-code-review",
+          "path": "开发/receiving-code-review",
+          "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+          "files": 1
+        },
+        {
+          "name": "requesting-code-review",
+          "path": "开发/requesting-code-review",
+          "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+          "files": 2
+        },
+        {
+          "name": "subagent-driven-development",
+          "path": "开发/subagent-driven-development",
+          "description": "Use when executing implementation plans with independent tasks in the current session",
+          "files": 7
+        },
+        {
+          "name": "systematic-debugging",
+          "path": "开发/systematic-debugging",
+          "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+          "files": 11
+        },
+        {
+          "name": "test-driven-development",
+          "path": "开发/test-driven-development",
+          "description": "Use when implementing any feature or bugfix, before writing implementation code",
+          "files": 2
+        },
+        {
+          "name": "using-git-worktrees",
+          "path": "开发/using-git-worktrees",
+          "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
+          "files": 1
+        },
+        {
+          "name": "verification-before-completion",
+          "path": "开发/verification-before-completion",
+          "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+          "files": 1
+        },
+        {
+          "name": "writing-plans",
+          "path": "开发/writing-plans",
+          "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+          "files": 2
+        }
+      ]
+    },
+    {
+      "category": "浏览器",
+      "count": 2,
+      "skills": [
+        {
+          "name": "agent-browser-cli",
+          "path": "浏览器/agent-browser-cli",
+          "description": ">",
+          "files": 2
+        },
+        {
+          "name": "browser-defaults",
+          "path": "浏览器/browser-defaults",
+          "description": ">",
+          "files": 1
+        }
+      ]
+    },
+    {
+      "category": "论文",
+      "count": 3,
+      "skills": [
+        {
+          "name": "cnki-search",
+          "path": "论文/cnki-search",
+          "description": ">",
+          "files": 8
+        },
+        {
+          "name": "ieee-paper-download",
+          "path": "论文/ieee-paper-download",
+          "description": ">",
+          "files": 8
+        },
+        {
+          "name": "paper-finder",
+          "path": "论文/paper-finder",
+          "description": "当用户给出题目或关键词，要求在知网找论文、复制知网导出引用、整理参考文献或保存论文页面截图时使用；不用于下载全文或精读论文。",
+          "files": 14
+        }
+      ]
+    },
+    {
+      "category": "阅读",
+      "count": 3,
+      "skills": [
+        {
+          "name": "github-project-learning",
+          "path": "阅读/github-project-learning",
+          "description": ">",
+          "files": 4
+        },
+        {
+          "name": "how-to-read-a-book",
+          "path": "阅读/how-to-read-a-book",
+          "description": ">",
+          "files": 52
+        },
+        {
+          "name": "research-reading",
+          "path": "阅读/research-reading",
+          "description": ">",
+          "files": 4
+        }
+      ]
+    },
+    {
+      "category": "终端与工具",
+      "count": 1,
+      "skills": [
+        {
+          "name": "pebrel-runtime",
+          "path": "终端与工具/pebrel-runtime",
+          "description": "Control the live Pebrel terminal workspace from Codex or Claude Code. Use whenever the user asks to split panes, open a tab or file, run a command in another pane, start or prompt Codex/Claude, delegate a task to another agent, read output, wait for an agent, or says 分屏、开一个 Codex/Claude、打开 README、在上面/下面/左边/右边操作、把这个任务派给 Codex/Claude、让 codex 去改、问问另一个 agent、看看它跑完了没. Run `pebrel env` to orient, then use the supported Runtime API immediately instead of scanning processes or source code.",
+          "files": 3
+        }
+      ]
+    }
+  ]
+}

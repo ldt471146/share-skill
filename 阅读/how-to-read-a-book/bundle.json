@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "version": "2.0.1",
+  "entry_skill": "how-to-read-a-book",
+  "skills": ["how-to-read-a-book", "research-reading", "github-project-learning"],
+  "shared_rules_owner": "how-to-read-a-book",
+  "source_rule_count": 125,
+  "removed_rule_ids": ["G32", "G33", "G34", "G51", "G52", "G53", "G54"]
+}
